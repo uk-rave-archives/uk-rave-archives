@@ -1,0 +1,12 @@
+{
+  "build": "UK_Rave_Archives_v2_3_RELATIONSHIP_ENGINE",
+  "created": "2026-07-01T17:23:03",
+  "source": "UK_Rave_Archives_v2_2_HELTER_SKELTER_LIVE_IMPORT.zip",
+  "added": [
+    "relationships",
+    "event record",
+    "person records",
+    "venue record",
+    "relationship-register.json"
+  ]
+}
