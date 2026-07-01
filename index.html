@@ -1,48 +1,83 @@
 <!doctype html>
 <html>
 <head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>UK Rave Archives v1.0 Recovery Clean</title>
-<link rel="stylesheet" href="assets/css/ukra-master.css">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>UK Rave Archives</title>
+<link rel="stylesheet" href="assets/css/ukra-public.css">
 </head>
 <body>
-<div class="wrap">
-<nav class="nav">
-<a href="index.html">Home</a>
-<a href="dashboard/index.html">Dashboard</a>
-<a href="collections/tape-packs/index.html">Tape Packs</a>
-<a href="collections/artists/mark-breeze.html">Mark Breeze</a>
-<a href="docs/release/RECOVERY_CLEAN_REPORT.md">Report</a>
-</nav>
-<section class="hero">
-<h1>UK Rave Archives</h1>
-<p>v1.0 Recovery Clean Phase 3 — link-repaired laptop test candidate.</p>
-<p><span class="badge">Research</span><span class="badge">Verify</span><span class="badge">Build</span><span class="badge">Audit</span></p>
-</section>
-<div class="status">
-<strong>Testing:</strong> unzip and open <code>index.html</code>.<br>
-Archive.org tools need internet access. No audio is copied or hosted.
-</div>
-<section class="grid"><a class="card" href="dashboard/index.html"><h2>Museum Dashboard</h2><p>Archive health, research readiness, missing dates, artwork gaps and priorities.</p></a>
-<a class="card" href="collections/tape-packs/archiveorg-verified-database-v2.html"><h2>Archive.org Verified Tape Database V2</h2><p>Archive.org verified digital source records, tape packs, events, artists and duplicate candidates.</p></a>
-<a class="card" href="collections/tape-packs/universal-archiveorg-import-engine.html"><h2>Universal Archive.org Import Engine</h2><p>Import any Archive.org rave/tape-pack collection into museum research records.</p></a>
-<a class="card" href="collections/tape-packs/full-archiveorg-importer.html"><h2>Full Archive.org Importer V2</h2><p>Full importer for recordings, artwork, documents and verification queues.</p></a>
-<a class="card" href="collections/tape-packs/helter-skelter-database.html"><h2>Helter Skelter Database V1</h2><p>Helter Skelter-specific database builder.</p></a>
-<a class="card" href="collections/tape-packs/helter-skelter-importer.html"><h2>Legacy Filename Importer</h2><p>Simple metadata importer and CSV/JSON exporter.</p></a>
-<a class="card" href="collections/artists/mark-breeze.html"><h2>Mark Breeze Research Exhibit</h2><p>Research-first exhibit with source tracking and no AI media.</p></a>
-<a class="card" href="dj-alfredo.html"><h2>DJ Alfredo</h2><p>History page carried into the clean build.</p></a>
-<a class="card" href="shoom.html"><h2>Shoom</h2><p>History page carried into the clean build.</p></a>
-<a class="card" href="ibiza.html"><h2>Ibiza</h2><p>History page carried into the clean build.</p></a>
-<a class="card" href="chicago.html"><h2>Chicago</h2><p>History page carried into the clean build.</p></a></section>
-<section class="panel">
-<h2>Recovery Clean Status</h2>
-<table>
-<tr><th>Item</th><th>Result</th></tr>
-<tr><td>Canonical public files copied</td><td>110</td></tr>
-<tr><td>Legacy files preserved</td><td>777</td></tr>
-<tr><td>Public broken links after Phase 3</td><td>0</td></tr>
-</table>
-</section>
-</div>
+<header class="topbar">
+  <nav class="nav">
+    <a class="brand" href="index.html">
+      <img src="clean-sun-logo.png" alt="UK Rave Archives logo">
+      <span>UK Rave Archives</span>
+    </a>
+    <div class="navlinks">
+      <a href="collections/tape-packs/index.html">Tape Packs</a>
+      <a href="collections/djs/index.html">DJs</a>
+      <a href="collections/mcs/index.html">MCs</a>
+      <a href="collections/events/index.html">Events</a>
+      <a href="collections/venues/index.html">Venues</a>
+      <a href="collections/history/index.html">History</a>
+      <a href="dashboard/index.html">Dashboard</a>
+    </div>
+  </nav>
+</header>
+
+<main class="wrap">
+  <section class="hero">
+    <div>
+      <div class="kicker">Digital Museum of UK Rave Culture</div>
+      <h1>UK Rave Archives</h1>
+      <p>A living archive for DJs, MCs, promoters, venues, events, tape packs, flyers and stories from the UK rave scene.</p>
+      <div class="ctas">
+        <a class="btn" href="collections/tape-packs/index.html">Explore Tape Packs</a>
+        <a class="btn secondary" href="dashboard/index.html">Open Museum Dashboard</a>
+      </div>
+    </div>
+    <aside class="hero-card">
+      <div class="kicker">Recovery Build Online</div>
+      <h2 style="color:var(--gold);margin:12px 0 8px">Foundation Live</h2>
+      <p style="color:#ccc;line-height:1.5">The project is now publishing through GitHub Pages. From here, all updates go into one master website.</p>
+      <div class="stat-grid">
+        <div class="stat"><span>Status</span><strong>Live</strong></div>
+        <div class="stat"><span>Links</span><strong>0</strong><small>broken public links</small></div>
+        <div class="stat"><span>Workflow</span><strong>R→V</strong><small>Research then Verify</small></div>
+        <div class="stat"><span>Audio</span><strong>IA</strong><small>Archive.org links only</small></div>
+      </div>
+    </aside>
+  </section>
+
+  <section class="notice">
+    <strong>Current phase:</strong> Recovery complete enough for online testing. The public museum pages are now being shaped from the recovered master source.
+  </section>
+
+  <section class="section">
+    <h2>Collections</h2>
+    <p class="lead">The museum is organised around connected collections: artists, events, venues, promoters, recordings, flyers and historical research.</p>
+    <div class="grid">
+      <a class="card" href="collections/tape-packs/index.html"><h3>Tape Packs</h3><p>Archive.org verified tools, Helter Skelter database, importers and recording records.</p></a>
+      <a class="card" href="collections/djs/index.html"><h3>DJs</h3><p>Artist pages and appearance records. Mark Breeze and DJ Alfredo are currently in the recovered build.</p></a>
+      <a class="card" href="collections/mcs/index.html"><h3>MCs</h3><p>Framework ready for MC profiles, event appearances and tape-pack links.</p></a>
+      <a class="card" href="collections/events/index.html"><h3>Events</h3><p>Framework ready for event records, flyers, venues and linked recordings.</p></a>
+      <a class="card" href="collections/venues/index.html"><h3>Venues</h3><p>Framework ready for club and venue pages including Blue Note, Shoom and more.</p></a>
+      <a class="card" href="collections/history/index.html"><h3>History</h3><p>Shoom, Ibiza, Chicago and DJ Alfredo pages are included for review.</p></a>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>Research Tools</h2>
+    <div class="grid">
+      <a class="card" href="collections/tape-packs/archiveorg-verified-database-v2.html"><h3>Archive.org Verified Database</h3><p>Creates verified digital source records from Archive.org metadata.</p></a>
+      <a class="card" href="collections/tape-packs/universal-archiveorg-import-engine.html"><h3>Universal Import Engine</h3><p>Import any Archive.org rave or tape-pack collection.</p></a>
+      <a class="card" href="dashboard/index.html"><h3>Museum Dashboard</h3><p>Track archive health, missing data, verification and priorities.</p></a>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <p><strong>UK Rave Archives</strong> — Research → Verify → Build → Audit.</p>
+  </footer>
+</main>
 </body>
 </html>
