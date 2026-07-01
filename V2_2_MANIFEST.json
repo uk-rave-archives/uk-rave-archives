@@ -1,0 +1,16 @@
+{
+  "build": "UK_Rave_Archives_v2_2_HELTER_SKELTER_LIVE_IMPORT",
+  "created": "2026-07-01T16:20:58",
+  "source": {
+    "name": "Helter Skelter Tape Packs",
+    "archive_id": "helter-skelter-tape-packs",
+    "url": "https://archive.org/details/helter-skelter-tape-packs",
+    "status": "Archive.org verified digital source; museum verification still requires inlay/flyer/audio/rights review."
+  },
+  "what_changed": [
+    "Added /packs/helter-skelter/ live Archive.org import page.",
+    "Updated /packs/ landing page to feature Helter Skelter.",
+    "Added recording table, detected artist cards and JSON export.",
+    "No audio copied or hosted; all play/download links point to Archive.org."
+  ]
+}
