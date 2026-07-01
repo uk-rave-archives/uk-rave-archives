@@ -1,0 +1,7 @@
+{
+  "build": "UK_Rave_Archives_v2_5_TEMPLATE_STABILITY_FIX",
+  "created": "2026-07-01T18:49:35",
+  "source": "UK_Rave_Archives_v2_4_FOUNDATION_POLISH.zip",
+  "purpose": "Rebuild main pages with one stable template to prevent layout drift.",
+  "upload": "Upload the whole contents to GitHub."
+}
