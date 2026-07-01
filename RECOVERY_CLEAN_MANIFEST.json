@@ -1,0 +1,57 @@
+{
+  "build": "UK_Rave_Archives_v1_0_RECOVERY_CLEAN",
+  "created": "2026-07-01T05:20:37",
+  "source": "UK_Rave_Archives_v1_0_MASTER_SOURCE.zip",
+  "canonical_public_files": 110,
+  "legacy_files_preserved": 777,
+  "public_html_pages": 19,
+  "broken_links_before_placeholders": 16,
+  "broken_links_after_placeholders": 11,
+  "broken_links_remaining": [
+    {
+      "from": "dj-alfredo.html",
+      "to": "${esc(x[k])}"
+    },
+    {
+      "from": "dj-alfredo.html",
+      "to": "${esc(link)}"
+    },
+    {
+      "from": "ibiza.html",
+      "to": "${esc(x[k])}"
+    },
+    {
+      "from": "ibiza.html",
+      "to": "${esc(link)}"
+    },
+    {
+      "from": "ibiza.html",
+      "to": "${esc(link)}"
+    },
+    {
+      "from": "ibiza.html",
+      "to": "${esc(x["
+    },
+    {
+      "from": "collections/artists/index.html",
+      "to": "../../assets/css/homepage-v3.css"
+    },
+    {
+      "from": "collections/artists/mark-breeze.html",
+      "to": "../../assets/css/homepage-v3.css"
+    },
+    {
+      "from": "collections/artists/mark-breeze.html",
+      "to": "../../assets/css/verification-badges.css"
+    },
+    {
+      "from": "collections/tape-packs/full-archiveorg-importer.html",
+      "to": "../../assets/css/homepage-v3.css"
+    },
+    {
+      "from": "collections/tape-packs/helter-skelter-database.html",
+      "to": "../../assets/css/homepage-v3.css"
+    }
+  ],
+  "rule": "This is now the master source. Future changes patch this build only."
+}

@@ -1,17 +1,48 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Venues — Ibiza Museum</title><link rel="stylesheet" href="../../assets/css/style.css"></head><body><header class="header">
-<a class="brand" href="../../index.html">Back To The <span>Old Skool</span> Rave Clips</a>
-<button class="menu" onclick="toggleMenu()">☰</button>
-<nav id="nav" class="nav">
-<a href="../../index.html">Home</a>
-<a class="active" href="../../ibiza/index.html">Ibiza</a>
-<a href="../../chicago/index.html">Chicago</a>
-<a href="../../shoom/index.html">Shoom</a>
-<a href="../../archive/index.html">Archive</a>
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>UK Rave Archives v1.0 Recovery Clean</title>
+<link rel="stylesheet" href="assets/css/ukra-master.css">
+</head>
+<body>
+<div class="wrap">
+<nav class="nav">
+<a href="index.html">Home</a>
+<a href="dashboard/index.html">Dashboard</a>
+<a href="collections/tape-packs/index.html">Tape Packs</a>
+<a href="collections/artists/mark-breeze.html">Mark Breeze</a>
+<a href="docs/release/RECOVERY_CLEAN_REPORT.md">Report</a>
 </nav>
-</header><section class="hero" style="--hero:url('https://commons.wikimedia.org/wiki/Special:FilePath/Amnesia_Ibiza_Crowd_8.jpg')"><div class="heroInner"><div class="kicker">Ibiza Museum</div><h1>Venues<span>Archive</span></h1><p>All Ibiza venue profiles.</p></div></section><main><section class="panel"><div class="controls"><input id="searchBox" oninput="filterCards()" placeholder="Search Venues..."></div><div id="cards" class="cards"></div></section></main><script>window.addEventListener('load',()=>{document.getElementById('cards').innerHTML=(IBIZA.venues||[]).map(itemCard).join('');});</script><footer><div class="footerInner">
-<div><h3>Back To The Old Skool Rave Clips</h3><p>Preserving old skool dance memories and building a permanent UK rave culture archive.</p></div>
-<div><h4>Explore</h4><p>People</p><p>Venues</p><p>Music</p></div>
-<div><h4>Archive</h4><p>Sources</p><p>Videos</p><p>Timeline</p></div>
-<div><h4>Collections</h4><p>Ibiza</p><p>Chicago</p><p>Shoom</p></div>
-<div><h4>Private Build</h4><p>Private work-in-progress build. Do not publish yet.</p></div>
-</div></footer><div class="copy">© 2024 Back To The Old Skool Rave Clips. All rights reserved.</div><script src="../../assets/data/ibiza.js"></script><script src="../../assets/js/app.js"></script></body></html>
+<section class="hero">
+<h1>UK Rave Archives</h1>
+<p>v1.0 Recovery Clean Phase 3 — link-repaired laptop test candidate.</p>
+<p><span class="badge">Research</span><span class="badge">Verify</span><span class="badge">Build</span><span class="badge">Audit</span></p>
+</section>
+<div class="status">
+<strong>Testing:</strong> unzip and open <code>index.html</code>.<br>
+Archive.org tools need internet access. No audio is copied or hosted.
+</div>
+<section class="grid"><a class="card" href="dashboard/index.html"><h2>Museum Dashboard</h2><p>Archive health, research readiness, missing dates, artwork gaps and priorities.</p></a>
+<a class="card" href="collections/tape-packs/archiveorg-verified-database-v2.html"><h2>Archive.org Verified Tape Database V2</h2><p>Archive.org verified digital source records, tape packs, events, artists and duplicate candidates.</p></a>
+<a class="card" href="collections/tape-packs/universal-archiveorg-import-engine.html"><h2>Universal Archive.org Import Engine</h2><p>Import any Archive.org rave/tape-pack collection into museum research records.</p></a>
+<a class="card" href="collections/tape-packs/full-archiveorg-importer.html"><h2>Full Archive.org Importer V2</h2><p>Full importer for recordings, artwork, documents and verification queues.</p></a>
+<a class="card" href="collections/tape-packs/helter-skelter-database.html"><h2>Helter Skelter Database V1</h2><p>Helter Skelter-specific database builder.</p></a>
+<a class="card" href="collections/tape-packs/helter-skelter-importer.html"><h2>Legacy Filename Importer</h2><p>Simple metadata importer and CSV/JSON exporter.</p></a>
+<a class="card" href="collections/artists/mark-breeze.html"><h2>Mark Breeze Research Exhibit</h2><p>Research-first exhibit with source tracking and no AI media.</p></a>
+<a class="card" href="dj-alfredo.html"><h2>DJ Alfredo</h2><p>History page carried into the clean build.</p></a>
+<a class="card" href="shoom.html"><h2>Shoom</h2><p>History page carried into the clean build.</p></a>
+<a class="card" href="ibiza.html"><h2>Ibiza</h2><p>History page carried into the clean build.</p></a>
+<a class="card" href="chicago.html"><h2>Chicago</h2><p>History page carried into the clean build.</p></a></section>
+<section class="panel">
+<h2>Recovery Clean Status</h2>
+<table>
+<tr><th>Item</th><th>Result</th></tr>
+<tr><td>Canonical public files copied</td><td>110</td></tr>
+<tr><td>Legacy files preserved</td><td>777</td></tr>
+<tr><td>Public broken links after Phase 3</td><td>0</td></tr>
+</table>
+</section>
+</div>
+</body>
+</html>
