@@ -1,0 +1,8 @@
+{
+  "build": "UK_Rave_Archives_v1_0_4_SIMPLE_GITHUB_UPLOAD",
+  "created": "2026-07-01T15:14:36",
+  "purpose": "Inline homepage CSS so the GitHub Pages homepage works even if CSS folders are not uploaded correctly.",
+  "minimum_upload": [
+    "index.html"
+  ]
+}
