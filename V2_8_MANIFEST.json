@@ -1,0 +1,22 @@
+{
+  "build": "UK_Rave_Archives_v2_8_PUBLIC_ARCHIVE_PAGES",
+  "created": "2026-07-01T20:24:22",
+  "source": "UK_Rave_Archives_v2_7_PHASE_B_C_REGROUP_BUILD.zip",
+  "added": [
+    "public archive pages",
+    "clickable DJ and MC profile pages",
+    "public search",
+    "admin tools moved off homepage"
+  ],
+  "seed_counts": {
+    "djs": 38,
+    "mcs": 18,
+    "events": 10,
+    "venues": 15,
+    "packs": 12,
+    "flyers": 8,
+    "labels": 13,
+    "radio": 8,
+    "stories": 9
+  }
+}
