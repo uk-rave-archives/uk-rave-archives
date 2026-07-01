@@ -1,0 +1,16 @@
+{
+  "build": "UK_Rave_Archives_v2_9_FLAT_PUBLIC_CLICK_TEST",
+  "created": "2026-07-01T20:45:47",
+  "purpose": "Flat HTML links so GitHub web upload can be tested without folder/link issues.",
+  "seed_counts": {
+    "DJs": 38,
+    "MCs": 18,
+    "Events": 10,
+    "Venues": 15,
+    "Tape Packs": 12,
+    "Flyers": 8,
+    "Labels": 13,
+    "Radio": 8,
+    "Stories": 9
+  }
+}
