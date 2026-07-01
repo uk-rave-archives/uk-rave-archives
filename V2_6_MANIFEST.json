@@ -1,0 +1,12 @@
+{
+  "build": "UK_Rave_Archives_v2_6_MUSEUM_CATALOGUE_CORE",
+  "created": "2026-07-01T19:12:39",
+  "source": "UK_Rave_Archives_v2_5_TEMPLATE_STABILITY_FIX.zip",
+  "added": [
+    "catalogue",
+    "search",
+    "eras",
+    "queue",
+    "museum-catalogue.json"
+  ]
+}
