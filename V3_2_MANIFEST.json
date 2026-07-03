@@ -1,0 +1,20 @@
+{
+  "build": "UK_Rave_Archives_v3_2_COLLECTIONS_EXPANSION",
+  "created": "2026-07-03T11:16:08",
+  "added": [
+    "Six core collection exhibits",
+    "Updated Tape Packs page",
+    "Updated Events page",
+    "Updated homepage",
+    "Collection cross-links",
+    "Timeline panels"
+  ],
+  "collections": [
+    "Helter Skelter",
+    "Dreamscape",
+    "Fantazia",
+    "United Dance",
+    "Raindance",
+    "Club Kinetic"
+  ]
+}
