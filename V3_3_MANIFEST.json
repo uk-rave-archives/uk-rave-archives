@@ -1,0 +1,27 @@
+{
+  "build": "UK_Rave_Archives_v3_3_PEOPLE_MUSEUM",
+  "created": "2026-07-03T13:43:17",
+  "added": [
+    "Structured People Museum profiles",
+    "Updated People page",
+    "Updated DJs page",
+    "Updated MCs page",
+    "Updated homepage",
+    "Updated search page",
+    "Connected collections/events/related people on profiles"
+  ],
+  "people_records": [
+    "Hixxy",
+    "Slipmatt",
+    "Dougal",
+    "Vibes",
+    "Sy",
+    "Carl Cox",
+    "Ellis Dee",
+    "Grooverider",
+    "Fabio",
+    "MC GQ",
+    "MC Sharkey",
+    "MC Magika"
+  ]
+}
