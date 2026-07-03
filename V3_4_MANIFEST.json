@@ -1,0 +1,19 @@
+{
+  "build": "UK_Rave_Archives_v3_4_EVENT_MUSEUM",
+  "created": "2026-07-03T15:09:30",
+  "based_on": "UK_Rave_Archives_v3_1_PHASE_B_MORE_COLLECTIONS.zip",
+  "added": [
+    "six event museum records",
+    "updated events page",
+    "homepage event museum feature",
+    "event related-record panels"
+  ],
+  "event_records": [
+    "Helter Skelter - Energy",
+    "Dreamscape 27",
+    "Fantazia - Fairy Tales",
+    "United Dance 3",
+    "Raindance - Early Era",
+    "Club Kinetic - Hardcore"
+  ]
+}
