@@ -1,0 +1,20 @@
+{
+  "build": "UK_Rave_Archives_v3_6_3_7_TAPE_PACK_AND_FLYER_MUSEUM",
+  "created": "2026-07-04T00:00:44",
+  "based_on": "UK_Rave_Archives_v3_5B_EXPANDED_VENUE_MUSEUM.zip",
+  "type": "full site package",
+  "added": [
+    "Tape Pack Museum",
+    "Flyer Museum",
+    "36 tape pack records",
+    "36 flyer records",
+    "artwork placeholders",
+    "image/source/credit fields",
+    "links to collections, venues, DJs and MCs",
+    "homepage updated with both new museum wings"
+  ],
+  "counts": {
+    "tape_pack_records": 36,
+    "flyer_records": 36
+  }
+}
