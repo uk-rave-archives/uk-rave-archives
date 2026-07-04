@@ -1,0 +1,30 @@
+{
+  "build": "UK_Rave_Archives_v3_5B_EXPANDED_VENUE_MUSEUM",
+  "created": "2026-07-03T23:52:53",
+  "based_on": "UK_Rave_Archives_v3_5_FULL_SITE_VENUE_MUSEUM.zip",
+  "type": "full site package",
+  "added": [
+    "12 venue museum records",
+    "expanded venue index",
+    "related venue network",
+    "gallery and credit system placeholders",
+    "venue links to events, DJs, MCs and collections",
+    "homepage expanded venue feature",
+    "event pages linked back to venue museum where possible"
+  ],
+  "venue_count": 12,
+  "venues": [
+    "The Sanctuary",
+    "Bagleys",
+    "Lakota",
+    "Sterns",
+    "Club Labyrinth",
+    "The Eclipse",
+    "Club Kinetic",
+    "Sanctuary Arena",
+    "The Que Club",
+    "Donington Park",
+    "Bowlers",
+    "Crystal Palace Bowl"
+  ]
+}

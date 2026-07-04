@@ -1,0 +1,24 @@
+{
+  "build": "UK_Rave_Archives_v3_5_FULL_SITE_VENUE_MUSEUM",
+  "created": "2026-07-03T23:36:27",
+  "based_on": "UK_Rave_Archives_v3_4_EVENT_MUSEUM.zip",
+  "type": "full site package",
+  "added": [
+    "complete site package",
+    "Venue Museum index",
+    "8 venue exhibit pages",
+    "gallery and credit placeholders",
+    "venue connected events, DJs, MCs and collections",
+    "homepage Venue Museum feature"
+  ],
+  "venues": [
+    "The Sanctuary",
+    "Bagleys",
+    "Lakota",
+    "Sterns",
+    "Club Labyrinth",
+    "The Eclipse",
+    "Club Kinetic",
+    "Sanctuary Arena"
+  ]
+}
