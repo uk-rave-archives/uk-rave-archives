@@ -1,0 +1,18 @@
+{
+  "build": "UK_Rave_Archives_v4_0A_SAFE_HOMEPAGE_TEST",
+  "created": "2026-07-04T08:53:29",
+  "based_on": "UK_Rave_Archives_v3_9_VISUAL_MUSEUM_START.zip",
+  "folder_file_counts": {
+    ".": 17,
+    "people-records": 56,
+    "tape-packs": 36,
+    "flyer-records": 36,
+    "event-records": 6,
+    "venue-records": 12,
+    "collections": 4,
+    "data": 9,
+    "assets": 0,
+    "assets/images": 16
+  },
+  "max_folder_count": 56
+}

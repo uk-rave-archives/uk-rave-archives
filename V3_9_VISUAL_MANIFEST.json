@@ -1,0 +1,27 @@
+{
+  "build": "UK_Rave_Archives_v3_9_VISUAL_MUSEUM_START",
+  "created": "2026-07-04T00:24:51",
+  "based_on": "UK_Rave_Archives_v3_8_99_FILE_SAFE_STRUCTURE.zip",
+  "added": [
+    "asset image folder",
+    "16 archive-style SVG placeholder images",
+    "visual homepage",
+    "image cards for main museum sections",
+    "visual banners for packs, flyers, venues and events",
+    "gallery placeholder sections on record pages",
+    "credit/source notes for future real images"
+  ],
+  "folder_file_counts": {
+    ".": 15,
+    "people-records": 56,
+    "tape-packs": 36,
+    "flyer-records": 36,
+    "event-records": 6,
+    "venue-records": 12,
+    "collections": 4,
+    "data": 8,
+    "assets": 0,
+    "assets/images": 16
+  },
+  "max_folder_count": 56
+}
