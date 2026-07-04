@@ -1,0 +1,6 @@
+- [ ] Deploy green
+- [ ] Homepage loads
+- [ ] Navigation works
+- [ ] Stats show
+- [ ] Featured links work
+- [ ] Mobile layout ok
