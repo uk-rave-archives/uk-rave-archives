@@ -1,0 +1,9 @@
+- [ ] Deploy green
+- [ ] Homepage opens
+- [ ] Tape Packs opens
+- [ ] Helter Skelter Energy opens
+- [ ] Gallery anchor works
+- [ ] Audio anchor works
+- [ ] Credits anchor works
+- [ ] Venue link works
+- [ ] No 404s
