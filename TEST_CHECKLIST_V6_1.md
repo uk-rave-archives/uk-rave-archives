@@ -1,0 +1,8 @@
+- [ ] Deploy green
+- [ ] Homepage opens
+- [ ] Tape Packs opens
+- [ ] Helter Skelter Tape Packs opens
+- [ ] Internet Archive player appears
+- [ ] Audio can play from embedded player
+- [ ] Source/download button opens Internet Archive
+- [ ] No 404s
