@@ -1,6 +1,7 @@
 {
-  "build": "v6.1 real archive embed test",
-  "created": "2026-07-05T15:13:56",
+  "build": "v6.2 restore museum homepage",
+  "created": "2026-07-05T15:29:09",
+  "purpose": "Restore approved museum homepage design and preserve real archive embed page.",
   "broken_links": 0,
   "details": []
 }
