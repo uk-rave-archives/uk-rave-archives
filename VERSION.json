@@ -1,10 +1,5 @@
 {
-  "build": "UK_Rave_Archives_v5_2B_TAPE_PACK_COLLECTIONS_UPGRADE",
-  "created": "2026-07-05T00:26:12",
-  "based_on": "UK_Rave_Archives_v5_1A_INDEX_ONLY_VISUAL_TEST.zip",
-  "changed_files": [
-    "packs.html"
-  ],
+  "build": "v5.1",
   "broken_links": 0,
-  "broken_link_details": []
+  "details": []
 }

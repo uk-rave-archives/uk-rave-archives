@@ -1,0 +1,7 @@
+- [ ] Deploy green
+- [ ] Homepage loads
+- [ ] Tape Packs opens
+- [ ] Helter Skelter – Energy opens
+- [ ] Audio Status anchor works
+- [ ] Credits anchor works
+- [ ] No 404s
