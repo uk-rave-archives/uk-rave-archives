@@ -1,7 +1,24 @@
 {
-  "build": "v6.2 restore museum homepage",
-  "created": "2026-07-05T15:29:09",
-  "purpose": "Restore approved museum homepage design and preserve real archive embed page.",
+  "build": "v6.3 tape packs media pass",
+  "created": "2026-07-05T15:55:19",
+  "changed_pages": [
+    "packs.html",
+    "helter-skelter-tape-packs.html",
+    "pack-helter-skelter-energy.html"
+  ],
+  "locked_pages": [
+    "index.html",
+    "people.html",
+    "djs.html",
+    "mcs.html",
+    "events.html",
+    "venues.html",
+    "flyers.html",
+    "labels.html",
+    "radio.html",
+    "stories.html",
+    "search.html"
+  ],
   "broken_links": 0,
   "details": []
 }
