@@ -1,24 +1,10 @@
 {
-  "build": "v6.3 tape packs media pass",
-  "created": "2026-07-05T15:55:19",
+  "build": "v6.3A homepage header fix",
+  "created": "2026-07-05T16:07:18",
   "changed_pages": [
-    "packs.html",
-    "helter-skelter-tape-packs.html",
-    "pack-helter-skelter-energy.html"
+    "index.html"
   ],
-  "locked_pages": [
-    "index.html",
-    "people.html",
-    "djs.html",
-    "mcs.html",
-    "events.html",
-    "venues.html",
-    "flyers.html",
-    "labels.html",
-    "radio.html",
-    "stories.html",
-    "search.html"
-  ],
+  "reason": "Remove duplicate homepage header introduced in v6.3",
   "broken_links": 0,
   "details": []
 }
