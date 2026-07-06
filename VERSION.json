@@ -1,10 +1,43 @@
 {
-  "build": "v6.3A homepage header fix",
-  "created": "2026-07-05T16:07:18",
+  "build": "v6.4 flyer archive museum page",
+  "created": "2026-07-05T22:18:08",
   "changed_pages": [
-    "index.html"
+    "flyers.html"
   ],
-  "reason": "Remove duplicate homepage header introduced in v6.3",
+  "added_images": [
+    "flyer-museum-01.jpg",
+    "flyer-museum-02.jpg",
+    "flyer-museum-03.jpg",
+    "flyer-museum-04.jpg",
+    "flyer-museum-05.jpg",
+    "flyer-museum-06.jpg",
+    "flyer-museum-07.jpg",
+    "flyer-museum-08.jpg",
+    "flyer-museum-09.jpg",
+    "flyer-museum-10.jpg",
+    "flyer-museum-11.jpg",
+    "flyer-museum-12.jpg",
+    "flyer-museum-13.jpg",
+    "flyer-museum-14.jpg",
+    "flyer-museum-15.jpg"
+  ],
+  "locked_pages": [
+    "index.html",
+    "packs.html",
+    "people.html",
+    "djs.html",
+    "mcs.html",
+    "events.html",
+    "venues.html",
+    "labels.html",
+    "radio.html",
+    "stories.html",
+    "search.html"
+  ],
   "broken_links": 0,
-  "details": []
+  "missing_images": 0,
+  "details": {
+    "broken_links": [],
+    "missing_images": []
+  }
 }
