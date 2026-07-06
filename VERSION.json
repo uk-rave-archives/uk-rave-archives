@@ -1,11 +1,11 @@
 {
-  "build": "v6.5 flyer gallery expansion",
-  "created": "2026-07-06T16:05:38",
-  "changed_pages": [
-    "flyers.html"
-  ],
-  "new_images_added": 20,
-  "total_flyer_images_live": 35,
+  "build": "v6.6 flyer research links credits",
+  "created": "2026-07-06T17:07:45",
+  "flyer_records": 10,
+  "people_linked": 72,
+  "venues_linked": 9,
+  "promoters_linked": 10,
+  "credit": "James Scrimgeour \u2014 RaverFlyerMan, TikTok @raveflyers",
   "broken_links": 0,
   "missing_images": 0,
   "details": {
