@@ -1,13 +1,10 @@
 {
-  "build": "v6.6 flyer research links credits",
-  "created": "2026-07-06T17:07:45",
+  "build": "v6.7 flyer museum records",
+  "created": "2026-07-07T04:01:20",
   "flyer_records": 10,
-  "people_linked": 72,
-  "venues_linked": 9,
-  "promoters_linked": 10,
-  "credit": "James Scrimgeour \u2014 RaverFlyerMan, TikTok @raveflyers",
   "broken_links": 0,
   "missing_images": 0,
+  "credit": "James Scrimgeour \u2014 RaverFlyerMan, TikTok @raveflyers",
   "details": {
     "broken_links": [],
     "missing_images": []
