@@ -1,0 +1,10 @@
+- [ ] Deploy green
+- [ ] Homepage unchanged
+- [ ] Tape Packs opens
+- [ ] Tape artwork is smaller/sharper
+- [ ] Listen buttons are clearer
+- [ ] Helter Skelter player page opens
+- [ ] Archive player displays
+- [ ] Source/download button works
+- [ ] No broken images
+- [ ] No 404s
