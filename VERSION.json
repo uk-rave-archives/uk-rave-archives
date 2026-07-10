@@ -1,12 +1,10 @@
 {
-  "build": "v7.0 recovery flyer import",
-  "base_file": "UK_Rave_Archives_v6_9_TAPE_PACK_PLAYER_LAYOUT_FIX(1).zip",
-  "created": "2026-07-10T14:12:59",
-  "changed_pages": [
-    "flyers.html"
-  ],
-  "locked_pages": "all other existing pages",
-  "imported_flyers": 244,
+  "build": "Phase 3 Flat Flyer Museum",
+  "created": "2026-07-10T18:18:33",
+  "flat_root": true,
+  "flyer_records": 55,
+  "new_flyers_added": 20,
+  "total_files": 76,
   "broken_links": 0,
   "missing_images": 0,
   "details": {
