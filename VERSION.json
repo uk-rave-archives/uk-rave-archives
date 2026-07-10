@@ -1,10 +1,11 @@
 {
-  "build": "v6.8 archive intelligence",
-  "created": "2026-07-07T18:35:44",
-  "flyer_records": 10,
-  "people_pages": 62,
-  "venue_pages": 8,
-  "promoter_pages": 10,
+  "build": "v6.9 tape pack player layout fix",
+  "created": "2026-07-08T04:24:53",
+  "changed_pages": [
+    "packs.html",
+    "helter-skelter-tape-packs.html",
+    "pack-helter-skelter-energy.html"
+  ],
   "broken_links": 0,
   "missing_images": 0,
   "details": {
