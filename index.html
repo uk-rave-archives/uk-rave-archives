@@ -3,95 +3,80 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="description" content="Enter the digital museum of UK rave culture. Explore original flyers, tape packs, DJs, MCs, venues, promoters and the history of the scene.">
-<title>Back to the Old Skool Archive — Enter the Museum</title>
-<link rel="stylesheet" href="museum-foundation.css">
-<link rel="stylesheet" href="museum-home.css">
+<meta name="description" content="Back to the Old Skool Archive — the digital museum of UK rave culture.">
+<title>Back to the Old Skool Archive — UK Rave Culture Museum</title>
+<link rel="stylesheet" href="museum-home-v4.css">
 </head>
-<body class="museum-home">
-<a class="skip-link" href="#museum">Skip to the museum</a>
-<header class="home-header" id="top">
-  <a class="home-logo" href="index.html" aria-label="Back to the Old Skool Archive home">
+<body>
+<header class="topbar" id="topbar">
+  <a class="brand" href="index.html" aria-label="Back to the Old Skool Archive home">
     <span>BACK TO THE</span><strong>OLD SKOOL</strong><em>ARCHIVE</em>
   </a>
-  <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="home-nav">Menu</button>
-  <nav class="home-nav" id="home-nav" aria-label="Main navigation">
-    <a href="flyers.html">Flyers</a><a href="packs.html">Tape Packs</a><a href="people.html">DJs &amp; MCs</a><a href="venues.html">Venues</a><a href="promoters.html">Promoters</a><a href="events.html#timeline">Timeline</a><a href="search.html" class="nav-search">Search</a>
+  <button class="menu-button" aria-expanded="false" aria-controls="main-nav">MENU</button>
+  <nav class="main-nav" id="main-nav" aria-label="Main navigation">
+    <a class="active" href="index.html">Home</a><a href="flyers.html">Flyers</a><a href="packs.html">Tape Packs</a><a href="people.html">DJs &amp; MCs</a><a href="venues.html">Venues</a><a href="promoters.html">Promoters</a><a href="events.html">Timeline</a><a href="radio.html">Radio</a><a href="stories.html">Stories</a><a href="search.html">Search</a>
   </nav>
 </header>
 
 <main>
-<section class="arrival" aria-labelledby="arrival-title">
-  <div class="arrival-atmosphere" aria-hidden="true"><i></i><i></i><i></i></div>
-  <div class="arrival-copy">
-    <p class="kicker">The digital museum of UK rave culture</p>
-    <h1 id="arrival-title"><span>Back to the</span>Old Skool</h1>
-    <p class="arrival-sub">Preserving the flyers, sounds, places and people that built a generation.</p>
-    <a class="enter-button" href="#museum"><span>Enter the archive</span><b aria-hidden="true">↓</b></a>
+<section class="hero" aria-labelledby="hero-title">
+  <div class="hero-grain"></div><div class="hero-light hero-light-a"></div><div class="hero-light hero-light-b"></div><div class="hero-smoke"></div>
+  <div class="hero-content reveal">
+    <p class="overline"><span></span> Welcome to <span></span></p>
+    <h1 id="hero-title">Back to the <strong>Old Skool</strong></h1>
+    <p class="subtitle">The UK Rave Culture Archive</p>
+    <p class="intro">Preserving the flyers, sounds, people and places that built a generation.</p>
+    <a class="cta" href="#museum">Enter the Archive <b>→</b></a>
   </div>
-  <p class="arrival-date">1988 <span>—</span> 2005</p>
+  <a class="scroll-cue" href="#museum" aria-label="Scroll to the museum entrances">⌄</a>
 </section>
 
-<section class="museum-hall" id="museum" aria-labelledby="museum-title">
-  <div class="hall-heading reveal">
-    <p class="section-kicker">Choose your entrance</p>
-    <h2 id="museum-title">Explore the museum</h2>
-    <p>Six connected collections. One history.</p>
-  </div>
+<section class="museum section-shell" id="museum">
+  <header class="section-heading reveal"><span></span><div><p>Explore the Museum</p><small>Choose your entrance</small></div><span></span></header>
   <div class="door-grid">
-    <a class="museum-door door-flyers reveal" href="flyers.html"><span class="door-number">01</span><div><p>Original artwork</p><h3>Flyer Museum</h3><span class="door-action">Enter collection →</span></div></a>
-    <a class="museum-door door-tapes reveal" href="packs.html"><span class="door-number">02</span><div><p>The sound of the night</p><h3>Tape Pack Museum</h3><span class="door-action">Enter collection →</span></div></a>
-    <a class="museum-door door-people reveal" href="people.html"><span class="door-number">03</span><div><p>The artists and voices</p><h3>DJ &amp; MC Archive</h3><span class="door-action">Meet the people →</span></div></a>
-    <a class="museum-door door-venues reveal" href="venues.html"><span class="door-number">04</span><div><p>Warehouses, clubs and arenas</p><h3>Venue Archive</h3><span class="door-action">Explore the places →</span></div></a>
-    <a class="museum-door door-promoters reveal" href="promoters.html"><span class="door-number">05</span><div><p>The organisations behind the scene</p><h3>Promoter Archive</h3><span class="door-action">View the organisers →</span></div></a>
-    <a class="museum-door door-timeline reveal" href="events.html#timeline"><span class="door-number">06</span><div><p>A journey through rave history</p><h3>Timeline Explorer</h3><span class="door-action">Travel through time →</span></div></a>
+    <a class="door door-flyers reveal" href="flyers.html"><div class="door-sign">Flyer<br>Museum</div><div class="door-scene"></div><div class="door-copy"><strong>Event Flyers</strong><span>1988—2005</span><b>→</b></div></a>
+    <a class="door door-tapes reveal" href="packs.html"><div class="door-sign">Tape Pack<br>Museum</div><div class="door-scene"></div><div class="door-copy"><strong>Tape Packs</strong><span>Listen &amp; explore</span><b>→</b></div></a>
+    <a class="door door-people reveal" href="people.html"><div class="door-sign">DJs &amp; MCs<br>Archive</div><div class="door-scene"></div><div class="door-copy"><strong>Artists</strong><span>The soundtrack</span><b>→</b></div></a>
+    <a class="door door-venues reveal" href="venues.html"><div class="door-sign">Venue<br>Archive</div><div class="door-scene"></div><div class="door-copy"><strong>Clubs &amp; venues</strong><span>The locations</span><b>→</b></div></a>
+    <a class="door door-promoters reveal" href="promoters.html"><div class="door-sign">Promoter<br>Archive</div><div class="door-scene"></div><div class="door-copy"><strong>The organisers</strong><span>Behind the scene</span><b>→</b></div></a>
+    <a class="door door-timeline reveal" href="events.html"><div class="door-sign">Timeline<br>Explorer</div><div class="door-scene"></div><div class="door-copy"><strong>Journey through</strong><span>Rave history</span><b>→</b></div></a>
   </div>
 </section>
 
-<section class="featured-exhibit reveal" aria-labelledby="feature-title">
-  <div class="feature-art"><img src="flyer-museum-01.jpg" alt="Original UK rave event flyer from the archive" loading="lazy"></div>
-  <div class="feature-story">
-    <p class="section-kicker">Featured exhibit · Archive 001</p>
-    <h2 id="feature-title">A flyer is evidence of a night that happened.</h2>
-    <p class="feature-lead">It records the date, venue, lineup, promoter, ticket price and visual language of its time. In this museum, every scan becomes a doorway into the wider story.</p>
-    <dl><div><dt>Object</dt><dd>Original event flyer</dd></div><div><dt>Collection</dt><dd>Flyer Museum</dd></div><div><dt>Scan contributor</dt><dd>James Scrimgeour</dd></div></dl>
-    <a class="museum-button" href="flyer-record.html?id=0">View full exhibit <span>→</span></a>
+<section class="featured section-shell reveal">
+  <div class="feature-flyer"><img src="flyer-museum-01.jpg" alt="Original UK rave flyer from the archive"></div>
+  <div class="feature-info"><p class="kicker">Featured Exhibit</p><h2>Dreamscape 20</h2><ul><li>Saturday 16 July 1994</li><li>The Sanctuary, Milton Keynes</li><li>Promoter: Dreamscape</li><li>DJs: Slipmatt, Hype, Ratpack, Rush, Micky Finn, Randall, Brisk, Jumping Jack Frost</li><li>MCs: Det, Fearless, Sharky, EQ, Ribs</li></ul><a class="outline-button" href="flyer-record.html?id=0">View full exhibit →</a></div>
+  <div class="feature-room" role="img" aria-label="Dark warehouse rave atmosphere"></div>
+</section>
+
+<section class="journey section-shell" id="journey">
+  <header class="section-heading reveal"><span></span><div><p>The Journey Through Time</p></div><span></span></header>
+  <div class="era-grid">
+    <a href="events.html#timeline" class="era era-one reveal"><div><time>1988—1992</time><h3>The Early Years</h3><p>Illegal warehouses, pirate radio, acid house and the rise of the underground.</p></div></a>
+    <a href="events.html#timeline" class="era era-two reveal"><div><time>1993—1996</time><h3>The Golden Era</h3><p>Huge warehouse events, hardcore sound, lasers and all-night raves.</p></div></a>
+    <a href="events.html#timeline" class="era era-three reveal"><div><time>1997—2000+</time><h3>The Superclub Era</h3><p>Superclubs, breakthrough production and a culture spreading worldwide.</p></div></a>
   </div>
 </section>
 
-<section class="time-journey" aria-labelledby="journey-title">
-  <div class="journey-heading reveal"><p class="section-kicker">The scene never stood still</p><h2 id="journey-title">Journey through time</h2></div>
-  <div class="era-track">
-    <a class="era era-one reveal" href="events.html#timeline"><time>1988—1992</time><h3>The early years</h3><p>Illegal warehouses, acid house, pirate radio and sodium-lit concrete.</p></a>
-    <a class="era era-two reveal" href="events.html#timeline"><time>1993—1996</time><h3>The golden era</h3><p>Hangars, lasers, hardcore, jungle and all-night mass gatherings.</p></a>
-    <a class="era era-three reveal" href="events.html#timeline"><time>1997—2005</time><h3>The superclub era</h3><p>Polished clubs, global brands and the sound of a culture reaching millions.</p></a>
+<section class="latest section-shell">
+  <div class="latest-head reveal"><h2>Latest Additions to the Archive</h2><a href="flyers.html">View all additions →</a></div>
+  <div class="latest-grid">
+    <a class="item reveal" href="flyer-record.html?id=1"><img src="flyer-museum-02.jpg" alt="Rave flyer"><small>Flyer</small><strong>Archive Exhibit 002</strong><span>Original scan</span></a>
+    <a class="item reveal" href="packs.html"><img src="flyer-museum-11.jpg" alt="Tape pack artwork"><small>Tape Pack</small><strong>Helter Skelter</strong><span>Collection</span></a>
+    <a class="item reveal" href="venues.html"><img src="warehouse-background.jpg" alt="Warehouse venue"><small>Venue</small><strong>The Sanctuary</strong><span>Milton Keynes</span></a>
+    <a class="item reveal" href="person-record.html"><img src="flyer-museum-31.jpg" alt="DJ archive exhibit"><small>DJ</small><strong>Artist Archive</strong><span>Profiles</span></a>
+    <a class="item reveal" href="flyer-record.html?id=24"><img src="flyer-museum-25.jpg" alt="Rave flyer"><small>Flyer</small><strong>Archive Exhibit 025</strong><span>Original scan</span></a>
+    <a class="item reveal" href="promoters.html"><img src="flyer-museum-41.jpg" alt="Promoter flyer"><small>Promoter</small><strong>Promoter Archive</strong><span>Profiles</span></a>
   </div>
 </section>
 
-<section class="latest" aria-labelledby="latest-title">
-  <div class="latest-heading reveal"><div><p class="section-kicker">From the collection</p><h2 id="latest-title">Start exploring</h2></div><a href="search.html">Search everything →</a></div>
-  <div class="object-strip">
-    <a class="object-card reveal" href="flyer-record.html?id=0"><img src="flyer-museum-01.jpg" alt="Rave flyer exhibit" loading="lazy"><span>Flyer</span><strong>Archive exhibit 001</strong></a>
-    <a class="object-card reveal" href="flyer-record.html?id=10"><img src="flyer-museum-11.jpg" alt="Rave flyer exhibit" loading="lazy"><span>Flyer</span><strong>Archive exhibit 011</strong></a>
-    <a class="object-card reveal" href="packs.html"><img src="flyer-museum-24.jpg" alt="Tape pack collection artwork" loading="lazy"><span>Audio</span><strong>Tape Pack Museum</strong></a>
-    <a class="object-card reveal" href="venues.html"><img src="warehouse-background.jpg" alt="Dark warehouse interior" loading="lazy"><span>Place</span><strong>Venue Archive</strong></a>
-    <a class="object-card reveal" href="promoters.html"><img src="flyer-museum-41.jpg" alt="Rave promoter artwork" loading="lazy"><span>History</span><strong>Promoter Archive</strong></a>
-  </div>
-</section>
-
-<section class="deeper-links reveal" aria-label="More archive collections">
-  <a href="events.html"><span>Event history</span><b>Every night, date and lineup →</b></a>
-  <a href="radio.html"><span>Pirate radio</span><b>The stations that carried the sound →</b></a>
-  <a href="stories.html"><span>Raver stories</span><b>Memories from the people who were there →</b></a>
-</section>
-
-<section class="contributor-wall reveal">
-  <div><p class="section-kicker">The archive is built by the scene</p><h2>Preserved by people who care.</h2></div>
-  <p>All flyer scans supplied by <strong>James Scrimgeour</strong> — Raveflyerman. Follow <a href="https://www.tiktok.com/@raveflyers" target="_blank" rel="noopener">@raveflyers on TikTok</a>.</p>
-  <a class="museum-button ghost" href="contributors.html">Meet the contributors <span>→</span></a>
+<section class="credits section-shell reveal">
+  <div><p>All flyer scans supplied by</p><h2>James Scrimgeour</h2><strong>(Raveflyerman)</strong><a href="https://www.tiktok.com/@raveflyers" target="_blank" rel="noopener">TikTok @raveflyers</a></div>
+  <div class="stats"><span><b>55+</b>Flyers</span><span><b>30+</b>DJs &amp; MCs</span><span><b>10+</b>Venues</span><span><b>10+</b>Promoters</span><span><b>100+</b>Events</span></div>
 </section>
 </main>
 
-<footer class="home-footer"><a class="home-logo footer-logo" href="#top"><span>BACK TO THE</span><strong>OLD SKOOL</strong><em>ARCHIVE</em></a><p>A living digital museum preserving UK rave culture for future generations.</p><div><a href="contributors.html">Contributors</a><a href="stories.html">Stories</a><a href="search.html">Search</a></div></footer>
-<script src="museum-home.js"></script>
-</body></html>
+<footer><p>Back to the Old Skool Archive © 2026</p><p>Preserving UK rave culture for future generations</p></footer>
+<script src="museum-home-v4.js"></script>
+</body>
+</html>
