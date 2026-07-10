@@ -1,11 +1,22 @@
 {
-  "build": "v6.9 tape pack player layout fix",
-  "created": "2026-07-08T04:24:53",
+  "build": "v7.0 Back to the Old Skool Archive",
+  "created": "2026-07-10T11:15:06",
+  "base_file": "UK_Rave_Archives_v6_9_TAPE_PACK_PLAYER_LAYOUT_FIX(1).zip",
   "changed_pages": [
-    "packs.html",
-    "helter-skelter-tape-packs.html",
-    "pack-helter-skelter-energy.html"
+    "archive.html",
+    "people.html",
+    "venues.html",
+    "promoters.html",
+    "index.html"
   ],
+  "folder_counts": {
+    "root": 41,
+    "records/people": 62,
+    "records/venues": 8,
+    "records/promoters": 10,
+    "assets/flyers": 35
+  },
+  "folders_over_99": {},
   "broken_links": 0,
   "missing_images": 0,
   "details": {
