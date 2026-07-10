@@ -1,0 +1,10 @@
+- [ ] Deploy green
+- [ ] No folders
+- [ ] Flyer records link to people, venues and promoters
+- [ ] People index works
+- [ ] Venue index works
+- [ ] Promoter index works
+- [ ] Search finds Carl Cox, Raindance, Sanctuary and Ministry of Sound
+- [ ] Tape packs still work
+- [ ] No 404s
+- [ ] No broken images
