@@ -1,10 +1,13 @@
 {
-  "build": "Phase 3.2 Site Shell Fix Flat",
-  "created": "2026-07-10T20:01:29",
+  "build": "Phase 3.5 Museum Foundation Flat",
+  "created": "2026-07-10",
+  "master_source": "Phase 3.2 Site Shell Fix Flat",
   "homepage_replaced": true,
+  "shared_museum_identity": true,
   "warehouse_background_used": true,
+  "major_sections_reachable_from_homepage": true,
   "flat_root": true,
-  "broken_links": 0,
-  "missing_images": 0,
-  "files": 82
+  "broken_local_references": 0,
+  "local_references_checked": 721,
+  "html_pages": 21
 }
