@@ -1,25 +1,12 @@
 {
-  "build": "v7.0A homepage and branding hotfix",
-  "created": "2026-07-10T12:12:31",
+  "build": "v7.0 recovery flyer import",
+  "base_file": "UK_Rave_Archives_v6_9_TAPE_PACK_PLAYER_LAYOUT_FIX(1).zip",
+  "created": "2026-07-10T14:12:59",
   "changed_pages": [
-    "index.html",
-    "archive.html",
-    "flyers.html",
-    "packs.html",
-    "people.html",
-    "venues.html",
-    "promoters.html",
-    "search.html",
-    "contributors.html"
+    "flyers.html"
   ],
-  "folder_counts": {
-    "root": 41,
-    "assets/flyers": 35,
-    "records/people": 62,
-    "records/venues": 8,
-    "records/promoters": 10
-  },
-  "folders_over_99": {},
+  "locked_pages": "all other existing pages",
+  "imported_flyers": 244,
   "broken_links": 0,
   "missing_images": 0,
   "details": {
