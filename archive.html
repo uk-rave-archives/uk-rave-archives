@@ -1,114 +1,96 @@
 <!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Archive — Back to the Old Skool Archive</title><style>
 :root{
-  --bg:#05070a;--panel:#0d1118;--panel2:#111823;--line:#273244;
-  --gold:#ffd21a;--text:#f6f7fb;--muted:#aab4c1;--green:#60d394;
+  --bg:#040609;--panel:#0b1017;--panel2:#111823;--line:#293548;
+  --gold:#ffd21a;--text:#f7f8fb;--muted:#aab4c1;--green:#60d394;
 }
 *{box-sizing:border-box}html{scroll-behavior:smooth}
-body{margin:0;background:
-radial-gradient(circle at 80% 8%,rgba(255,210,26,.08),transparent 24%),
-linear-gradient(#05070a,#06080c 55%,#05070a);
-color:var(--text);font-family:Arial,Helvetica,sans-serif;min-height:100vh}
+body{
+  margin:0;color:var(--text);font-family:Arial,Helvetica,sans-serif;
+  background:
+    radial-gradient(circle at 75% 8%,rgba(255,210,26,.10),transparent 26%),
+    linear-gradient(180deg,#05070a 0%,#070a0f 55%,#030406 100%);
+  min-height:100vh;
+}
 body:after{
- content:"";position:fixed;left:0;right:0;bottom:0;height:210px;z-index:-1;opacity:.18;
- background:linear-gradient(0deg,#000 12%,transparent),
- linear-gradient(90deg,transparent 0 5%,#111 5% 12%,transparent 12% 17%,#161616 17% 26%,transparent 26% 31%,#101010 31% 39%,transparent 39% 44%,#181818 44% 54%,transparent 54% 60%,#111 60% 70%,transparent 70% 78%,#171717 78% 87%,transparent 87% 100%);
- clip-path:polygon(0 72%,5% 72%,5% 47%,10% 47%,10% 65%,16% 65%,16% 34%,23% 34%,23% 72%,30% 72%,30% 50%,36% 50%,36% 29%,43% 29%,43% 72%,50% 72%,50% 43%,56% 43%,56% 58%,62% 58%,62% 26%,69% 26%,69% 72%,75% 72%,75% 46%,82% 46%,82% 36%,89% 36%,89% 72%,100% 72%,100% 100%,0 100%)}
+  content:"";position:fixed;left:0;right:0;bottom:0;height:250px;z-index:-1;opacity:.25;
+  background:linear-gradient(0deg,#000 10%,transparent),
+  linear-gradient(90deg,transparent 0 5%,#111 5% 11%,transparent 11% 17%,#191919 17% 26%,transparent 26% 31%,#111 31% 39%,transparent 39% 44%,#181818 44% 54%,transparent 54% 60%,#101010 60% 69%,transparent 69% 77%,#171717 77% 87%,transparent 87% 100%);
+  clip-path:polygon(0 74%,4% 74%,4% 51%,9% 51%,9% 65%,15% 65%,15% 35%,23% 35%,23% 74%,30% 74%,30% 52%,36% 52%,36% 29%,43% 29%,43% 74%,50% 74%,50% 44%,56% 44%,56% 60%,62% 60%,62% 27%,69% 27%,69% 74%,75% 74%,75% 48%,82% 48%,82% 37%,89% 37%,89% 74%,100% 74%,100% 100%,0 100%);
+}
 a{color:inherit;text-decoration:none}
-.top{background:rgba(3,5,8,.96);backdrop-filter:blur(8px);border-bottom:1px solid var(--line);padding:14px 20px;position:sticky;top:0;z-index:30}
-.brand{color:var(--gold);font-weight:1000;font-size:25px;letter-spacing:.015em}
-.brand small{display:block;color:#8e99a8;font-size:10px;letter-spacing:.2em;margin-top:3px}
+.top{
+  position:sticky;top:0;z-index:40;padding:15px 22px;
+  background:rgba(2,4,7,.96);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)
+}
+.brand{font-size:25px;font-weight:1000;color:var(--gold);letter-spacing:.02em}
+.brand small{display:block;color:#939dac;font-size:10px;letter-spacing:.22em;margin-top:3px}
 .nav{display:flex;gap:18px;overflow-x:auto;margin-top:10px}
-.nav a{font-weight:900;color:#d9dde4;white-space:nowrap;font-size:13px}.nav a.active{color:var(--gold)}
-.page{max-width:1460px;margin:auto;padding:28px 22px}
-.hero{position:relative;min-height:490px;border:1px solid var(--line);border-radius:24px;overflow:hidden;background:#111722;padding:48px}
-.hero:before{content:"";position:absolute;inset:0;background:
-linear-gradient(90deg,rgba(5,7,10,.98),rgba(5,7,10,.78),rgba(5,7,10,.3)),
-radial-gradient(circle at 78% 24%,rgba(255,210,26,.24),transparent 24%);z-index:1}
-.hero-grid{position:absolute;inset:0;display:grid;grid-template-columns:repeat(7,1fr);opacity:.48}
-.hero-grid img{width:100%;height:100%;object-fit:cover}
-.hero-content{position:relative;z-index:2;max-width:900px}
-.kicker{color:var(--gold);font-weight:1000;letter-spacing:.16em}
-.hero h1{font-size:clamp(44px,7vw,100px);line-height:.86;margin:12px 0}
-.hero p{font-size:19px;line-height:1.52;color:#e8edf4;max-width:780px}
-.btn{display:inline-flex;align-items:center;gap:8px;background:var(--gold);color:#000;border-radius:9px;padding:13px 18px;font-weight:1000;margin:8px 8px 0 0}
-.btn.dark{background:#111823;color:#fff;border:1px solid #46536a}
-.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin-top:20px}
-.stat{background:rgba(13,17,24,.94);border:1px solid var(--line);border-radius:12px;padding:16px;text-align:center}
-.stat b{display:block;color:var(--gold);font-size:30px}.stat span{font-size:12px;color:var(--muted);font-weight:900}
-.section{margin-top:38px}.section h2{color:var(--gold);font-size:31px;margin:0 0 16px}
-.intro{color:#cbd3df;max-width:980px;line-height:1.58}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px}
-.card{background:rgba(13,17,24,.96);border:1px solid var(--line);border-radius:16px;overflow:hidden;transition:.18s transform,.18s border-color}
-.card:hover{transform:translateY(-4px);border-color:#6d7686}
-.card-img{height:220px;background:linear-gradient(135deg,#172033,#080b10);display:grid;place-items:center;color:var(--gold);font-size:42px;font-weight:1000}
-.card-img img{width:100%;height:100%;object-fit:cover}
-.body{padding:18px}.card h3{margin:0 0 8px;color:var(--gold)}.card p{margin:0;color:var(--muted);font-size:13px;line-height:1.45}
-.pill{display:inline-block;border:1px solid #435066;border-radius:999px;padding:5px 9px;font-size:12px;color:#dce2ea;background:#0a0f16;margin:8px 4px 0 0}
-.pill.gold{border-color:var(--gold);color:var(--gold)}.pill.green{border-color:var(--green);color:var(--green)}
-.feature{display:grid;grid-template-columns:minmax(300px,.75fr) minmax(0,1.25fr);gap:22px;background:rgba(13,17,24,.96);border:1px solid var(--line);border-radius:18px;padding:18px}
-.feature img{width:100%;max-height:560px;object-fit:contain;background:#05070a;border-radius:12px;border:1px solid var(--line)}
-.record-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:12px}
-.record{background:var(--panel2);border:1px solid var(--line);border-radius:10px;padding:14px}
-.record small{display:block;color:var(--gold);font-weight:900;text-transform:uppercase;margin-bottom:6px}
-.notice{background:var(--panel2);border:1px solid var(--gold);border-radius:14px;padding:18px;color:#d8dee8}
-.timeline{display:flex;gap:10px;flex-wrap:wrap}.year{background:#0a0f16;border:1px solid var(--line);border-radius:10px;padding:12px 14px;font-weight:1000}
-.year:hover{border-color:var(--gold);color:var(--gold)}
-@media(max-width:900px){.page{padding:18px}.hero{padding:30px}.hero-grid{grid-template-columns:repeat(3,1fr)}.feature{grid-template-columns:1fr}.card-img{height:170px}}
-</style></head><body><div class="top"><div class="brand">BACK TO THE OLD SKOOL ARCHIVE<small>PRESERVING UK RAVE HISTORY</small></div><div class="nav"><a class="" href="index.html">HOME</a><a class="active" href="archive.html">ARCHIVE</a><a class="" href="flyers.html">FLYERS</a><a class="" href="packs.html">TAPE PACKS</a><a class="" href="people.html">PEOPLE</a><a class="" href="venues.html">VENUES</a><a class="" href="search.html">SEARCH</a><a class="" href="contributors.html">CONTRIBUTORS</a></div></div><main class="page">
+.nav a{font-size:13px;font-weight:900;color:#d8dde5;white-space:nowrap}.nav a.active{color:var(--gold)}
+.page{max-width:1480px;margin:auto;padding:26px 22px 70px}
+.hero{
+  position:relative;min-height:620px;overflow:hidden;border:1px solid var(--line);
+  border-radius:24px;background:#101721;
+  display:flex;align-items:center;padding:54px;
+  box-shadow:0 24px 80px rgba(0,0,0,.45)
+}
+.hero-grid{position:absolute;inset:0;display:grid;grid-template-columns:repeat(7,1fr);opacity:.58}
+.hero-grid img{width:100%;height:100%;object-fit:cover;filter:saturate(1.12) contrast(1.05)}
+.hero:before{
+  content:"";position:absolute;inset:0;z-index:1;
+  background:
+    linear-gradient(90deg,rgba(2,4,7,.99) 0%,rgba(2,4,7,.9) 44%,rgba(2,4,7,.44) 78%,rgba(2,4,7,.55) 100%),
+    radial-gradient(circle at 78% 30%,rgba(255,210,26,.2),transparent 28%)
+}
+.hero-content{position:relative;z-index:2;max-width:880px}
+.eyebrow{font-weight:1000;color:var(--gold);letter-spacing:.17em;font-size:13px}
+.hero h1{font-size:clamp(54px,8vw,118px);line-height:.81;margin:16px 0 20px;text-transform:uppercase}
+.hero p{font-size:20px;line-height:1.55;color:#e8edf4;max-width:760px}
+.actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px}
+.btn{display:inline-flex;align-items:center;gap:8px;padding:14px 19px;border-radius:9px;background:var(--gold);color:#000;font-weight:1000}
+.btn.dark{background:#111823;color:#fff;border:1px solid #4a566c}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin-top:18px}
+.stat{background:rgba(11,16,23,.96);border:1px solid var(--line);border-radius:13px;padding:17px;text-align:center}
+.stat b{display:block;font-size:31px;color:var(--gold)}.stat span{font-size:11px;color:var(--muted);font-weight:900}
+.section{margin-top:42px}.section h2{font-size:32px;color:var(--gold);margin:0 0 17px}
+.intro{max-width:980px;color:#cbd3df;line-height:1.6}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:18px}
+.card{overflow:hidden;background:rgba(11,16,23,.97);border:1px solid var(--line);border-radius:17px;transition:.2s transform,.2s border-color}
+.card:hover{transform:translateY(-5px);border-color:#6d788b}
+.card-media{height:220px;background:linear-gradient(135deg,#172033,#080b10);display:grid;place-items:center;font-size:45px;color:var(--gold);font-weight:1000}
+.card-media img{width:100%;height:100%;object-fit:cover}
+.card-body{padding:18px}.card h3{margin:0 0 8px;color:var(--gold);font-size:21px}.card p{margin:0;color:var(--muted);font-size:13px;line-height:1.48}
+.tag{display:inline-block;margin-top:11px;border:1px solid #48546a;border-radius:999px;padding:5px 9px;font-size:12px;color:#dbe1e9}
+.tag.gold{border-color:var(--gold);color:var(--gold)}.tag.green{border-color:var(--green);color:var(--green)}
+.feature{display:grid;grid-template-columns:minmax(300px,.75fr) minmax(0,1.25fr);gap:22px;padding:19px;border:1px solid var(--line);border-radius:18px;background:rgba(11,16,23,.97)}
+.feature img{width:100%;max-height:580px;object-fit:contain;background:#020305;border:1px solid var(--line);border-radius:12px}
+.meta-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:11px}
+.meta{background:var(--panel2);border:1px solid var(--line);border-radius:10px;padding:13px}
+.meta small{display:block;color:var(--gold);font-weight:900;margin-bottom:5px;text-transform:uppercase}
+.credit{margin-top:18px;padding:17px;border:1px solid var(--gold);border-radius:13px;background:#151205}
+@media(max-width:900px){
+  .page{padding:18px}.hero{min-height:570px;padding:30px}.hero-grid{grid-template-columns:repeat(3,1fr)}
+  .feature{grid-template-columns:1fr}.card-media{height:175px}
+}
+</style></head><body><header class="top"><div class="brand">BACK TO THE OLD SKOOL ARCHIVE<small>PRESERVING UK RAVE HISTORY · 1988–2005</small></div><nav class="nav"><a class="" href="index.html">HOME</a><a class="active" href="archive.html">ARCHIVE</a><a class="" href="flyers.html">FLYERS</a><a class="" href="packs.html">TAPE PACKS</a><a class="" href="people.html">PEOPLE</a><a class="" href="venues.html">VENUES</a><a class="" href="promoters.html">PROMOTERS</a><a class="" href="search.html">SEARCH</a><a class="" href="contributors.html">CONTRIBUTORS</a></nav></header><main class="page">
 <section class="hero">
-  <div class="hero-grid"><img src="assets/flyers/flyer-museum-01.jpg" alt="Original rave flyer"><img src="assets/flyers/flyer-museum-02.jpg" alt="Original rave flyer"><img src="assets/flyers/flyer-museum-03.jpg" alt="Original rave flyer"><img src="assets/flyers/flyer-museum-04.jpg" alt="Original rave flyer"><img src="assets/flyers/flyer-museum-05.jpg" alt="Original rave flyer"><img src="assets/flyers/flyer-museum-06.jpg" alt="Original rave flyer"><img src="assets/flyers/flyer-museum-07.jpg" alt="Original rave flyer"><img src="assets/flyers/flyer-museum-08.jpg" alt="Original rave flyer"><img src="assets/flyers/flyer-museum-09.jpg" alt="Original rave flyer"><img src="assets/flyers/flyer-museum-10.jpg" alt="Original rave flyer"><img src="assets/flyers/flyer-museum-11.jpg" alt="Original rave flyer"><img src="assets/flyers/flyer-museum-12.jpg" alt="Original rave flyer"><img src="assets/flyers/flyer-museum-13.jpg" alt="Original rave flyer"><img src="assets/flyers/flyer-museum-14.jpg" alt="Original rave flyer"></div>
+  <div class="hero-grid"><img src="assets/flyers/flyer-museum-01.jpg" alt="Original UK rave flyer"><img src="assets/flyers/flyer-museum-02.jpg" alt="Original UK rave flyer"><img src="assets/flyers/flyer-museum-03.jpg" alt="Original UK rave flyer"><img src="assets/flyers/flyer-museum-04.jpg" alt="Original UK rave flyer"><img src="assets/flyers/flyer-museum-05.jpg" alt="Original UK rave flyer"><img src="assets/flyers/flyer-museum-06.jpg" alt="Original UK rave flyer"><img src="assets/flyers/flyer-museum-07.jpg" alt="Original UK rave flyer"><img src="assets/flyers/flyer-museum-08.jpg" alt="Original UK rave flyer"><img src="assets/flyers/flyer-museum-09.jpg" alt="Original UK rave flyer"><img src="assets/flyers/flyer-museum-10.jpg" alt="Original UK rave flyer"><img src="assets/flyers/flyer-museum-11.jpg" alt="Original UK rave flyer"><img src="assets/flyers/flyer-museum-12.jpg" alt="Original UK rave flyer"><img src="assets/flyers/flyer-museum-13.jpg" alt="Original UK rave flyer"><img src="assets/flyers/flyer-museum-14.jpg" alt="Original UK rave flyer"></div>
   <div class="hero-content">
-    <div class="kicker">PRESERVING UK RAVE HISTORY</div>
-    <h1>Back to the Old Skool Archive</h1>
-    <p>A connected digital museum of original UK rave flyers, tape packs, DJs, MCs, venues, promoters and scene history from the late 1980s into the early 2000s.</p>
-    <a class="btn" href="flyers.html">Enter Flyer Museum</a>
-    <a class="btn dark" href="packs.html">Tape Pack Museum</a>
-    <a class="btn dark" href="search.html">Search Archive</a>
-  </div>
-</section>
-
-<section class="stats">
-  <div class="stat"><b>35</b><span>FLYER SCANS LIVE</span></div>
-  <div class="stat"><b>10</b><span>RESEARCH RECORDS</span></div>
-  <div class="stat"><b>60+</b><span>PEOPLE LINKED</span></div>
-  <div class="stat"><b>8</b><span>VENUES LINKED</span></div>
-  <div class="stat"><b>10</b><span>PROMOTERS LINKED</span></div>
-  <div class="stat"><b>1</b><span>PLAYABLE COLLECTION</span></div>
-</section>
-
-<section class="section">
-  <h2>Explore the Archive</h2>
-  <div class="grid">
-    <a class="card" href="flyers.html"><div class="card-img"><img src="assets/flyers/flyer-museum-01.jpg" alt="Flyer Museum"></div><div class="body"><h3>Flyer Museum</h3><p>Original flyer scans with linked events, DJs, MCs, venues, promoters and archive notes.</p><span class="pill gold">Explore</span></div></a>
-    <a class="card" href="packs.html"><div class="card-img">📼</div><div class="body"><h3>Tape Pack Museum</h3><p>Playable archive collections with improved artwork sizing, player layout and source links.</p><span class="pill green">Playable</span></div></a>
-    <a class="card" href="people.html"><div class="card-img">🎧</div><div class="body"><h3>People Archive</h3><p>DJs, MCs and live acts linked automatically to flyer and event records.</p><span class="pill">Connected</span></div></a>
-    <a class="card" href="venues.html"><div class="card-img">🏭</div><div class="body"><h3>Venue Archive</h3><p>Warehouses, clubs, airfields and arenas connected to the events held there.</p><span class="pill">Connected</span></div></a>
-    <a class="card" href="promoters.html"><div class="card-img">🎪</div><div class="body"><h3>Promoter Archive</h3><p>Promoter histories and event timelines generated from connected flyer records.</p><span class="pill">Connected</span></div></a>
-    <a class="card" href="flyer-timeline.html"><div class="card-img">🕰</div><div class="body"><h3>Timeline Explorer</h3><p>Browse the collection by year and watch the scene develop through the archive.</p><span class="pill gold">Open Timeline</span></div></a>
-  </div>
-</section>
-
-<section class="section"><h2>Featured Archive Item</h2>
-  <div class="feature">
-    <img src="assets/flyers/flyer-museum-01.jpg" alt="Featured Raindance flyer">
-    <div>
-      <div class="kicker">FEATURED FLYER</div>
-      <h2>Raindance — Wisbech / The Prodigy PA</h2>
-      <p class="intro">A connected archive record demonstrating how original scans link to event information, performers, venues, promoters and the wider timeline.</p>
-      <div class="record-grid">
-        <div class="record"><small>Object</small>Original Flyer Scan</div>
-        <div class="record"><small>Status</small>Research Record</div>
-        <div class="record"><small>Connections</small>DJs, Venue, Promoter, Timeline</div>
-        <div class="record"><small>Scan Credit</small>James Scrimgeour — RaverFlyerMan</div>
-      </div>
-      <a class="btn" href="flyer-record-raindance-wisbech.html">Open Exhibit</a>
-      <a class="btn dark" href="contributors.html">View Credit</a>
+    <div class="eyebrow">ARCHIVE ENTRANCE HALL</div>
+    <h1>Explore the<br>Rave Museum</h1>
+    <p>Browse the archive by object, person, venue, promoter or year. Every record is designed to connect with the rest of the scene.</p>
+    <div class="actions">
+      <a class="btn" href="flyers.html">Flyer Museum</a>
+      <a class="btn dark" href="packs.html">Tape Pack Museum</a>
+      <a class="btn dark" href="search.html">Search Everything</a>
     </div>
   </div>
 </section>
-
-<section class="section"><div class="notice">
-  <h2>Archive Mission</h2>
-  <p>Back to the Old Skool Archive preserves the flyers, tapes, venues, people and stories behind UK rave culture. Every addition strengthens the links between events, performers, places and recordings.</p>
+<section class="section"><h2>Archive Collections</h2><div class="grid">
+  <a class="card" href="flyers.html"><div class="card-media"><img src="assets/flyers/flyer-museum-01.jpg"></div><div class="card-body"><h3>Original Flyers</h3><p>Scans, front/back records, dates, venues, DJs, MCs and archive notes.</p></div></a>
+  <a class="card" href="packs.html"><div class="card-media">AUDIO</div><div class="card-body"><h3>Tape Packs</h3><p>Playable audio collections linked back to events, people and promoters.</p></div></a>
+  <a class="card" href="people.html"><div class="card-media">PEOPLE</div><div class="card-body"><h3>DJs & MCs</h3><p>Connected profiles showing every linked appearance currently in the archive.</p></div></a>
+  <a class="card" href="venues.html"><div class="card-media">PLACES</div><div class="card-body"><h3>Venues</h3><p>Warehouses, clubs, arenas and airfields with linked events and performers.</p></div></a>
+  <a class="card" href="promoters.html"><div class="card-media">BRANDS</div><div class="card-body"><h3>Promoters</h3><p>Promoter records and timelines built from flyers and event history.</p></div></a>
+  <a class="card" href="flyer-timeline.html"><div class="card-media">YEARS</div><div class="card-body"><h3>Timeline</h3><p>Browse the changing scene year by year.</p></div></a>
 </div></section>
 </main></body></html>

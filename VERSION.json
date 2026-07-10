@@ -1,20 +1,23 @@
 {
-  "build": "v7.0 Back to the Old Skool Archive",
-  "created": "2026-07-10T11:15:06",
-  "base_file": "UK_Rave_Archives_v6_9_TAPE_PACK_PLAYER_LAYOUT_FIX(1).zip",
+  "build": "v7.0A homepage and branding hotfix",
+  "created": "2026-07-10T12:12:31",
   "changed_pages": [
+    "index.html",
     "archive.html",
+    "flyers.html",
+    "packs.html",
     "people.html",
     "venues.html",
     "promoters.html",
-    "index.html"
+    "search.html",
+    "contributors.html"
   ],
   "folder_counts": {
     "root": 41,
+    "assets/flyers": 35,
     "records/people": 62,
     "records/venues": 8,
-    "records/promoters": 10,
-    "assets/flyers": 35
+    "records/promoters": 10
   },
   "folders_over_99": {},
   "broken_links": 0,
