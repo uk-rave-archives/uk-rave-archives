@@ -1,0 +1,1959 @@
+{
+  "build": "v7.0 recovery flyer import",
+  "created": "2026-07-10T14:12:58",
+  "imported_count": 244,
+  "items": [
+    {
+      "id": 1,
+      "file": "user-flyers/user-flyer-001.jpg",
+      "source_name": "1000011706.jpg",
+      "title": "Archive Flyer 001",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 2,
+      "file": "user-flyers/user-flyer-002.jpg",
+      "source_name": "1000011708.jpg",
+      "title": "Archive Flyer 002",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 3,
+      "file": "user-flyers/user-flyer-003.jpg",
+      "source_name": "1000011712.jpg",
+      "title": "Archive Flyer 003",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 4,
+      "file": "user-flyers/user-flyer-004.jpg",
+      "source_name": "1000011714.jpg",
+      "title": "Archive Flyer 004",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 5,
+      "file": "user-flyers/user-flyer-005.jpg",
+      "source_name": "1000011736.jpg",
+      "title": "Archive Flyer 005",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 6,
+      "file": "user-flyers/user-flyer-006.jpg",
+      "source_name": "1000011738.jpg",
+      "title": "Archive Flyer 006",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 7,
+      "file": "user-flyers/user-flyer-007.jpg",
+      "source_name": "1000011830.jpg",
+      "title": "Archive Flyer 007",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 8,
+      "file": "user-flyers/user-flyer-008.jpg",
+      "source_name": "1000011841.jpg",
+      "title": "Archive Flyer 008",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 9,
+      "file": "user-flyers/user-flyer-009.jpg",
+      "source_name": "1000011843.jpg",
+      "title": "Archive Flyer 009",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 10,
+      "file": "user-flyers/user-flyer-010.jpg",
+      "source_name": "1000011848.jpg",
+      "title": "Archive Flyer 010",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 11,
+      "file": "user-flyers/user-flyer-011.jpg",
+      "source_name": "1000011853.jpg",
+      "title": "Archive Flyer 011",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 12,
+      "file": "user-flyers/user-flyer-012.png",
+      "source_name": "1000011869.png",
+      "title": "Archive Flyer 012",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 13,
+      "file": "user-flyers/user-flyer-013.jpg",
+      "source_name": "1000011876.jpg",
+      "title": "Archive Flyer 013",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 14,
+      "file": "user-flyers/user-flyer-014.jpg",
+      "source_name": "1000011883.jpg",
+      "title": "Archive Flyer 014",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 15,
+      "file": "user-flyers/user-flyer-015.jpg",
+      "source_name": "1000011890.jpg",
+      "title": "Archive Flyer 015",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 16,
+      "file": "user-flyers/user-flyer-016.jpg",
+      "source_name": "1000011901.jpg",
+      "title": "Archive Flyer 016",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 17,
+      "file": "user-flyers/user-flyer-017.jpg",
+      "source_name": "1000011909.jpg",
+      "title": "Archive Flyer 017",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 18,
+      "file": "user-flyers/user-flyer-018.jpg",
+      "source_name": "1000011911.jpg",
+      "title": "Archive Flyer 018",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 19,
+      "file": "user-flyers/user-flyer-019.jpg",
+      "source_name": "1000011924.jpg",
+      "title": "Archive Flyer 019",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 20,
+      "file": "user-flyers/user-flyer-020.jpg",
+      "source_name": "1000011934.jpg",
+      "title": "Archive Flyer 020",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 21,
+      "file": "user-flyers/user-flyer-021.jpg",
+      "source_name": "1000011944.jpg",
+      "title": "Archive Flyer 021",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 22,
+      "file": "user-flyers/user-flyer-022.jpg",
+      "source_name": "1000011957.jpg",
+      "title": "Archive Flyer 022",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 23,
+      "file": "user-flyers/user-flyer-023.jpg",
+      "source_name": "1000012001.jpg",
+      "title": "Archive Flyer 023",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 24,
+      "file": "user-flyers/user-flyer-024.jpg",
+      "source_name": "1000012095.jpg",
+      "title": "Archive Flyer 024",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 25,
+      "file": "user-flyers/user-flyer-025.jpg",
+      "source_name": "1000012097.jpg",
+      "title": "Archive Flyer 025",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 26,
+      "file": "user-flyers/user-flyer-026.jpg",
+      "source_name": "1000012147.jpg",
+      "title": "Archive Flyer 026",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 27,
+      "file": "user-flyers/user-flyer-027.jpg",
+      "source_name": "1000012149.jpg",
+      "title": "Archive Flyer 027",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 28,
+      "file": "user-flyers/user-flyer-028.jpg",
+      "source_name": "1000012151.jpg",
+      "title": "Archive Flyer 028",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 29,
+      "file": "user-flyers/user-flyer-029.jpg",
+      "source_name": "1000012153.jpg",
+      "title": "Archive Flyer 029",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 30,
+      "file": "user-flyers/user-flyer-030.jpg",
+      "source_name": "1000012155.jpg",
+      "title": "Archive Flyer 030",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 31,
+      "file": "user-flyers/user-flyer-031.jpg",
+      "source_name": "1000012157.jpg",
+      "title": "Archive Flyer 031",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 32,
+      "file": "user-flyers/user-flyer-032.jpg",
+      "source_name": "1000012159.jpg",
+      "title": "Archive Flyer 032",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 33,
+      "file": "user-flyers/user-flyer-033.jpg",
+      "source_name": "1000012161.jpg",
+      "title": "Archive Flyer 033",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 34,
+      "file": "user-flyers/user-flyer-034.jpg",
+      "source_name": "1000012163.jpg",
+      "title": "Archive Flyer 034",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 35,
+      "file": "user-flyers/user-flyer-035.jpg",
+      "source_name": "1000012167.jpg",
+      "title": "Archive Flyer 035",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 36,
+      "file": "user-flyers/user-flyer-036.jpg",
+      "source_name": "1000012169.jpg",
+      "title": "Archive Flyer 036",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 37,
+      "file": "user-flyers/user-flyer-037.jpg",
+      "source_name": "1000012171.jpg",
+      "title": "Archive Flyer 037",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 38,
+      "file": "user-flyers/user-flyer-038.jpg",
+      "source_name": "1000012222.jpg",
+      "title": "Archive Flyer 038",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 39,
+      "file": "user-flyers/user-flyer-039.jpg",
+      "source_name": "1000012224.jpg",
+      "title": "Archive Flyer 039",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 40,
+      "file": "user-flyers/user-flyer-040.jpg",
+      "source_name": "1000012226.jpg",
+      "title": "Archive Flyer 040",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 41,
+      "file": "user-flyers/user-flyer-041.jpg",
+      "source_name": "1000012459.jpg",
+      "title": "Archive Flyer 041",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 42,
+      "file": "user-flyers/user-flyer-042.jpg",
+      "source_name": "1000012461.jpg",
+      "title": "Archive Flyer 042",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 43,
+      "file": "user-flyers/user-flyer-043.jpg",
+      "source_name": "1000012463.jpg",
+      "title": "Archive Flyer 043",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 44,
+      "file": "user-flyers/user-flyer-044.jpg",
+      "source_name": "1000012465.jpg",
+      "title": "Archive Flyer 044",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 45,
+      "file": "user-flyers/user-flyer-045.jpg",
+      "source_name": "1000012472.jpg",
+      "title": "Archive Flyer 045",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 46,
+      "file": "user-flyers/user-flyer-046.jpg",
+      "source_name": "1000012474.jpg",
+      "title": "Archive Flyer 046",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 47,
+      "file": "user-flyers/user-flyer-047.jpg",
+      "source_name": "1000012476.jpg",
+      "title": "Archive Flyer 047",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 48,
+      "file": "user-flyers/user-flyer-048.jpg",
+      "source_name": "1000012478.jpg",
+      "title": "Archive Flyer 048",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 49,
+      "file": "user-flyers/user-flyer-049.jpg",
+      "source_name": "1000012480.jpg",
+      "title": "Archive Flyer 049",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 50,
+      "file": "user-flyers/user-flyer-050.jpg",
+      "source_name": "1000012482.jpg",
+      "title": "Archive Flyer 050",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 51,
+      "file": "user-flyers/user-flyer-051.jpg",
+      "source_name": "1000012484.jpg",
+      "title": "Archive Flyer 051",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 52,
+      "file": "user-flyers/user-flyer-052.jpg",
+      "source_name": "1000012486.jpg",
+      "title": "Archive Flyer 052",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 53,
+      "file": "user-flyers/user-flyer-053.jpg",
+      "source_name": "1000012489.jpg",
+      "title": "Archive Flyer 053",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 54,
+      "file": "user-flyers/user-flyer-054.jpg",
+      "source_name": "1000012490.jpg",
+      "title": "Archive Flyer 054",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 55,
+      "file": "user-flyers/user-flyer-055.jpg",
+      "source_name": "1000012492.jpg",
+      "title": "Archive Flyer 055",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 56,
+      "file": "user-flyers/user-flyer-056.jpg",
+      "source_name": "1000012494.jpg",
+      "title": "Archive Flyer 056",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 57,
+      "file": "user-flyers/user-flyer-057.jpg",
+      "source_name": "1000012500.jpg",
+      "title": "Archive Flyer 057",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 58,
+      "file": "user-flyers/user-flyer-058.jpg",
+      "source_name": "1000012502.jpg",
+      "title": "Archive Flyer 058",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 59,
+      "file": "user-flyers/user-flyer-059.jpg",
+      "source_name": "1000012504.jpg",
+      "title": "Archive Flyer 059",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 60,
+      "file": "user-flyers/user-flyer-060.jpg",
+      "source_name": "1000012506.jpg",
+      "title": "Archive Flyer 060",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 61,
+      "file": "user-flyers/user-flyer-061.jpg",
+      "source_name": "1000012508.jpg",
+      "title": "Archive Flyer 061",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 62,
+      "file": "user-flyers/user-flyer-062.jpg",
+      "source_name": "1000012510.jpg",
+      "title": "Archive Flyer 062",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 63,
+      "file": "user-flyers/user-flyer-063.jpg",
+      "source_name": "1000012512.jpg",
+      "title": "Archive Flyer 063",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 64,
+      "file": "user-flyers/user-flyer-064.jpg",
+      "source_name": "1000012514.jpg",
+      "title": "Archive Flyer 064",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 65,
+      "file": "user-flyers/user-flyer-065.jpg",
+      "source_name": "1000012516.jpg",
+      "title": "Archive Flyer 065",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 66,
+      "file": "user-flyers/user-flyer-066.jpg",
+      "source_name": "1000012518.jpg",
+      "title": "Archive Flyer 066",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 67,
+      "file": "user-flyers/user-flyer-067.jpg",
+      "source_name": "1000012520.jpg",
+      "title": "Archive Flyer 067",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 68,
+      "file": "user-flyers/user-flyer-068.jpg",
+      "source_name": "1000012553.jpg",
+      "title": "Archive Flyer 068",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 69,
+      "file": "user-flyers/user-flyer-069.jpg",
+      "source_name": "1000012675.jpg",
+      "title": "Archive Flyer 069",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 70,
+      "file": "user-flyers/user-flyer-070.jpg",
+      "source_name": "1000012676.jpg",
+      "title": "Archive Flyer 070",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 71,
+      "file": "user-flyers/user-flyer-071.jpg",
+      "source_name": "1000012677.jpg",
+      "title": "Archive Flyer 071",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 72,
+      "file": "user-flyers/user-flyer-072.jpg",
+      "source_name": "1000012678.jpg",
+      "title": "Archive Flyer 072",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 73,
+      "file": "user-flyers/user-flyer-073.jpg",
+      "source_name": "1000012680.jpg",
+      "title": "Archive Flyer 073",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 74,
+      "file": "user-flyers/user-flyer-074.jpg",
+      "source_name": "1000012694.jpg",
+      "title": "Archive Flyer 074",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 75,
+      "file": "user-flyers/user-flyer-075.jpg",
+      "source_name": "1000012695.jpg",
+      "title": "Archive Flyer 075",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 76,
+      "file": "user-flyers/user-flyer-076.jpg",
+      "source_name": "1000012696.jpg",
+      "title": "Archive Flyer 076",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 77,
+      "file": "user-flyers/user-flyer-077.jpg",
+      "source_name": "1000012697.jpg",
+      "title": "Archive Flyer 077",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 78,
+      "file": "user-flyers/user-flyer-078.jpg",
+      "source_name": "1000012698.jpg",
+      "title": "Archive Flyer 078",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 79,
+      "file": "user-flyers/user-flyer-079.jpg",
+      "source_name": "1000012699.jpg",
+      "title": "Archive Flyer 079",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 80,
+      "file": "user-flyers/user-flyer-080.jpg",
+      "source_name": "1000012706.jpg",
+      "title": "Archive Flyer 080",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 81,
+      "file": "user-flyers/user-flyer-081.jpg",
+      "source_name": "1000012707.jpg",
+      "title": "Archive Flyer 081",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 82,
+      "file": "user-flyers/user-flyer-082.jpg",
+      "source_name": "1000012709.jpg",
+      "title": "Archive Flyer 082",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 83,
+      "file": "user-flyers/user-flyer-083.jpg",
+      "source_name": "1000012710.jpg",
+      "title": "Archive Flyer 083",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 84,
+      "file": "user-flyers/user-flyer-084.jpg",
+      "source_name": "1000012711.jpg",
+      "title": "Archive Flyer 084",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 85,
+      "file": "user-flyers/user-flyer-085.jpg",
+      "source_name": "1000012712.jpg",
+      "title": "Archive Flyer 085",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 86,
+      "file": "user-flyers/user-flyer-086.jpg",
+      "source_name": "1000012713.jpg",
+      "title": "Archive Flyer 086",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 87,
+      "file": "user-flyers/user-flyer-087.jpg",
+      "source_name": "1000012714.jpg",
+      "title": "Archive Flyer 087",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 88,
+      "file": "user-flyers/user-flyer-088.jpg",
+      "source_name": "1000012833.jpg",
+      "title": "Archive Flyer 088",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 89,
+      "file": "user-flyers/user-flyer-089.jpg",
+      "source_name": "1000012834.jpg",
+      "title": "Archive Flyer 089",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 90,
+      "file": "user-flyers/user-flyer-090.jpg",
+      "source_name": "1000012835.jpg",
+      "title": "Archive Flyer 090",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 91,
+      "file": "user-flyers/user-flyer-091.jpg",
+      "source_name": "1000012836.jpg",
+      "title": "Archive Flyer 091",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 92,
+      "file": "user-flyers/user-flyer-092.jpg",
+      "source_name": "1000012905.jpg",
+      "title": "Archive Flyer 092",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 93,
+      "file": "user-flyers/user-flyer-093.jpg",
+      "source_name": "1000012908.jpg",
+      "title": "Archive Flyer 093",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 94,
+      "file": "user-flyers/user-flyer-094.jpg",
+      "source_name": "1000012909.jpg",
+      "title": "Archive Flyer 094",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 95,
+      "file": "user-flyers/user-flyer-095.jpg",
+      "source_name": "1000012911.jpg",
+      "title": "Archive Flyer 095",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 96,
+      "file": "user-flyers/user-flyer-096.jpg",
+      "source_name": "1000012912.jpg",
+      "title": "Archive Flyer 096",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 97,
+      "file": "user-flyers/user-flyer-097.jpg",
+      "source_name": "1000012913.jpg",
+      "title": "Archive Flyer 097",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 98,
+      "file": "user-flyers/user-flyer-098.jpg",
+      "source_name": "1000012957.jpg",
+      "title": "Archive Flyer 098",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 99,
+      "file": "user-flyers/user-flyer-099.jpg",
+      "source_name": "1000012962.jpg",
+      "title": "Archive Flyer 099",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 100,
+      "file": "user-flyers/user-flyer-100.jpg",
+      "source_name": "1000012963.jpg",
+      "title": "Archive Flyer 100",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 101,
+      "file": "user-flyers/user-flyer-101.jpg",
+      "source_name": "1000012964.jpg",
+      "title": "Archive Flyer 101",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 102,
+      "file": "user-flyers/user-flyer-102.jpg",
+      "source_name": "1000012965.jpg",
+      "title": "Archive Flyer 102",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 103,
+      "file": "user-flyers/user-flyer-103.jpg",
+      "source_name": "1000012969.jpg",
+      "title": "Archive Flyer 103",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 104,
+      "file": "user-flyers/user-flyer-104.jpg",
+      "source_name": "1000012970.jpg",
+      "title": "Archive Flyer 104",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 105,
+      "file": "user-flyers/user-flyer-105.jpg",
+      "source_name": "1000013014.jpg",
+      "title": "Archive Flyer 105",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 106,
+      "file": "user-flyers/user-flyer-106.jpg",
+      "source_name": "1000013016.jpg",
+      "title": "Archive Flyer 106",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 107,
+      "file": "user-flyers/user-flyer-107.jpg",
+      "source_name": "1000013018.jpg",
+      "title": "Archive Flyer 107",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 108,
+      "file": "user-flyers/user-flyer-108.jpg",
+      "source_name": "1000013021.jpg",
+      "title": "Archive Flyer 108",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 109,
+      "file": "user-flyers/user-flyer-109.jpg",
+      "source_name": "1000013023.jpg",
+      "title": "Archive Flyer 109",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 110,
+      "file": "user-flyers/user-flyer-110.jpg",
+      "source_name": "1000013028.jpg",
+      "title": "Archive Flyer 110",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 111,
+      "file": "user-flyers/user-flyer-111.jpg",
+      "source_name": "1000013034.jpg",
+      "title": "Archive Flyer 111",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 112,
+      "file": "user-flyers/user-flyer-112.jpg",
+      "source_name": "1000013667.jpg",
+      "title": "Archive Flyer 112",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 113,
+      "file": "user-flyers/user-flyer-113.jpg",
+      "source_name": "1000013668.jpg",
+      "title": "Archive Flyer 113",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 114,
+      "file": "user-flyers/user-flyer-114.jpg",
+      "source_name": "1000013669.jpg",
+      "title": "Archive Flyer 114",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 115,
+      "file": "user-flyers/user-flyer-115.jpg",
+      "source_name": "1000013670.jpg",
+      "title": "Archive Flyer 115",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 116,
+      "file": "user-flyers/user-flyer-116.jpg",
+      "source_name": "1000013671.jpg",
+      "title": "Archive Flyer 116",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 117,
+      "file": "user-flyers/user-flyer-117.jpg",
+      "source_name": "1000013672.jpg",
+      "title": "Archive Flyer 117",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 118,
+      "file": "user-flyers/user-flyer-118.jpg",
+      "source_name": "1000013673.jpg",
+      "title": "Archive Flyer 118",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 119,
+      "file": "user-flyers/user-flyer-119.jpg",
+      "source_name": "1000013674.jpg",
+      "title": "Archive Flyer 119",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 120,
+      "file": "user-flyers/user-flyer-120.jpg",
+      "source_name": "1000013675.jpg",
+      "title": "Archive Flyer 120",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 121,
+      "file": "user-flyers/user-flyer-121.jpg",
+      "source_name": "1000013676.jpg",
+      "title": "Archive Flyer 121",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 122,
+      "file": "user-flyers/user-flyer-122.jpg",
+      "source_name": "1000013677.jpg",
+      "title": "Archive Flyer 122",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 123,
+      "file": "user-flyers/user-flyer-123.jpg",
+      "source_name": "1000013678.jpg",
+      "title": "Archive Flyer 123",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 124,
+      "file": "user-flyers/user-flyer-124.jpg",
+      "source_name": "1000013679.jpg",
+      "title": "Archive Flyer 124",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 125,
+      "file": "user-flyers/user-flyer-125.jpg",
+      "source_name": "1000013680.jpg",
+      "title": "Archive Flyer 125",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 126,
+      "file": "user-flyers/user-flyer-126.jpg",
+      "source_name": "1000013681.jpg",
+      "title": "Archive Flyer 126",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 127,
+      "file": "user-flyers/user-flyer-127.jpg",
+      "source_name": "1000013682.jpg",
+      "title": "Archive Flyer 127",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 128,
+      "file": "user-flyers/user-flyer-128.jpg",
+      "source_name": "1000013683.jpg",
+      "title": "Archive Flyer 128",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 129,
+      "file": "user-flyers/user-flyer-129.jpg",
+      "source_name": "1000013684.jpg",
+      "title": "Archive Flyer 129",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 130,
+      "file": "user-flyers/user-flyer-130.jpg",
+      "source_name": "1000013685.jpg",
+      "title": "Archive Flyer 130",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 131,
+      "file": "user-flyers/user-flyer-131.jpg",
+      "source_name": "1000013686.jpg",
+      "title": "Archive Flyer 131",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 132,
+      "file": "user-flyers/user-flyer-132.jpg",
+      "source_name": "1000013687.jpg",
+      "title": "Archive Flyer 132",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 133,
+      "file": "user-flyers/user-flyer-133.jpg",
+      "source_name": "1000013688.jpg",
+      "title": "Archive Flyer 133",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 134,
+      "file": "user-flyers/user-flyer-134.jpg",
+      "source_name": "1000013689.jpg",
+      "title": "Archive Flyer 134",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 135,
+      "file": "user-flyers/user-flyer-135.jpg",
+      "source_name": "1000013690.jpg",
+      "title": "Archive Flyer 135",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 136,
+      "file": "user-flyers/user-flyer-136.jpg",
+      "source_name": "1000013691.jpg",
+      "title": "Archive Flyer 136",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 137,
+      "file": "user-flyers/user-flyer-137.jpg",
+      "source_name": "1000013692.jpg",
+      "title": "Archive Flyer 137",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 138,
+      "file": "user-flyers/user-flyer-138.jpg",
+      "source_name": "1000013693.jpg",
+      "title": "Archive Flyer 138",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 139,
+      "file": "user-flyers/user-flyer-139.jpg",
+      "source_name": "1000013695.jpg",
+      "title": "Archive Flyer 139",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 140,
+      "file": "user-flyers/user-flyer-140.jpg",
+      "source_name": "1000013696.jpg",
+      "title": "Archive Flyer 140",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 141,
+      "file": "user-flyers/user-flyer-141.jpg",
+      "source_name": "1000013697.jpg",
+      "title": "Archive Flyer 141",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 142,
+      "file": "user-flyers/user-flyer-142.jpg",
+      "source_name": "1000013698.jpg",
+      "title": "Archive Flyer 142",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 143,
+      "file": "user-flyers/user-flyer-143.jpg",
+      "source_name": "1000013699.jpg",
+      "title": "Archive Flyer 143",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 144,
+      "file": "user-flyers/user-flyer-144.jpg",
+      "source_name": "1000013700.jpg",
+      "title": "Archive Flyer 144",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 145,
+      "file": "user-flyers/user-flyer-145.jpg",
+      "source_name": "1000013701.jpg",
+      "title": "Archive Flyer 145",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 146,
+      "file": "user-flyers/user-flyer-146.jpg",
+      "source_name": "1000013702.jpg",
+      "title": "Archive Flyer 146",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 147,
+      "file": "user-flyers/user-flyer-147.jpg",
+      "source_name": "1000013704.jpg",
+      "title": "Archive Flyer 147",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 148,
+      "file": "user-flyers/user-flyer-148.jpg",
+      "source_name": "1000013705.jpg",
+      "title": "Archive Flyer 148",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 149,
+      "file": "user-flyers/user-flyer-149.jpg",
+      "source_name": "1000013707.jpg",
+      "title": "Archive Flyer 149",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 150,
+      "file": "user-flyers/user-flyer-150.jpg",
+      "source_name": "1000013708.jpg",
+      "title": "Archive Flyer 150",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 151,
+      "file": "user-flyers/user-flyer-151.jpg",
+      "source_name": "1000013709.jpg",
+      "title": "Archive Flyer 151",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 152,
+      "file": "user-flyers/user-flyer-152.jpg",
+      "source_name": "1000013710.jpg",
+      "title": "Archive Flyer 152",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 153,
+      "file": "user-flyers/user-flyer-153.jpg",
+      "source_name": "1000013711.jpg",
+      "title": "Archive Flyer 153",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 154,
+      "file": "user-flyers/user-flyer-154.jpg",
+      "source_name": "1000013712.jpg",
+      "title": "Archive Flyer 154",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 155,
+      "file": "user-flyers/user-flyer-155.jpg",
+      "source_name": "1000013713.jpg",
+      "title": "Archive Flyer 155",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 156,
+      "file": "user-flyers/user-flyer-156.jpg",
+      "source_name": "1000013714.jpg",
+      "title": "Archive Flyer 156",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 157,
+      "file": "user-flyers/user-flyer-157.jpg",
+      "source_name": "1000013715.jpg",
+      "title": "Archive Flyer 157",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 158,
+      "file": "user-flyers/user-flyer-158.jpg",
+      "source_name": "1000013717.jpg",
+      "title": "Archive Flyer 158",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 159,
+      "file": "user-flyers/user-flyer-159.jpg",
+      "source_name": "1000013719.jpg",
+      "title": "Archive Flyer 159",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 160,
+      "file": "user-flyers/user-flyer-160.jpg",
+      "source_name": "1000013723.jpg",
+      "title": "Archive Flyer 160",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 161,
+      "file": "user-flyers/user-flyer-161.jpg",
+      "source_name": "1000013724.jpg",
+      "title": "Archive Flyer 161",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 162,
+      "file": "user-flyers/user-flyer-162.jpg",
+      "source_name": "1000013725.jpg",
+      "title": "Archive Flyer 162",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 163,
+      "file": "user-flyers/user-flyer-163.jpg",
+      "source_name": "1000013726.jpg",
+      "title": "Archive Flyer 163",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 164,
+      "file": "user-flyers/user-flyer-164.jpg",
+      "source_name": "1000013728.jpg",
+      "title": "Archive Flyer 164",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 165,
+      "file": "user-flyers/user-flyer-165.jpg",
+      "source_name": "1000013729.jpg",
+      "title": "Archive Flyer 165",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 166,
+      "file": "user-flyers/user-flyer-166.jpg",
+      "source_name": "1000013732.jpg",
+      "title": "Archive Flyer 166",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 167,
+      "file": "user-flyers/user-flyer-167.jpg",
+      "source_name": "1000013733.jpg",
+      "title": "Archive Flyer 167",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 168,
+      "file": "user-flyers/user-flyer-168.jpg",
+      "source_name": "1000013735.jpg",
+      "title": "Archive Flyer 168",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 169,
+      "file": "user-flyers/user-flyer-169.jpg",
+      "source_name": "1000013736.jpg",
+      "title": "Archive Flyer 169",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 170,
+      "file": "user-flyers/user-flyer-170.jpg",
+      "source_name": "1000013737.jpg",
+      "title": "Archive Flyer 170",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 171,
+      "file": "user-flyers/user-flyer-171.jpg",
+      "source_name": "1000013738.jpg",
+      "title": "Archive Flyer 171",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 172,
+      "file": "user-flyers/user-flyer-172.png",
+      "source_name": "1000013739.png",
+      "title": "Archive Flyer 172",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 173,
+      "file": "user-flyers/user-flyer-173.jpg",
+      "source_name": "1000013742.jpg",
+      "title": "Archive Flyer 173",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 174,
+      "file": "user-flyers/user-flyer-174.jpg",
+      "source_name": "1000013743.jpg",
+      "title": "Archive Flyer 174",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 175,
+      "file": "user-flyers/user-flyer-175.jpg",
+      "source_name": "1000013744.jpg",
+      "title": "Archive Flyer 175",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 176,
+      "file": "user-flyers/user-flyer-176.jpg",
+      "source_name": "1000013745.jpg",
+      "title": "Archive Flyer 176",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 177,
+      "file": "user-flyers/user-flyer-177.jpg",
+      "source_name": "1000013748.jpg",
+      "title": "Archive Flyer 177",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 178,
+      "file": "user-flyers/user-flyer-178.jpg",
+      "source_name": "1000013749.jpg",
+      "title": "Archive Flyer 178",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 179,
+      "file": "user-flyers/user-flyer-179.jpg",
+      "source_name": "1000013752.jpg",
+      "title": "Archive Flyer 179",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 180,
+      "file": "user-flyers/user-flyer-180.jpg",
+      "source_name": "1000013753.jpg",
+      "title": "Archive Flyer 180",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 181,
+      "file": "user-flyers/user-flyer-181.jpg",
+      "source_name": "1000013755.jpg",
+      "title": "Archive Flyer 181",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 182,
+      "file": "user-flyers/user-flyer-182.jpg",
+      "source_name": "1000013756.jpg",
+      "title": "Archive Flyer 182",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 183,
+      "file": "user-flyers/user-flyer-183.jpg",
+      "source_name": "1000013758.jpg",
+      "title": "Archive Flyer 183",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 184,
+      "file": "user-flyers/user-flyer-184.jpg",
+      "source_name": "1000013759.jpg",
+      "title": "Archive Flyer 184",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 185,
+      "file": "user-flyers/user-flyer-185.jpg",
+      "source_name": "1000013760.jpg",
+      "title": "Archive Flyer 185",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 186,
+      "file": "user-flyers/user-flyer-186.jpg",
+      "source_name": "1000013762.jpg",
+      "title": "Archive Flyer 186",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 187,
+      "file": "user-flyers/user-flyer-187.jpg",
+      "source_name": "1000013763.jpg",
+      "title": "Archive Flyer 187",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 188,
+      "file": "user-flyers/user-flyer-188.jpg",
+      "source_name": "1000013764.jpg",
+      "title": "Archive Flyer 188",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 189,
+      "file": "user-flyers/user-flyer-189.jpg",
+      "source_name": "1000013767.jpg",
+      "title": "Archive Flyer 189",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 190,
+      "file": "user-flyers/user-flyer-190.jpg",
+      "source_name": "1000013770.jpg",
+      "title": "Archive Flyer 190",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 191,
+      "file": "user-flyers/user-flyer-191.jpg",
+      "source_name": "1000013771.jpg",
+      "title": "Archive Flyer 191",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 192,
+      "file": "user-flyers/user-flyer-192.jpg",
+      "source_name": "1000013782.jpg",
+      "title": "Archive Flyer 192",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 193,
+      "file": "user-flyers/user-flyer-193.jpg",
+      "source_name": "1000013783.jpg",
+      "title": "Archive Flyer 193",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 194,
+      "file": "user-flyers/user-flyer-194.jpg",
+      "source_name": "1000013785.jpg",
+      "title": "Archive Flyer 194",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 195,
+      "file": "user-flyers/user-flyer-195.jpg",
+      "source_name": "1000013787.jpg",
+      "title": "Archive Flyer 195",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 196,
+      "file": "user-flyers/user-flyer-196.jpg",
+      "source_name": "1000013788.jpg",
+      "title": "Archive Flyer 196",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 197,
+      "file": "user-flyers/user-flyer-197.jpg",
+      "source_name": "1000013791.jpg",
+      "title": "Archive Flyer 197",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 198,
+      "file": "user-flyers/user-flyer-198.jpg",
+      "source_name": "1000013792.jpg",
+      "title": "Archive Flyer 198",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 199,
+      "file": "user-flyers/user-flyer-199.jpg",
+      "source_name": "1000013796.jpg",
+      "title": "Archive Flyer 199",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 200,
+      "file": "user-flyers/user-flyer-200.jpg",
+      "source_name": "1000013797.jpg",
+      "title": "Archive Flyer 200",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 201,
+      "file": "user-flyers/user-flyer-201.jpg",
+      "source_name": "1000013799.jpg",
+      "title": "Archive Flyer 201",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 202,
+      "file": "user-flyers/user-flyer-202.jpg",
+      "source_name": "1000013800.jpg",
+      "title": "Archive Flyer 202",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 203,
+      "file": "user-flyers/user-flyer-203.jpg",
+      "source_name": "1000013803.jpg",
+      "title": "Archive Flyer 203",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 204,
+      "file": "user-flyers/user-flyer-204.jpg",
+      "source_name": "1000013804.jpg",
+      "title": "Archive Flyer 204",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 205,
+      "file": "user-flyers/user-flyer-205.jpg",
+      "source_name": "1000013805.jpg",
+      "title": "Archive Flyer 205",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 206,
+      "file": "user-flyers/user-flyer-206.jpg",
+      "source_name": "1000013806.jpg",
+      "title": "Archive Flyer 206",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 207,
+      "file": "user-flyers/user-flyer-207.jpg",
+      "source_name": "1000013807.jpg",
+      "title": "Archive Flyer 207",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 208,
+      "file": "user-flyers/user-flyer-208.jpg",
+      "source_name": "1000013808.jpg",
+      "title": "Archive Flyer 208",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 209,
+      "file": "user-flyers/user-flyer-209.jpg",
+      "source_name": "1000013809.jpg",
+      "title": "Archive Flyer 209",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 210,
+      "file": "user-flyers/user-flyer-210.jpg",
+      "source_name": "1000013810.jpg",
+      "title": "Archive Flyer 210",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 211,
+      "file": "user-flyers/user-flyer-211.jpg",
+      "source_name": "1000013812.jpg",
+      "title": "Archive Flyer 211",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 212,
+      "file": "user-flyers/user-flyer-212.jpg",
+      "source_name": "1000013813.jpg",
+      "title": "Archive Flyer 212",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 213,
+      "file": "user-flyers/user-flyer-213.jpg",
+      "source_name": "1000013816.jpg",
+      "title": "Archive Flyer 213",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 214,
+      "file": "user-flyers/user-flyer-214.jpg",
+      "source_name": "1000013817.jpg",
+      "title": "Archive Flyer 214",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 215,
+      "file": "user-flyers/user-flyer-215.jpg",
+      "source_name": "1000013818.jpg",
+      "title": "Archive Flyer 215",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 216,
+      "file": "user-flyers/user-flyer-216.jpg",
+      "source_name": "1000013819.jpg",
+      "title": "Archive Flyer 216",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 217,
+      "file": "user-flyers/user-flyer-217.jpg",
+      "source_name": "1000013820.jpg",
+      "title": "Archive Flyer 217",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 218,
+      "file": "user-flyers/user-flyer-218.jpg",
+      "source_name": "1000013823.jpg",
+      "title": "Archive Flyer 218",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 219,
+      "file": "user-flyers/user-flyer-219.jpg",
+      "source_name": "1000013824.jpg",
+      "title": "Archive Flyer 219",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 220,
+      "file": "user-flyers/user-flyer-220.jpg",
+      "source_name": "1000013825.jpg",
+      "title": "Archive Flyer 220",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 221,
+      "file": "user-flyers/user-flyer-221.jpg",
+      "source_name": "1000013826.jpg",
+      "title": "Archive Flyer 221",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 222,
+      "file": "user-flyers/user-flyer-222.jpg",
+      "source_name": "1000013827.jpg",
+      "title": "Archive Flyer 222",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 223,
+      "file": "user-flyers/user-flyer-223.jpg",
+      "source_name": "1000013828.jpg",
+      "title": "Archive Flyer 223",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 224,
+      "file": "user-flyers/user-flyer-224.jpg",
+      "source_name": "1000013830.jpg",
+      "title": "Archive Flyer 224",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 225,
+      "file": "user-flyers/user-flyer-225.jpg",
+      "source_name": "1000013831.jpg",
+      "title": "Archive Flyer 225",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 226,
+      "file": "user-flyers/user-flyer-226.jpg",
+      "source_name": "1000013832.jpg",
+      "title": "Archive Flyer 226",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 227,
+      "file": "user-flyers/user-flyer-227.jpg",
+      "source_name": "1000013833.jpg",
+      "title": "Archive Flyer 227",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 228,
+      "file": "user-flyers/user-flyer-228.jpg",
+      "source_name": "1000013834.jpg",
+      "title": "Archive Flyer 228",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 229,
+      "file": "user-flyers/user-flyer-229.jpg",
+      "source_name": "1000013835.jpg",
+      "title": "Archive Flyer 229",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 230,
+      "file": "user-flyers/user-flyer-230.jpg",
+      "source_name": "1000013836.jpg",
+      "title": "Archive Flyer 230",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 231,
+      "file": "user-flyers/user-flyer-231.jpg",
+      "source_name": "1000013837.jpg",
+      "title": "Archive Flyer 231",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 232,
+      "file": "user-flyers/user-flyer-232.jpg",
+      "source_name": "1000013838.jpg",
+      "title": "Archive Flyer 232",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 233,
+      "file": "user-flyers/user-flyer-233.jpg",
+      "source_name": "1000013839.jpg",
+      "title": "Archive Flyer 233",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 234,
+      "file": "user-flyers/user-flyer-234.jpg",
+      "source_name": "1000013841.jpg",
+      "title": "Archive Flyer 234",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 235,
+      "file": "user-flyers/user-flyer-235.jpg",
+      "source_name": "1000013842.jpg",
+      "title": "Archive Flyer 235",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 236,
+      "file": "user-flyers/user-flyer-236.jpg",
+      "source_name": "1000013846.jpg",
+      "title": "Archive Flyer 236",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 237,
+      "file": "user-flyers/user-flyer-237.jpg",
+      "source_name": "1000013847.jpg",
+      "title": "Archive Flyer 237",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 238,
+      "file": "user-flyers/user-flyer-238.jpg",
+      "source_name": "1000013849.jpg",
+      "title": "Archive Flyer 238",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 239,
+      "file": "user-flyers/user-flyer-239.jpg",
+      "source_name": "1000013851.jpg",
+      "title": "Archive Flyer 239",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 240,
+      "file": "user-flyers/user-flyer-240.jpg",
+      "source_name": "1000013853.jpg",
+      "title": "Archive Flyer 240",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 241,
+      "file": "user-flyers/user-flyer-241.jpg",
+      "source_name": "1000013854.jpg",
+      "title": "Archive Flyer 241",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 242,
+      "file": "user-flyers/user-flyer-242.png",
+      "source_name": "1000013856.png",
+      "title": "Archive Flyer 242",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 243,
+      "file": "user-flyers/user-flyer-243.jpg",
+      "source_name": "1000013857.jpg",
+      "title": "Archive Flyer 243",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    },
+    {
+      "id": 244,
+      "file": "user-flyers/user-flyer-244.jpg",
+      "source_name": "1000013888.jpg",
+      "title": "Archive Flyer 244",
+      "status": "Research queued",
+      "credit": "James Scrimgeour \u2014 RaverFlyerMan"
+    }
+  ]
+}
