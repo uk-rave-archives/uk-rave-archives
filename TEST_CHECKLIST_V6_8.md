@@ -1,0 +1,11 @@
+- [ ] Deploy green
+- [ ] Homepage unchanged
+- [ ] Flyers opens
+- [ ] People index opens
+- [ ] DJ pages open from flyer records
+- [ ] Venue pages open from flyer records
+- [ ] Promoter pages open from flyer records
+- [ ] Search finds Carl Cox, Prodigy, Raindance, Fantasy FM
+- [ ] Contributor page opens
+- [ ] No broken images
+- [ ] No 404s
