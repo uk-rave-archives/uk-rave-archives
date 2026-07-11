@@ -1,14 +1,6 @@
 {
-  "build": "homepage-link-map-fix",
-  "created": "2026-07-10T20:01:29",
-  "homepage_replaced": true,
-  "warehouse_background_used": true,
-  "flat_root": true,
-  "broken_links": 0,
-  "missing_images": 0,
-  "files": 82,
-  "version": "3.7.1",
-  "name": "Homepage Recovery Build",
-  "homepage": "V6 exact visual implementation",
-  "flat": true
+  "version": "3.11",
+  "name": "Section Museum Test",
+  "homepage_locked": true,
+  "credits_temporarily_removed": true
 }
