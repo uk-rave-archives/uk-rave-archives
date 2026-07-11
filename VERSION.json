@@ -1,6 +1,7 @@
 {
-  "version": "3.11",
+  "version": "3.18",
   "name": "Section Museum Test",
   "homepage_locked": true,
-  "credits_temporarily_removed": true
+  "credits_temporarily_removed": true,
+  "phase": "DJ and MC navigation repair"
 }
