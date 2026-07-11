@@ -1,7 +1,90 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>DJ Archive — Back to the Old Skool</title><meta name="description" content="Explore DJs connected to UK rave flyers, events and tape packs from 1988 to 2005."><link rel="stylesheet" href="dj-archive-v1.css"><style>.featured-dj-link{margin:0 0 20px}.featured-dj-link a{display:block;padding:18px;border:1px solid #f7c51d;background:#111;color:#f7c51d;text-decoration:none;font-weight:900}</style></head><body>
-<header class="dj-top"><div class="dj-top-inner"><a class="dj-brand" href="index.html">BACK TO THE<br>OLD SKOOL<span>ARCHIVE</span></a><nav class="dj-nav" aria-label="Main navigation"><a href="index.html">HOME</a><a href="flyers.html">FLYERS</a><a href="packs.html">TAPE PACKS</a><a class="active" href="djs.html">DJS &amp; MCS</a><a href="venues.html">VENUES</a><a href="promoters.html">PROMOTERS</a><a href="events.html">EVENTS</a><a href="radio.html">RADIO</a><a href="stories.html">STORIES</a><a href="search.html">SEARCH</a></nav></div></header>
-<main class="dj-page"><section class="dj-hero"><div class="dj-hero-copy"><div class="eyebrow">THE PEOPLE BEHIND THE SOUND</div><h1>DJ ARCHIVE</h1><p>Profiles, flyers, venues and recorded sets from the artists who shaped UK rave culture. Every tape-pack link will lead back to the relevant DJ profile.</p><div class="hero-actions"><a class="museum-btn" href="packs.html">LISTEN TO TAPE PACKS →</a><a class="museum-btn ghost" href="mcs.html">OPEN MC ARCHIVE</a></div></div></section>
-<section class="dj-tools" aria-label="DJ archive filters"><input id="djSearch" class="dj-search" type="search" placeholder="Search the DJ archive…" aria-label="Search DJs"><select id="djFilter" class="dj-select" aria-label="Filter DJs"><option value="all">All DJs</option><option value="tapes">With mapped tape sets</option><option value="none">Awaiting tape links</option></select><div id="djCount" class="dj-count">0 DJs</div></section>
-<section><div class="dj-section-head"><h2>THE DJ GALLERY</h2><p>Only genuine archive photographs with a traceable source or permission will be used. No AI portraits and no incorrectly identified people.</p></div><div class="featured-dj-link"><a href="grooverider.html">OPEN GROOVERIDER — COMPLETE PROFILE TEMPLATE →</a></div><div class="dj-grid"></div><div class="empty">No DJs match this search.</div></section>
-<aside class="photo-policy"><strong>Photography policy:</strong> profile images will be added only when they are genuine photographs and the source or permission is recorded. Until then, a clear placeholder is safer than an AI-generated face or an unlicensed image.</aside>
-</main><script src="tape-pack-data.js"></script><script src="dj-photo-data.js"></script><script src="dj-archive-v1.js"></script></body></html>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>DJ Archive — Back to the Old Skool</title>
+<meta name="description" content="Explore DJs connected to UK rave flyers, events, venues and tape recordings from 1988 to 2005.">
+<link rel="stylesheet" href="dj-archive-v2.css">
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="index.html" aria-label="Back to the Old Skool Archive home">BACK TO THE<br><strong>OLD SKOOL</strong><span>ARCHIVE</span></a>
+  <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="mainNav">MENU</button>
+  <nav id="mainNav" class="main-nav" aria-label="Main navigation">
+    <a href="index.html">HOME</a><a href="flyers.html">FLYERS</a><a href="packs.html">TAPE PACKS</a><a class="active" href="djs.html">DJS</a><a href="mcs.html">MCS</a><a href="venues.html">VENUES</a><a href="promoters.html">PROMOTERS</a><a href="events.html">EVENTS</a><a href="radio.html">RADIO</a><a href="stories.html">STORIES</a><a href="search.html">SEARCH</a>
+  </nav>
+</header>
+
+<main>
+  <section class="hero">
+    <div class="hero-image" aria-hidden="true"></div>
+    <div class="hero-overlay"></div>
+    <div class="hero-copy">
+      <p class="kicker">THE PEOPLE BEHIND THE SOUND</p>
+      <h1>DJ ARCHIVE</h1>
+      <p class="hero-intro">A growing museum of the selectors, producers and pioneers who shaped UK rave culture from the late 1980s through 2005.</p>
+      <div class="hero-actions"><a class="btn primary" href="#directory">ENTER THE DJ GALLERY</a><a class="btn" href="packs.html">LISTEN TO TAPE PACKS</a></div>
+    </div>
+    <aside class="featured-card">
+      <img src="grooverider-2004.jpg" alt="Grooverider performing in 2004">
+      <div><span>FEATURED PROFILE</span><h2>Grooverider</h2><p>Career history, timeline, photographs and linked recordings.</p><a href="grooverider.html">OPEN COMPLETE PROFILE →</a><small>Photo: Alkivar, 2004 · CC BY-SA 2.5</small></div>
+    </aside>
+  </section>
+
+  <section class="stats" aria-label="DJ archive statistics">
+    <div><strong id="djTotal">21</strong><span>DJs indexed</span></div>
+    <div><strong id="linkedProfiles">1</strong><span>complete profile</span></div>
+    <div><strong id="tapeLinks">0</strong><span>mapped tape sets</span></div>
+    <div><strong>1988–2005</strong><span>archive period</span></div>
+  </section>
+
+  <section class="feature-strip">
+    <article><span>01</span><h3>Browse by name</h3><p>Use the A–Z directory to find every DJ currently indexed.</p></article>
+    <article><span>02</span><h3>Follow the connections</h3><p>Profiles link to flyers, tape packs, venues, promoters and events.</p></article>
+    <article><span>03</span><h3>Research first</h3><p>Only verified photographs and sourced history are published.</p></article>
+  </section>
+
+  <section id="directory" class="directory-section">
+    <div class="section-heading"><div><p class="kicker">EXPLORE THE COLLECTION</p><h2>DJ DIRECTORY</h2></div><p>Completed profiles appear as full museum exhibits. Other names remain in the research directory until their biography, imagery and archive links are verified.</p></div>
+
+    <div class="tools">
+      <label class="search-wrap"><span>SEARCH</span><input id="djSearch" type="search" placeholder="Search by DJ name…" autocomplete="off"></label>
+      <label><span>STATUS</span><select id="statusFilter"><option value="all">All DJs</option><option value="complete">Complete profiles</option><option value="research">Research directory</option><option value="tapes">With tape links</option></select></label>
+    </div>
+
+    <nav class="az" aria-label="A to Z DJ filter" id="azNav"></nav>
+
+    <div class="directory-layout">
+      <section class="complete-profiles">
+        <div class="subhead"><h3>COMPLETE EXHIBITS</h3><span>Ready to explore</span></div>
+        <a class="profile-tile" data-name="Grooverider" data-status="complete" data-letter="G" data-tapes="yes" href="grooverider.html">
+          <img src="grooverider-2004.jpg" alt="Grooverider performing in 2004">
+          <div class="profile-tile-copy"><span class="status complete">COMPLETE PROFILE</span><h4>GROOVERIDER</h4><p>DJ, producer, pirate-radio pioneer and co-founder of the Rage sound.</p><div class="chips"><span>Timeline</span><span>Photos</span><span>Tape sets</span><span>Flyers</span></div><strong>ENTER PROFILE →</strong><small>Photo: Alkivar, 2004 · CC BY-SA 2.5</small></div>
+        </a>
+      </section>
+
+      <section class="research-roster">
+        <div class="subhead"><h3>RESEARCH DIRECTORY</h3><span id="resultCount">20 names</span></div>
+        <div id="djRoster" class="roster"></div>
+        <div id="emptyState" class="empty" hidden>No DJs match this search.</div>
+      </section>
+    </div>
+  </section>
+
+  <section class="era-section">
+    <div class="section-heading"><div><p class="kicker">JOURNEY THROUGH THE SOUND</p><h2>BROWSE BY ERA</h2></div></div>
+    <div class="era-grid">
+      <article><span>1988–1991</span><h3>Acid house & early rave</h3><p>Warehouse pioneers, pirate radio and the first breakbeat selectors.</p></article>
+      <article><span>1992–1995</span><h3>Hardcore & jungle</h3><p>The Sanctuary era, fast-changing styles and legendary tape packs.</p></article>
+      <article><span>1996–2000</span><h3>Drum & bass & happy hardcore</h3><p>Specialist scenes, major labels and nationwide events.</p></article>
+      <article><span>2001–2005</span><h3>New generations</h3><p>Established legends alongside the next wave of UK rave DJs.</p></article>
+    </div>
+  </section>
+</main>
+
+<footer><a href="index.html">BACK TO THE OLD SKOOL ARCHIVE</a><span>DJ history, photographs, recordings and connected archive records.</span></footer>
+<script src="tape-pack-data-v2.js"></script>
+<script src="dj-archive-v2.js"></script>
+</body>
+</html>
