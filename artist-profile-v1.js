@@ -27,6 +27,17 @@ if (!publishable(artist)) {
   </section>`;
 } else {
   document.title = `${artist.name} — ${artist.role} Profile | Back to the Old Skool Archive`;
+  const fallbackEnvironment = artist.role === "MC"
+    ? "artist-env-mc-stage.jpg"
+    : (artist.activeFrom && artist.activeFrom <= 1990)
+      ? "artist-env-early-warehouse.jpg"
+      : (artist.activeFrom && artist.activeFrom >= 1997)
+        ? "artist-env-superclub-hangar.jpg"
+        : "artist-env-jungle-warehouse.jpg";
+  document.documentElement.style.setProperty(
+    "--artist-environment",
+    `url("${artist.environment || fallbackEnvironment}")`
+  );
   const fact = (label, value) => `<div class="fact"><small>${esc(label)}</small><b>${esc(value || "Researching")}</b></div>`;
   const timeline = artist.timeline.length
     ? artist.timeline.map(item => `<div class="timeline-item"><b>${esc(item.year)}</b><strong>${esc(item.title)}</strong><span>${esc(item.text)}</span></div>`).join("")
