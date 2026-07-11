@@ -20,3 +20,53 @@
 .profile-hero{isolation:isolate}
 .profile-hero:after{content:"";position:absolute;inset:0;z-index:0;background:radial-gradient(circle at 68% 35%,rgba(255,196,0,.06),transparent 33%),linear-gradient(180deg,rgba(0,0,0,.08),rgba(0,0,0,.24));pointer-events:none}
 .profile-photo,.profile-copy{z-index:2}
+
+
+/* Phase 3.37 interactive year archive */
+.timeline-heading{display:flex;align-items:end;justify-content:space-between;gap:30px;margin-bottom:20px}
+.timeline-heading h2{margin:4px 0 0}
+.timeline-heading>p{max-width:520px;margin:0;color:var(--muted);font-size:14px}
+.timeline-kicker{margin:0!important;color:var(--yellow)!important;text-transform:uppercase;font-size:11px!important;font-weight:900;letter-spacing:.12em}
+.year-strip{display:flex;gap:7px;overflow-x:auto;padding:3px 2px 15px;scrollbar-color:var(--yellow) #111}
+.year-button{flex:0 0 auto;min-width:67px;height:48px;border:1px solid #555;background:#090909;color:#eee;font-weight:900;cursor:pointer}
+.year-button:hover,.year-button.active{border-color:var(--yellow);background:var(--yellow);color:#000}
+.year-button.is-empty{opacity:.28;cursor:not-allowed;text-decoration:line-through}
+.year-view{min-height:250px;border-top:1px solid var(--line);padding-top:20px}
+.year-prompt{padding:35px;text-align:center;color:var(--muted)!important;border:1px dashed #444}
+.year-exhibit{background:#050505;border:1px solid rgba(255,196,0,.33)}
+.year-exhibit>header{display:grid;grid-template-columns:150px 1fr;gap:24px;padding:25px;border-bottom:1px solid var(--line);background:linear-gradient(90deg,rgba(255,196,0,.08),transparent)}
+.year-number{color:var(--yellow);font-size:54px;font-weight:1000;line-height:1}
+.year-exhibit h3{margin:0 0 8px;text-transform:uppercase;font-size:28px}
+.year-exhibit header p{margin:0!important;font-size:16px!important}
+.year-block{padding:22px 25px;border-bottom:1px solid var(--line)}
+.year-block:last-child{border-bottom:0}
+.year-block h4{margin:0 0 14px;color:var(--yellow);text-transform:uppercase;font-size:13px;letter-spacing:.1em}
+.year-block p{margin:8px 0!important;font-size:16px!important}
+.year-link-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
+.year-link-card{display:flex;flex-direction:column;min-height:120px;padding:15px;background:#0a0a0a;border:1px solid #333;text-decoration:none}
+.year-link-card:hover{border-color:var(--yellow)}
+.year-link-card img{width:100%;aspect-ratio:16/9;object-fit:cover;margin-bottom:12px}
+.year-link-type{color:var(--yellow);font-size:10px;text-transform:uppercase;font-weight:900;letter-spacing:.1em}
+.year-link-card strong{margin:7px 0;font-size:15px;line-height:1.35}
+.year-link-card em{margin-top:auto;color:#aaa;font-size:12px;font-style:normal;text-transform:uppercase;font-weight:900}
+.year-photo-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.year-photo{margin:0;background:#090909;border:1px solid #333}
+.photo-open{display:block;width:100%;padding:0;border:0;background:#000;cursor:zoom-in}
+.photo-open img{display:block;width:100%;aspect-ratio:4/3;object-fit:cover;filter:grayscale(1)}
+.year-photo figcaption{padding:13px}
+.year-photo figcaption strong,.year-photo figcaption small{display:block}
+.year-photo figcaption small{margin-top:7px;color:#8f8a82}
+.photo-lightbox{width:min(1100px,94vw);max-height:92vh;padding:0;border:1px solid var(--yellow);background:#030303;color:#fff}
+.photo-lightbox::backdrop{background:rgba(0,0,0,.9)}
+.photo-lightbox img{display:block;max-width:100%;max-height:85vh;margin:auto}
+.lightbox-close{position:absolute;top:8px;right:8px;z-index:2;width:42px;height:42px;border:1px solid var(--yellow);background:#000;color:var(--yellow);font-size:28px;cursor:pointer}
+
+@media(max-width:800px){
+  .timeline-heading{align-items:flex-start;flex-direction:column}
+  .year-exhibit>header{grid-template-columns:1fr;gap:8px}
+  .year-number{font-size:42px}
+  .year-link-grid,.year-photo-grid{grid-template-columns:1fr 1fr}
+}
+@media(max-width:520px){
+  .year-link-grid,.year-photo-grid{grid-template-columns:1fr}
+}
