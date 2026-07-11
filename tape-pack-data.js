@@ -1,37 +1,40 @@
+window.TAPE_ARCHIVE_CONFIG = {
+  archiveIdentifier: "helter-skelter-tape-packs",
+  metadataUrl: "https://archive.org/metadata/helter-skelter-tape-packs",
+  detailsUrl: "https://archive.org/details/helter-skelter-tape-packs",
+  downloadBase: "https://archive.org/download/helter-skelter-tape-packs/",
+  artwork: "https://archive.org/services/img/helter-skelter-tape-packs"
+};
+
 window.TAPE_PACKS = [
   {
-    id: "helter-skelter-collection",
-    title: "Helter Skelter Tape Packs",
+    id: "hs00-milwaukees",
+    folderMatch: "(HS00) Helter Skelter - Milwaukees",
+    title: "Helter Skelter — Milwaukees",
     promoter: "Helter Skelter",
-    year: null,
-    yearLabel: "Multiple years",
-    venue: "Various venues",
-    genres: ["Hardcore", "Drum & Bass"],
-    format: "Collection",
-    tapes: null,
-    status: "playable",
-    artwork: "https://archive.org/services/img/helter-skelter-tape-packs",
-    page: "helter-skelter-tape-packs.html",
-    player: "https://archive.org/embed/helter-skelter-tape-packs",
-    source: "https://archive.org/details/helter-skelter-tape-packs",
-    summary: "A surviving collection of Helter Skelter recordings with an embedded source player and download access."
-  },
-  {
-    id: "helter-skelter-energy",
-    title: "Helter Skelter — Energy",
-    promoter: "Helter Skelter",
-    year: 1996,
-    yearLabel: "1996",
-    venue: "Research in progress",
-    genres: ["Hardcore", "Drum & Bass"],
+    year: 1991,
+    yearLabel: "1991",
+    venue: "Milwaukees",
+    genres: ["Breakbeat Hardcore", "Drum & Bass"],
     format: "Event tape pack",
-    tapes: null,
     status: "playable",
     artwork: "https://archive.org/services/img/helter-skelter-tape-packs",
-    page: "pack-helter-skelter-energy.html",
-    player: "https://archive.org/embed/helter-skelter-tape-packs",
-    source: "https://archive.org/details/helter-skelter-tape-packs",
-    summary: "An event-linked tape exhibit connecting the recording to its promoter and archive source."
+    source: "https://archive.org/details/helter-skelter-tape-packs/HS+1-36/(HS00)+Helter+Skelter+-+Milwaukees",
+    summary: "Early Helter Skelter recordings from Milwaukees, grouped from the original Archive.org event folder.",
+    seedTracks: [
+      {
+        title: "Grooverider (1991) — Side A",
+        artist: "Grooverider",
+        side: "A",
+        file: "HS 1-36/(HS00) Helter Skelter - Milwaukees/Helter Skelter - Milwaukees - Grooverider (1991) (Side A).mp3"
+      },
+      {
+        title: "Grooverider (1991) — Side B",
+        artist: "Grooverider",
+        side: "B",
+        file: "HS 1-36/(HS00) Helter Skelter - Milwaukees/Helter Skelter - Milwaukees - Grooverider (1991) (Side B).mp3"
+      }
+    ]
   }
 ];
 
