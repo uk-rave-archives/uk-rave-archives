@@ -6,9 +6,9 @@
 <title>Tape Pack Museum 1988–2005 — Back to the Old Skool Archive</title>
 <meta name="description" content="Browse and listen to verified UK rave tape packs from 1988 to 2005.">
 <link rel="stylesheet" href="museum-sections.css">
-<link rel="stylesheet" href="tape-packs-v5.css">
+<link rel="stylesheet" href="tape-packs-v6.css">
 <script src="tape-pack-data.js" defer></script>
-<script src="tape-packs-v5.js" defer></script>
+<script src="tape-packs-v6.js" defer></script>
 </head>
 <body class="museum-section section-tapes">
 <div class="site-bg" aria-hidden="true"></div>
@@ -62,9 +62,17 @@
       <p class="section-note">Recordings are grouped from their original Archive.org folder paths, preventing sets from appearing under the wrong event.</p>
     </div>
     <div class="filter-panel">
-      <label class="search-field"><span>Search</span><input id="tape-search" type="search" placeholder="Event, DJ, venue or year"></label>
-      <label><span>Year</span><select id="year-filter"><option value="all">All years</option></select></label>
-      <button id="clear-filters" type="button">Clear filters</button>
+      <label class="search-field"><span>Search the full archive</span><input id="tape-search" type="search" placeholder="Event, DJ, venue or year"></label>
+      <button id="clear-filters" type="button">Clear search</button>
+    </div>
+    <div class="year-browser" aria-label="Browse tape packs by year">
+      <button class="year-step" id="previous-year" type="button" aria-label="Previous year">←</button>
+      <div class="year-tabs" id="year-tabs"></div>
+      <button class="year-step" id="next-year" type="button" aria-label="Next year">→</button>
+    </div>
+    <div class="selected-year-heading">
+      <div><span class="eyebrow">CURRENT GALLERY</span><h3 id="selected-year-title">Loading years</h3></div>
+      <p id="selected-year-summary">Choose a year to browse its surviving tape packs.</p>
     </div>
     <p class="results-message" id="results-message" aria-live="polite"></p>
     <div class="tape-catalogue" id="tape-catalogue"></div>
