@@ -266,7 +266,7 @@ window.BTOS_MASTER_ARCHIVE = {
         ],
         "aliases": [],
         "image": "dj-hype-profile.jpg",
-        "photoCredit": "Wikimedia Commons source; photograph taken at Egg London, 2018",
+        "photoCredit": "Wikimedia Commons source",
         "summary": "DJ, producer, scratch specialist and label founder whose career connects sound-system culture, pirate radio, jungle and drum & bass.",
         "biography": [
           "DJ Hype began around 1982 in London sound-system culture, working with the Heatwave sound system and developing the technical mixing and scratching style for which he became known.",
@@ -1966,7 +1966,7 @@ window.BTOS_MASTER_ARCHIVE = {
         ],
         "aliases": [],
         "image": "roni-size-profile.jpg",
-        "photoCredit": "Wikimedia Commons; photograph at the Savoy, Cork, 2005",
+        "photoCredit": "Wikimedia Commons source",
         "summary": "Bristol DJ and producer, Full Cycle co-founder and leader of Reprazent.",
         "biography": [
           "Roni Size grew up in Bristol and developed his production skills through the Sefton Park youth project, where equipment included record players, a mixing desk, drum machines and samplers.",
@@ -3777,7 +3777,7 @@ window.BTOS_MASTER_ARCHIVE = {
         "promoterId": "tazzmania",
         "venueId": null,
         "radioId": null,
-        "href": "events.html?event=tazzmania-1996-09-27"
+        "href": "event.html?id=tazzmania-1996-09-27"
       },
       {
         "id": "tazzmania-valentines-ball-1997",
@@ -3788,7 +3788,7 @@ window.BTOS_MASTER_ARCHIVE = {
         "promoterId": "tazzmania",
         "venueId": null,
         "radioId": null,
-        "href": "events.html?event=tazzmania-valentines-ball-1997"
+        "href": "event.html?id=tazzmania-valentines-ball-1997"
       },
       {
         "id": "tazzmania-hastings-pier-1996",
@@ -3799,7 +3799,7 @@ window.BTOS_MASTER_ARCHIVE = {
         "promoterId": "tazzmania",
         "venueId": "hastings-pier",
         "radioId": null,
-        "href": "events.html?event=tazzmania-hastings-pier-1996"
+        "href": "event.html?id=tazzmania-hastings-pier-1996"
       },
       {
         "id": "dance-planet-detonator-ix-1995",
@@ -3810,7 +3810,7 @@ window.BTOS_MASTER_ARCHIVE = {
         "promoterId": "dance-planet",
         "venueId": null,
         "radioId": null,
-        "href": "events.html?event=dance-planet-detonator-ix-1995"
+        "href": "event.html?id=dance-planet-detonator-ix-1995"
       },
       {
         "id": "kiss-100-hixxy-dougal-1997",
@@ -3821,7 +3821,7 @@ window.BTOS_MASTER_ARCHIVE = {
         "promoterId": null,
         "venueId": null,
         "radioId": "kiss-100-fm",
-        "href": "radio.html?record=kiss-100-hixxy-dougal-1997"
+        "href": "event.html?id=kiss-100-hixxy-dougal-1997"
       }
     ],
     "promoters": [

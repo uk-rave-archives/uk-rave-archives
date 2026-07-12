@@ -1,0 +1,4 @@
+<!doctype html><meta charset="utf-8"><title>Master Integration Report</title>
+<style>body{font:15px Arial;background:#080808;color:#eee;padding:30px}h1,h2{color:#ffc400}pre{white-space:pre-wrap;background:#111;border:1px solid #444;padding:18px}</style>
+<h1>Master Integration Report</h1><pre id="out">Loading…</pre>
+<script>fetch("master-integration-report.json").then(r=>r.json()).then(x=>document.querySelector("#out").textContent=JSON.stringify(x,null,2));</script>

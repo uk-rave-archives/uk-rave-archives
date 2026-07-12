@@ -608,23 +608,8 @@ window.BTOS_MASTER_RELATIONS = {
   },
   "videos:YPdiDExbxJE": {
     "artists": [
-      "demo",
       "sy"
     ]
   },
-  "artists:demo": {
-    "videos": [
-      "YPdiDExbxJE"
-    ]
-  },
-  "videos:oFqZQbxiyVY": {
-    "artists": [
-      "colin-bell"
-    ]
-  },
-  "artists:colin-bell": {
-    "videos": [
-      "oFqZQbxiyVY"
-    ]
-  }
+  "videos:oFqZQbxiyVY": {}
 };
