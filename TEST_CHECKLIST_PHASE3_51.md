@@ -1,0 +1,2 @@
+# Phase 3.51
+Every clearly readable DJ and MC from the uploaded flyers is matched or added as a staged artist and linked to its flyer/event. Test `phase351-test.html` and `new-flyer-batch-review.html`. Unknown dates remain in review. Existing page designs are unchanged.
