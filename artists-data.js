@@ -1,5 +1,810 @@
 window.BTOS_ARTISTS = [
   {
+    "id": "r-title",
+    "name": "'+r.title+'",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "acid-house-and-early-rave",
+    "name": "Acid house & early rave",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "aubrey",
+    "name": "Aubrey",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "bass-generator",
+    "name": "Bass Generator",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "brisk",
+    "name": "Brisk",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "carl-cox",
+    "name": "Carl Cox",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": []
+  },
+  {
+    "id": "clarkee",
+    "name": "Clarkee",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "colin-dale",
+    "name": "Colin Dale",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "complete-exhibits",
+    "name": "COMPLETE EXHIBITS",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "criminal",
+    "name": "Criminal",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "d-m-s",
+    "name": "D.M.S.",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "da-posse",
+    "name": "Da Posse",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "dj-directory",
+    "name": "DJ DIRECTORY",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "dj-hype",
+    "name": "DJ Hype",
+    "role": "DJ",
+    "public": true,
+    "activeFrom": 1982,
+    "archiveTo": 2005,
+    "origin": "London, England",
+    "styles": [
+      "Reggae Sound System",
+      "Breakbeat Hardcore",
+      "Jungle",
+      "Drum & Bass"
+    ],
+    "image": "dj-hype-profile.jpg",
+    "photoCredit": "Wikimedia Commons source; photograph taken at Egg London, 2018",
+    "summary": "DJ, producer, scratch specialist and label founder whose career connects sound-system culture, pirate radio, jungle and drum & bass.",
+    "biography": [
+      "DJ Hype began around 1982 in London sound-system culture, working with the Heatwave sound system and developing the technical mixing and scratching style for which he became known.",
+      "He moved into production by the end of the 1980s and was associated with early breakbeat and jungle records including Exorcist and The Bee. He also broadcast on London pirate station Fantasy FM.",
+      "Shot in the Dark reached the UK Singles Chart in 1993. By the mid-1990s Hype was a major rave and radio DJ, while Ganja Records became an important jungle and drum & bass label.",
+      "True Playaz, formed with Pascal, DJ Zinc and Rude Bwoy Monty, extended that label and event identity through the late 1990s and into the 2000s."
+    ],
+    "timeline": [],
+    "tapes": [
+      {
+        "title": "DJ Hype tape recordings",
+        "href": "packs.html?artist=dj-hype"
+      }
+    ],
+    "flyers": [
+      {
+        "title": "DJ Hype flyer appearances",
+        "href": "flyers.html?artist=dj-hype"
+      }
+    ],
+    "events": [
+      {
+        "title": "DJ Hype event appearances",
+        "href": "events.html?artist=dj-hype"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Playaz Records history",
+        "href": "https://shop.playaz.co.uk/pages/about-us"
+      },
+      {
+        "title": "DJ Hype reference biography",
+        "href": "https://en.wikipedia.org/wiki/DJ_Hype"
+      },
+      {
+        "title": "DJ Hype interview on early sound-system history",
+        "href": "https://www.thestudentpocketguide.com/2017/09/entertainment/music/interview-dj-hype/"
+      },
+      {
+        "title": "Wikimedia Commons photograph",
+        "href": "https://commons.wikimedia.org/wiki/File:DJ_Hype_at_Egg_(2018).jpg"
+      }
+    ],
+    "environment": "artist-env-pirate-radio.jpg",
+    "yearData": {
+      "1982": {
+        "title": "Heatwave sound-system beginnings",
+        "summary": "Hype began in London reggae sound-system culture as a teenager.",
+        "details": [
+          "He described building a sound system with school friends and playing illegal house parties."
+        ],
+        "photos": [],
+        "tapes": [],
+        "flyers": [],
+        "events": [],
+        "releases": [],
+        "links": [
+          {
+            "title": "DJ Hype interview",
+            "href": "https://www.thestudentpocketguide.com/2017/09/entertainment/music/interview-dj-hype/"
+          }
+        ]
+      },
+      "1989": {
+        "title": "Early production work",
+        "summary": "Hype began engineering and co-producing records during the transition toward breakbeat hardcore and jungle.",
+        "details": [],
+        "photos": [],
+        "tapes": [],
+        "flyers": [],
+        "events": [],
+        "releases": [
+          {
+            "title": "Exorcist",
+            "href": "artist.html?id=dj-hype#connections"
+          },
+          {
+            "title": "The Bee",
+            "href": "artist.html?id=dj-hype#connections"
+          }
+        ],
+        "links": [
+          {
+            "title": "DJ Hype reference biography",
+            "href": "https://en.wikipedia.org/wiki/DJ_Hype"
+          }
+        ]
+      },
+      "1993": {
+        "title": "Shot in the Dark",
+        "summary": "Shot in the Dark entered the UK Singles Chart and became a major early Hype release.",
+        "details": [],
+        "photos": [],
+        "tapes": [],
+        "flyers": [],
+        "events": [],
+        "releases": [
+          {
+            "title": "Shot in the Dark",
+            "href": "artist.html?id=dj-hype#connections"
+          }
+        ],
+        "links": [
+          {
+            "title": "DJ Hype reference biography",
+            "href": "https://en.wikipedia.org/wiki/DJ_Hype"
+          }
+        ]
+      },
+      "1994": {
+        "title": "Jungle rave breakthrough",
+        "summary": "Hype was established as a major breakbeat-hardcore and jungle DJ by the mid-1990s.",
+        "details": [
+          "The period included radio work and recognition for his DJ performances."
+        ],
+        "photos": [],
+        "tapes": [],
+        "flyers": [],
+        "events": [
+          {
+            "title": "DJ Hype event archive — 1994",
+            "href": "events.html?artist=dj-hype&year=1994"
+          }
+        ],
+        "releases": [],
+        "links": [
+          {
+            "title": "DJ Hype reference biography",
+            "href": "https://en.wikipedia.org/wiki/DJ_Hype"
+          }
+        ]
+      },
+      "1996": {
+        "title": "Ganja Records and Still Smokin'",
+        "summary": "Ganja Records and the Still Smokin' compilation documented Hype’s role in mid-1990s jungle and drum & bass.",
+        "details": [],
+        "photos": [],
+        "tapes": [],
+        "flyers": [],
+        "events": [],
+        "releases": [
+          {
+            "title": "Still Smokin'",
+            "href": "artist.html?id=dj-hype#connections"
+          }
+        ],
+        "links": [
+          {
+            "title": "Playaz Records history",
+            "href": "https://shop.playaz.co.uk/pages/about-us"
+          }
+        ]
+      },
+      "1997": {
+        "title": "True Playaz and New Frontiers",
+        "summary": "The True Playaz identity developed with Pascal, DJ Zinc and Rude Bwoy Monty.",
+        "details": [],
+        "photos": [],
+        "tapes": [],
+        "flyers": [],
+        "events": [],
+        "releases": [
+          {
+            "title": "New Frontiers",
+            "href": "artist.html?id=dj-hype#connections"
+          }
+        ],
+        "links": [
+          {
+            "title": "DJ Hype reference biography",
+            "href": "https://en.wikipedia.org/wiki/DJ_Hype"
+          }
+        ]
+      }
+    },
+    "youtubeVideoIds": [
+      "PbtOJ9o22I8"
+    ],
+    "youtubeTrackAppearanceIds": []
+  },
+  {
+    "id": "dj-lime",
+    "name": "DJ Lime",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "dj-seduction",
+    "name": "DJ Seduction",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "youtubeVideoIds": [
+      "WJqRAzlQ6us"
+    ],
+    "youtubeTrackAppearanceIds": []
+  },
+  {
+    "id": "dj-ss",
+    "name": "DJ SS",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": []
+  },
+  {
+    "id": "dougal",
+    "name": "Dougal",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "youtubeVideoIds": [
+      "9z4-oM_AjL4",
+      "56-fDU0Y6C8",
+      "xap_83QDu9w",
+      "BGZnFg-YGPg",
+      "ORix0yEL0xY",
+      "17VGbimht8U",
+      "DqSp_3zrAuM",
+      "aeDTyIq54EU"
+    ],
+    "youtubeTrackAppearanceIds": []
+  },
+  {
+    "id": "dr-s-gachet",
+    "name": "Dr S Gachet",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "drum-and-bass-and-happy-hardcore",
+    "name": "Drum & bass & happy hardcore",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "easy-d",
+    "name": "Easy D",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "easygroove",
+    "name": "Easygroove",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": []
+  },
+  {
+    "id": "eddie-richards",
+    "name": "Eddie Richards",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "ellis-dee",
+    "name": "Ellis Dee",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": []
+  },
+  {
+    "id": "evil-o",
+    "name": "Evil O",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "fabio",
+    "name": "Fabio",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": []
+  },
+  {
+    "id": "face",
+    "name": "Face",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "follow-the-connections",
+    "name": "Follow the connections",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "force-and-styles",
+    "name": "Force & Styles",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "frankie-bones",
+    "name": "Frankie Bones",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "frankie-valentine",
+    "name": "Frankie Valentine",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
     "id": "grooverider",
     "name": "Grooverider",
     "role": "DJ",
@@ -53,6 +858,10 @@ window.BTOS_ARTISTS = [
       {
         "title": "Helter Skelter — Milwaukees, 1991",
         "href": "packs.html?artist=grooverider"
+      },
+      {
+        "title": "Helter Skelter — Milwaukees Side A",
+        "href": "packs.html?pack=helter-skelter-milwaukees-1991"
       }
     ],
     "flyers": [
@@ -305,150 +1114,146 @@ window.BTOS_ARTISTS = [
     }
   },
   {
-    "id": "mc-det",
-    "name": "MC Det",
-    "role": "MC",
-    "public": true,
-    "activeFrom": 1988,
+    "id": "hardcore-and-jungle",
+    "name": "Hardcore & jungle",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
     "archiveTo": 2005,
-    "origin": "United Kingdom",
-    "styles": [
-      "Jungle",
-      "Drum & Bass",
-      "Rap"
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "hixxy",
+    "name": "Hixxy",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "youtubeVideoIds": [
+      "56-fDU0Y6C8",
+      "aeDTyIq54EU"
     ],
-    "image": "mcdet.webp",
-    "photoCredit": "Rinse FM",
-    "summary": "Veteran jungle and drum & bass MC linked to pirate radio, rave stages and recorded projects.",
-    "biography": [
-      "MC Det has been involved in jungle since the rave era and is closely associated with the pirate-radio culture around Kool FM.",
-      "His archive record connects live MC work, radio appearances and recorded projects. Only material with a traceable source is displayed."
-    ],
-    "timeline": [
-      {
-        "year": "Late 1980s–early 1990s",
-        "title": "Underground scene",
-        "text": "Early activity in London’s developing rave and radio networks."
-      },
-      {
-        "year": "1995",
-        "title": "Out of Det",
-        "text": "Recorded-project milestone during the jungle era."
-      },
-      {
-        "year": "1996–2005",
-        "title": "Radio, events and collaborations",
-        "text": "Continued MC and collaborative activity through the archive period."
-      }
-    ],
-    "tapes": [
-      {
-        "title": "MC Det tape and radio recordings",
-        "href": "packs.html?artist=mc-det"
-      }
-    ],
-    "flyers": [
-      {
-        "title": "MC Det flyer appearances",
-        "href": "flyers.html?artist=mc-det"
-      }
-    ],
-    "events": [
-      {
-        "title": "MC Det event appearances",
-        "href": "events.html?artist=mc-det"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Rinse FM artist profile",
-        "href": "https://www.rinse.fm/shows/mc-det"
-      },
-      {
-        "title": "Rinse / Kool FM episode archive",
-        "href": "https://www.rinse.fm/episodes/mc-det-15-05-2025-2200"
-      }
-    ],
-    "environment": "artist-env-mc-stage.jpg",
-    "yearData": {
-      "1995": {
-        "title": "Out of Det",
-        "summary": "MC Det released the recorded project Out of Det during the mid-1990s jungle era.",
-        "details": [
-          "The release demonstrates his activity beyond live rave MCing."
-        ],
-        "photos": [],
-        "tapes": [],
-        "flyers": [
-          {
-            "title": "MC Det archive flyer connection",
-            "image": "mcdet-flyer.jpg",
-            "href": "flyers.html?artist=mc-det&year=1995"
-          }
-        ],
-        "events": [],
-        "releases": [
-          {
-            "title": "Out of Det",
-            "href": "artist.html?id=mc-det#releases"
-          }
-        ],
-        "links": [
-          {
-            "label": "Rinse FM profile",
-            "href": "https://www.rinse.fm/shows/mc-det"
-          }
-        ]
-      },
-      "2000": {
-        "title": "Radio, live events and collaborations",
-        "summary": "MC Det continued appearing across drum & bass radio, events and collaborative projects around this period.",
-        "details": [],
-        "photos": [
-          {
-            "src": "mcdet.webp",
-            "caption": "MC Det artist image",
-            "credit": "Rinse FM"
-          }
-        ],
-        "tapes": [
-          {
-            "title": "MC Det tape and radio archive",
-            "href": "packs.html?artist=mc-det"
-          }
-        ],
-        "flyers": [],
-        "events": [
-          {
-            "title": "MC Det event archive",
-            "href": "events.html?artist=mc-det"
-          }
-        ],
-        "releases": [],
-        "links": [
-          {
-            "label": "Rinse FM profile",
-            "href": "https://www.rinse.fm/shows/mc-det"
-          }
-        ]
-      },
-      "2005": {
-        "title": "Archive period boundary",
-        "summary": "MC Det’s profile remains connected to documented radio, live and recording activity through the archive period.",
-        "details": [],
-        "photos": [],
-        "tapes": [],
-        "flyers": [],
-        "events": [],
-        "releases": [],
-        "links": [
-          {
-            "label": "Rinse FM profile",
-            "href": "https://www.rinse.fm/shows/mc-det"
-          }
-        ]
-      }
-    }
+    "youtubeTrackAppearanceIds": []
+  },
+  {
+    "id": "hypa-hyper",
+    "name": "Hypa Hyper",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "jumping-jack-frost",
+    "name": "Jumping Jack Frost",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": []
+  },
+  {
+    "id": "kenny-ken",
+    "name": "Kenny Ken",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": []
+  },
+  {
+    "id": "krome",
+    "name": "Krome",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "linked-flyers",
+    "name": "Linked Flyers",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
   },
   {
     "id": "ltj-bukem",
@@ -648,72 +1453,752 @@ window.BTOS_ARTISTS = [
     }
   },
   {
-    "id": "dj-hype",
-    "name": "DJ Hype",
+    "id": "m-zone",
+    "name": "M-Zone",
     "role": "DJ",
-    "public": true,
-    "activeFrom": 1982,
+    "public": false,
+    "activeFrom": null,
     "archiveTo": 2005,
-    "origin": "London, England",
-    "styles": [
-      "Reggae Sound System",
-      "Breakbeat Hardcore",
-      "Jungle",
-      "Drum & Bass"
-    ],
-    "image": "dj-hype-profile.jpg",
-    "photoCredit": "Wikimedia Commons source; photograph taken at Egg London, 2018",
-    "summary": "DJ, producer, scratch specialist and label founder whose career connects sound-system culture, pirate radio, jungle and drum & bass.",
-    "biography": [
-      "DJ Hype began around 1982 in London sound-system culture, working with the Heatwave sound system and developing the technical mixing and scratching style for which he became known.",
-      "He moved into production by the end of the 1980s and was associated with early breakbeat and jungle records including Exorcist and The Bee. He also broadcast on London pirate station Fantasy FM.",
-      "Shot in the Dark reached the UK Singles Chart in 1993. By the mid-1990s Hype was a major rave and radio DJ, while Ganja Records became an important jungle and drum & bass label.",
-      "True Playaz, formed with Pascal, DJ Zinc and Rude Bwoy Monty, extended that label and event identity through the late 1990s and into the 2000s."
-    ],
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
     "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "man-parris",
+    "name": "Man Parris",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "mc-det",
+    "name": "MC Det",
+    "role": "MC",
+    "public": true,
+    "activeFrom": 1988,
+    "archiveTo": 2005,
+    "origin": "United Kingdom",
+    "styles": [
+      "Jungle",
+      "Drum & Bass",
+      "Rap"
+    ],
+    "image": "mcdet.webp",
+    "photoCredit": "Rinse FM",
+    "summary": "Veteran jungle and drum & bass MC linked to pirate radio, rave stages and recorded projects.",
+    "biography": [
+      "MC Det has been involved in jungle since the rave era and is closely associated with the pirate-radio culture around Kool FM.",
+      "His archive record connects live MC work, radio appearances and recorded projects. Only material with a traceable source is displayed."
+    ],
+    "timeline": [
+      {
+        "year": "Late 1980s–early 1990s",
+        "title": "Underground scene",
+        "text": "Early activity in London’s developing rave and radio networks."
+      },
+      {
+        "year": "1995",
+        "title": "Out of Det",
+        "text": "Recorded-project milestone during the jungle era."
+      },
+      {
+        "year": "1996–2005",
+        "title": "Radio, events and collaborations",
+        "text": "Continued MC and collaborative activity through the archive period."
+      }
+    ],
     "tapes": [
       {
-        "title": "DJ Hype tape recordings",
-        "href": "packs.html?artist=dj-hype"
+        "title": "MC Det tape and radio recordings",
+        "href": "packs.html?artist=mc-det"
       }
     ],
     "flyers": [
       {
-        "title": "DJ Hype flyer appearances",
-        "href": "flyers.html?artist=dj-hype"
+        "title": "MC Det flyer appearances",
+        "href": "flyers.html?artist=mc-det"
       }
     ],
     "events": [
       {
-        "title": "DJ Hype event appearances",
-        "href": "events.html?artist=dj-hype"
+        "title": "MC Det event appearances",
+        "href": "events.html?artist=mc-det"
       }
     ],
     "sources": [
       {
-        "title": "Playaz Records history",
-        "href": "https://shop.playaz.co.uk/pages/about-us"
+        "title": "Rinse FM artist profile",
+        "href": "https://www.rinse.fm/shows/mc-det"
       },
       {
-        "title": "DJ Hype reference biography",
-        "href": "https://en.wikipedia.org/wiki/DJ_Hype"
+        "title": "Rinse / Kool FM episode archive",
+        "href": "https://www.rinse.fm/episodes/mc-det-15-05-2025-2200"
+      }
+    ],
+    "environment": "artist-env-mc-stage.jpg",
+    "yearData": {
+      "1995": {
+        "title": "Out of Det",
+        "summary": "MC Det released the recorded project Out of Det during the mid-1990s jungle era.",
+        "details": [
+          "The release demonstrates his activity beyond live rave MCing."
+        ],
+        "photos": [],
+        "tapes": [],
+        "flyers": [
+          {
+            "title": "MC Det archive flyer connection",
+            "image": "mcdet-flyer.jpg",
+            "href": "flyers.html?artist=mc-det&year=1995"
+          }
+        ],
+        "events": [],
+        "releases": [
+          {
+            "title": "Out of Det",
+            "href": "artist.html?id=mc-det#releases"
+          }
+        ],
+        "links": [
+          {
+            "label": "Rinse FM profile",
+            "href": "https://www.rinse.fm/shows/mc-det"
+          }
+        ]
+      },
+      "2000": {
+        "title": "Radio, live events and collaborations",
+        "summary": "MC Det continued appearing across drum & bass radio, events and collaborative projects around this period.",
+        "details": [],
+        "photos": [
+          {
+            "src": "mcdet.webp",
+            "caption": "MC Det artist image",
+            "credit": "Rinse FM"
+          }
+        ],
+        "tapes": [
+          {
+            "title": "MC Det tape and radio archive",
+            "href": "packs.html?artist=mc-det"
+          }
+        ],
+        "flyers": [],
+        "events": [
+          {
+            "title": "MC Det event archive",
+            "href": "events.html?artist=mc-det"
+          }
+        ],
+        "releases": [],
+        "links": [
+          {
+            "label": "Rinse FM profile",
+            "href": "https://www.rinse.fm/shows/mc-det"
+          }
+        ]
+      },
+      "2005": {
+        "title": "Archive period boundary",
+        "summary": "MC Det’s profile remains connected to documented radio, live and recording activity through the archive period.",
+        "details": [],
+        "photos": [],
+        "tapes": [],
+        "flyers": [],
+        "events": [],
+        "releases": [],
+        "links": [
+          {
+            "label": "Rinse FM profile",
+            "href": "https://www.rinse.fm/shows/mc-det"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "mc-energy",
+    "name": "MC Energy",
+    "role": "MC",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "mc-fearless",
+    "name": "MC Fearless",
+    "role": "MC",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": []
+  },
+  {
+    "id": "mc-gq",
+    "name": "MC GQ",
+    "role": "MC",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": []
+  },
+  {
+    "id": "mc-magika",
+    "name": "MC Magika",
+    "role": "MC",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "mc-ribbz",
+    "name": "MC Ribbz",
+    "role": "MC",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "mc-sharkey",
+    "name": "MC Sharkey",
+    "role": "MC",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": []
+  },
+  {
+    "id": "mc-storm",
+    "name": "MC Storm",
+    "role": "MC",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "mc-whizzkid",
+    "name": "MC Whizzkid",
+    "role": "MC",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "mickey-finn",
+    "name": "Mickey Finn",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": []
+  },
+  {
+    "id": "mikey-b",
+    "name": "Mikey B",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "moose",
+    "name": "Moose",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "new-generations",
+    "name": "New generations",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "nexus-21",
+    "name": "Nexus 21",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "nicky-b",
+    "name": "Nicky B",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "nicky-blackmarket",
+    "name": "Nicky Blackmarket",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "paul-trouble-anderson",
+    "name": "Paul Trouble Anderson",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "pilgrim",
+    "name": "Pilgrim",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "quadrophonia",
+    "name": "Quadrophonia",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "randall",
+    "name": "Randall",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": []
+  },
+  {
+    "id": "rap",
+    "name": "Rap",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "rat-pack",
+    "name": "Rat Pack",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "ratty",
+    "name": "Ratty",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": []
+  },
+  {
+    "id": "ray-keith",
+    "name": "Ray Keith",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "rhythm-doctor",
+    "name": "Rhythm Doctor",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "richie-fingers",
+    "name": "Richie Fingers",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "roni-size",
+    "name": "Roni Size",
+    "role": "DJ",
+    "public": true,
+    "activeFrom": 1988,
+    "archiveTo": 2005,
+    "origin": "Bristol, England",
+    "styles": [
+      "Jungle",
+      "Drum & Bass",
+      "Hip Hop",
+      "Breakbeat"
+    ],
+    "image": "roni-size-profile.jpg",
+    "photoCredit": "Wikimedia Commons; photograph at the Savoy, Cork, 2005",
+    "summary": "Bristol DJ and producer, Full Cycle co-founder and leader of Reprazent.",
+    "biography": [
+      "Roni Size grew up in Bristol and developed his production skills through the Sefton Park youth project, where equipment included record players, a mixing desk, drum machines and samplers.",
+      "With Krust, Suv and DJ Die he helped establish Full Cycle Records. His early-1990s releases and collaborations connected Bristol’s sound-system heritage with jungle and drum & bass.",
+      "Roni Size & Reprazent made their live debut at Tribal Gathering in 1997. Their album New Forms won the Mercury Prize that year.",
+      "Reprazent continued with In the Møde in 2000, while Roni Size returned to solo and Full Cycle work through releases including Touching Down in 2002."
+    ],
+    "timeline": [],
+    "tapes": [
+      {
+        "title": "Roni Size tape recordings",
+        "href": "packs.html?artist=roni-size"
+      }
+    ],
+    "flyers": [
+      {
+        "title": "Roni Size flyer appearances",
+        "href": "flyers.html?artist=roni-size"
+      }
+    ],
+    "events": [
+      {
+        "title": "Roni Size event appearances",
+        "href": "events.html?artist=roni-size"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Full Cycle artist page",
+        "href": "https://fullcyclerecords.co.uk/artist/roni-size/"
       },
       {
-        "title": "DJ Hype interview on early sound-system history",
-        "href": "https://www.thestudentpocketguide.com/2017/09/entertainment/music/interview-dj-hype/"
+        "title": "Resident Advisor biography",
+        "href": "https://ra.co/dj/ronisize/biography"
+      },
+      {
+        "title": "Roni Size reference biography",
+        "href": "https://en.wikipedia.org/wiki/Roni_Size"
       },
       {
         "title": "Wikimedia Commons photograph",
-        "href": "https://commons.wikimedia.org/wiki/File:DJ_Hype_at_Egg_(2018).jpg"
+        "href": "https://commons.wikimedia.org/wiki/File:Roni_Size_09.jpg"
       }
     ],
-    "environment": "artist-env-pirate-radio.jpg",
+    "environment": "artist-env-early-warehouse.jpg",
     "yearData": {
-      "1982": {
-        "title": "Heatwave sound-system beginnings",
-        "summary": "Hype began in London reggae sound-system culture as a teenager.",
+      "1993": {
+        "title": "Full Cycle and Dope Dragon",
+        "summary": "Full Cycle and Dope Dragon emerged from Bristol’s developing jungle network.",
         "details": [
-          "He described building a sound system with school friends and playing illegal house parties."
+          "Roni Size worked alongside Krust, Suv and DJ Die in the Full Cycle organisation."
         ],
         "photos": [],
         "tapes": [],
@@ -722,127 +2207,148 @@ window.BTOS_ARTISTS = [
         "releases": [],
         "links": [
           {
-            "title": "DJ Hype interview",
-            "href": "https://www.thestudentpocketguide.com/2017/09/entertainment/music/interview-dj-hype/"
-          }
-        ]
-      },
-      "1989": {
-        "title": "Early production work",
-        "summary": "Hype began engineering and co-producing records during the transition toward breakbeat hardcore and jungle.",
-        "details": [],
-        "photos": [],
-        "tapes": [],
-        "flyers": [],
-        "events": [],
-        "releases": [
-          {
-            "title": "Exorcist",
-            "href": "artist.html?id=dj-hype#connections"
-          },
-          {
-            "title": "The Bee",
-            "href": "artist.html?id=dj-hype#connections"
-          }
-        ],
-        "links": [
-          {
-            "title": "DJ Hype reference biography",
-            "href": "https://en.wikipedia.org/wiki/DJ_Hype"
-          }
-        ]
-      },
-      "1993": {
-        "title": "Shot in the Dark",
-        "summary": "Shot in the Dark entered the UK Singles Chart and became a major early Hype release.",
-        "details": [],
-        "photos": [],
-        "tapes": [],
-        "flyers": [],
-        "events": [],
-        "releases": [
-          {
-            "title": "Shot in the Dark",
-            "href": "artist.html?id=dj-hype#connections"
-          }
-        ],
-        "links": [
-          {
-            "title": "DJ Hype reference biography",
-            "href": "https://en.wikipedia.org/wiki/DJ_Hype"
+            "title": "Roni Size reference biography",
+            "href": "https://en.wikipedia.org/wiki/Roni_Size"
           }
         ]
       },
       "1994": {
-        "title": "Jungle rave breakthrough",
-        "summary": "Hype was established as a major breakbeat-hardcore and jungle DJ by the mid-1990s.",
-        "details": [
-          "The period included radio work and recognition for his DJ performances."
+        "title": "Agility",
+        "summary": "Roni Size and DJ Die released Agility through V Recordings.",
+        "details": [],
+        "photos": [],
+        "tapes": [],
+        "flyers": [],
+        "events": [],
+        "releases": [
+          {
+            "title": "Agility",
+            "href": "artist.html?id=roni-size#connections"
+          }
         ],
+        "links": [
+          {
+            "title": "Roni Size reference biography",
+            "href": "https://en.wikipedia.org/wiki/Roni_Size"
+          }
+        ]
+      },
+      "1997": {
+        "title": "New Forms and the Mercury Prize",
+        "summary": "Reprazent made its live debut at Tribal Gathering, released New Forms and won the Mercury Prize.",
+        "details": [],
         "photos": [],
         "tapes": [],
         "flyers": [],
         "events": [
           {
-            "title": "DJ Hype event archive — 1994",
-            "href": "events.html?artist=dj-hype&year=1994"
+            "title": "Tribal Gathering live debut",
+            "href": "events.html?artist=roni-size&year=1997"
+          }
+        ],
+        "releases": [
+          {
+            "title": "New Forms",
+            "href": "artist.html?id=roni-size#connections"
+          }
+        ],
+        "links": [
+          {
+            "title": "Roni Size reference biography",
+            "href": "https://en.wikipedia.org/wiki/Roni_Size"
+          }
+        ]
+      },
+      "2000": {
+        "title": "In the Møde",
+        "summary": "Roni Size & Reprazent released In the Møde.",
+        "details": [],
+        "photos": [],
+        "tapes": [],
+        "flyers": [],
+        "events": [],
+        "releases": [
+          {
+            "title": "In the Møde",
+            "href": "artist.html?id=roni-size#connections"
+          }
+        ],
+        "links": [
+          {
+            "title": "Roni Size reference biography",
+            "href": "https://en.wikipedia.org/wiki/Roni_Size"
+          }
+        ]
+      },
+      "2002": {
+        "title": "Touching Down",
+        "summary": "Roni Size returned to a solo album format with Touching Down.",
+        "details": [],
+        "photos": [],
+        "tapes": [],
+        "flyers": [],
+        "events": [],
+        "releases": [
+          {
+            "title": "Touching Down",
+            "href": "artist.html?id=roni-size#connections"
+          }
+        ],
+        "links": [
+          {
+            "title": "Roni Size discography reference",
+            "href": "https://www.scaruffi.com/vol6/ronisize.html"
+          }
+        ]
+      },
+      "2005": {
+        "title": "Savoy, Cork",
+        "summary": "A verified photograph records Roni Size performing at the Savoy in Cork in 2005.",
+        "details": [],
+        "photos": [
+          {
+            "src": "roni-size-profile.jpg",
+            "caption": "Roni Size at the Savoy, Cork",
+            "credit": "Wikimedia Commons, 2005"
+          }
+        ],
+        "tapes": [],
+        "flyers": [],
+        "events": [
+          {
+            "title": "Roni Size event archive — 2005",
+            "href": "events.html?artist=roni-size&year=2005"
           }
         ],
         "releases": [],
         "links": [
           {
-            "title": "DJ Hype reference biography",
-            "href": "https://en.wikipedia.org/wiki/DJ_Hype"
-          }
-        ]
-      },
-      "1996": {
-        "title": "Ganja Records and Still Smokin'",
-        "summary": "Ganja Records and the Still Smokin' compilation documented Hype’s role in mid-1990s jungle and drum & bass.",
-        "details": [],
-        "photos": [],
-        "tapes": [],
-        "flyers": [],
-        "events": [],
-        "releases": [
-          {
-            "title": "Still Smokin'",
-            "href": "artist.html?id=dj-hype#connections"
-          }
-        ],
-        "links": [
-          {
-            "title": "Playaz Records history",
-            "href": "https://shop.playaz.co.uk/pages/about-us"
-          }
-        ]
-      },
-      "1997": {
-        "title": "True Playaz and New Frontiers",
-        "summary": "The True Playaz identity developed with Pascal, DJ Zinc and Rude Bwoy Monty.",
-        "details": [],
-        "photos": [],
-        "tapes": [],
-        "flyers": [],
-        "events": [],
-        "releases": [
-          {
-            "title": "New Frontiers",
-            "href": "artist.html?id=dj-hype#connections"
-          }
-        ],
-        "links": [
-          {
-            "title": "DJ Hype reference biography",
-            "href": "https://en.wikipedia.org/wiki/DJ_Hype"
+            "title": "Wikimedia Commons photograph",
+            "href": "https://commons.wikimedia.org/wiki/File:Roni_Size_09.jpg"
           }
         ]
       }
-    },
-    "youtubeVideoIds": [
-      "PbtOJ9o22I8"
-    ],
-    "youtubeTrackAppearanceIds": []
+    }
+  },
+  {
+    "id": "seduction",
+    "name": "Seduction",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
   },
   {
     "id": "shy-fx",
@@ -1050,206 +2556,8 @@ window.BTOS_ARTISTS = [
     ]
   },
   {
-    "id": "roni-size",
-    "name": "Roni Size",
-    "role": "DJ",
-    "public": true,
-    "activeFrom": 1988,
-    "archiveTo": 2005,
-    "origin": "Bristol, England",
-    "styles": [
-      "Jungle",
-      "Drum & Bass",
-      "Hip Hop",
-      "Breakbeat"
-    ],
-    "image": "roni-size-profile.jpg",
-    "photoCredit": "Wikimedia Commons; photograph at the Savoy, Cork, 2005",
-    "summary": "Bristol DJ and producer, Full Cycle co-founder and leader of Reprazent.",
-    "biography": [
-      "Roni Size grew up in Bristol and developed his production skills through the Sefton Park youth project, where equipment included record players, a mixing desk, drum machines and samplers.",
-      "With Krust, Suv and DJ Die he helped establish Full Cycle Records. His early-1990s releases and collaborations connected Bristol’s sound-system heritage with jungle and drum & bass.",
-      "Roni Size & Reprazent made their live debut at Tribal Gathering in 1997. Their album New Forms won the Mercury Prize that year.",
-      "Reprazent continued with In the Møde in 2000, while Roni Size returned to solo and Full Cycle work through releases including Touching Down in 2002."
-    ],
-    "timeline": [],
-    "tapes": [
-      {
-        "title": "Roni Size tape recordings",
-        "href": "packs.html?artist=roni-size"
-      }
-    ],
-    "flyers": [
-      {
-        "title": "Roni Size flyer appearances",
-        "href": "flyers.html?artist=roni-size"
-      }
-    ],
-    "events": [
-      {
-        "title": "Roni Size event appearances",
-        "href": "events.html?artist=roni-size"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Full Cycle artist page",
-        "href": "https://fullcyclerecords.co.uk/artist/roni-size/"
-      },
-      {
-        "title": "Resident Advisor biography",
-        "href": "https://ra.co/dj/ronisize/biography"
-      },
-      {
-        "title": "Roni Size reference biography",
-        "href": "https://en.wikipedia.org/wiki/Roni_Size"
-      },
-      {
-        "title": "Wikimedia Commons photograph",
-        "href": "https://commons.wikimedia.org/wiki/File:Roni_Size_09.jpg"
-      }
-    ],
-    "environment": "artist-env-early-warehouse.jpg",
-    "yearData": {
-      "1993": {
-        "title": "Full Cycle and Dope Dragon",
-        "summary": "Full Cycle and Dope Dragon emerged from Bristol’s developing jungle network.",
-        "details": [
-          "Roni Size worked alongside Krust, Suv and DJ Die in the Full Cycle organisation."
-        ],
-        "photos": [],
-        "tapes": [],
-        "flyers": [],
-        "events": [],
-        "releases": [],
-        "links": [
-          {
-            "title": "Roni Size reference biography",
-            "href": "https://en.wikipedia.org/wiki/Roni_Size"
-          }
-        ]
-      },
-      "1994": {
-        "title": "Agility",
-        "summary": "Roni Size and DJ Die released Agility through V Recordings.",
-        "details": [],
-        "photos": [],
-        "tapes": [],
-        "flyers": [],
-        "events": [],
-        "releases": [
-          {
-            "title": "Agility",
-            "href": "artist.html?id=roni-size#connections"
-          }
-        ],
-        "links": [
-          {
-            "title": "Roni Size reference biography",
-            "href": "https://en.wikipedia.org/wiki/Roni_Size"
-          }
-        ]
-      },
-      "1997": {
-        "title": "New Forms and the Mercury Prize",
-        "summary": "Reprazent made its live debut at Tribal Gathering, released New Forms and won the Mercury Prize.",
-        "details": [],
-        "photos": [],
-        "tapes": [],
-        "flyers": [],
-        "events": [
-          {
-            "title": "Tribal Gathering live debut",
-            "href": "events.html?artist=roni-size&year=1997"
-          }
-        ],
-        "releases": [
-          {
-            "title": "New Forms",
-            "href": "artist.html?id=roni-size#connections"
-          }
-        ],
-        "links": [
-          {
-            "title": "Roni Size reference biography",
-            "href": "https://en.wikipedia.org/wiki/Roni_Size"
-          }
-        ]
-      },
-      "2000": {
-        "title": "In the Møde",
-        "summary": "Roni Size & Reprazent released In the Møde.",
-        "details": [],
-        "photos": [],
-        "tapes": [],
-        "flyers": [],
-        "events": [],
-        "releases": [
-          {
-            "title": "In the Møde",
-            "href": "artist.html?id=roni-size#connections"
-          }
-        ],
-        "links": [
-          {
-            "title": "Roni Size reference biography",
-            "href": "https://en.wikipedia.org/wiki/Roni_Size"
-          }
-        ]
-      },
-      "2002": {
-        "title": "Touching Down",
-        "summary": "Roni Size returned to a solo album format with Touching Down.",
-        "details": [],
-        "photos": [],
-        "tapes": [],
-        "flyers": [],
-        "events": [],
-        "releases": [
-          {
-            "title": "Touching Down",
-            "href": "artist.html?id=roni-size#connections"
-          }
-        ],
-        "links": [
-          {
-            "title": "Roni Size discography reference",
-            "href": "https://www.scaruffi.com/vol6/ronisize.html"
-          }
-        ]
-      },
-      "2005": {
-        "title": "Savoy, Cork",
-        "summary": "A verified photograph records Roni Size performing at the Savoy in Cork in 2005.",
-        "details": [],
-        "photos": [
-          {
-            "src": "roni-size-profile.jpg",
-            "caption": "Roni Size at the Savoy, Cork",
-            "credit": "Wikimedia Commons, 2005"
-          }
-        ],
-        "tapes": [],
-        "flyers": [],
-        "events": [
-          {
-            "title": "Roni Size event archive — 2005",
-            "href": "events.html?artist=roni-size&year=2005"
-          }
-        ],
-        "releases": [],
-        "links": [
-          {
-            "title": "Wikimedia Commons photograph",
-            "href": "https://commons.wikimedia.org/wiki/File:Roni_Size_09.jpg"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "id": "fabio",
-    "name": "Fabio",
+    "id": "simon-bassline-smith",
+    "name": "Simon Bassline Smith",
     "role": "DJ",
     "public": false,
     "activeFrom": null,
@@ -1264,83 +2572,8 @@ window.BTOS_ARTISTS = [
     "tapes": [],
     "flyers": [],
     "events": [],
-    "sources": []
-  },
-  {
-    "id": "carl-cox",
-    "name": "Carl Cox",
-    "role": "DJ",
-    "public": false,
-    "activeFrom": null,
-    "archiveTo": 2005,
-    "origin": "",
-    "styles": [],
-    "image": "",
-    "photoCredit": "",
-    "summary": "",
-    "biography": [],
-    "timeline": [],
-    "tapes": [],
-    "flyers": [],
-    "events": [],
-    "sources": []
-  },
-  {
-    "id": "jumping-jack-frost",
-    "name": "Jumping Jack Frost",
-    "role": "DJ",
-    "public": false,
-    "activeFrom": null,
-    "archiveTo": 2005,
-    "origin": "",
-    "styles": [],
-    "image": "",
-    "photoCredit": "",
-    "summary": "",
-    "biography": [],
-    "timeline": [],
-    "tapes": [],
-    "flyers": [],
-    "events": [],
-    "sources": []
-  },
-  {
-    "id": "mickey-finn",
-    "name": "Mickey Finn",
-    "role": "DJ",
-    "public": false,
-    "activeFrom": null,
-    "archiveTo": 2005,
-    "origin": "",
-    "styles": [],
-    "image": "",
-    "photoCredit": "",
-    "summary": "",
-    "biography": [],
-    "timeline": [],
-    "tapes": [],
-    "flyers": [],
-    "events": [],
-    "sources": []
-  },
-  {
-    "id": "randall",
-    "name": "Randall",
-    "role": "DJ",
-    "public": false,
-    "activeFrom": null,
-    "archiveTo": 2005,
-    "origin": "",
-    "styles": [],
-    "image": "",
-    "photoCredit": "",
-    "summary": "",
-    "biography": [],
-    "timeline": [],
-    "tapes": [],
-    "flyers": [],
-    "events": [],
-    "sources": []
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
   },
   {
     "id": "slipmatt",
@@ -1372,160 +2605,8 @@ window.BTOS_ARTISTS = [
     "youtubeTrackAppearanceIds": []
   },
   {
-    "id": "ellis-dee",
-    "name": "Ellis Dee",
-    "role": "DJ",
-    "public": false,
-    "activeFrom": null,
-    "archiveTo": 2005,
-    "origin": "",
-    "styles": [],
-    "image": "",
-    "photoCredit": "",
-    "summary": "",
-    "biography": [],
-    "timeline": [],
-    "tapes": [],
-    "flyers": [],
-    "events": [],
-    "sources": []
-  },
-  {
-    "id": "easygroove",
-    "name": "Easygroove",
-    "role": "DJ",
-    "public": false,
-    "activeFrom": null,
-    "archiveTo": 2005,
-    "origin": "",
-    "styles": [],
-    "image": "",
-    "photoCredit": "",
-    "summary": "",
-    "biography": [],
-    "timeline": [],
-    "tapes": [],
-    "flyers": [],
-    "events": [],
-    "sources": []
-  },
-  {
-    "id": "kenny-ken",
-    "name": "Kenny Ken",
-    "role": "DJ",
-    "public": false,
-    "activeFrom": null,
-    "archiveTo": 2005,
-    "origin": "",
-    "styles": [],
-    "image": "",
-    "photoCredit": "",
-    "summary": "",
-    "biography": [],
-    "timeline": [],
-    "tapes": [],
-    "flyers": [],
-    "events": [],
-    "sources": []
-  },
-  {
-    "id": "dj-ss",
-    "name": "DJ SS",
-    "role": "DJ",
-    "public": false,
-    "activeFrom": null,
-    "archiveTo": 2005,
-    "origin": "",
-    "styles": [],
-    "image": "",
-    "photoCredit": "",
-    "summary": "",
-    "biography": [],
-    "timeline": [],
-    "tapes": [],
-    "flyers": [],
-    "events": [],
-    "sources": []
-  },
-  {
-    "id": "ratty",
-    "name": "Ratty",
-    "role": "DJ",
-    "public": false,
-    "activeFrom": null,
-    "archiveTo": 2005,
-    "origin": "",
-    "styles": [],
-    "image": "",
-    "photoCredit": "",
-    "summary": "",
-    "biography": [],
-    "timeline": [],
-    "tapes": [],
-    "flyers": [],
-    "events": [],
-    "sources": []
-  },
-  {
-    "id": "mc-gq",
-    "name": "MC GQ",
-    "role": "MC",
-    "public": false,
-    "activeFrom": null,
-    "archiveTo": 2005,
-    "origin": "",
-    "styles": [],
-    "image": "",
-    "photoCredit": "",
-    "summary": "",
-    "biography": [],
-    "timeline": [],
-    "tapes": [],
-    "flyers": [],
-    "events": [],
-    "sources": []
-  },
-  {
-    "id": "mc-fearless",
-    "name": "MC Fearless",
-    "role": "MC",
-    "public": false,
-    "activeFrom": null,
-    "archiveTo": 2005,
-    "origin": "",
-    "styles": [],
-    "image": "",
-    "photoCredit": "",
-    "summary": "",
-    "biography": [],
-    "timeline": [],
-    "tapes": [],
-    "flyers": [],
-    "events": [],
-    "sources": []
-  },
-  {
-    "id": "mc-sharkey",
-    "name": "MC Sharkey",
-    "role": "MC",
-    "public": false,
-    "activeFrom": null,
-    "archiveTo": 2005,
-    "origin": "",
-    "styles": [],
-    "image": "",
-    "photoCredit": "",
-    "summary": "",
-    "biography": [],
-    "timeline": [],
-    "tapes": [],
-    "flyers": [],
-    "events": [],
-    "sources": []
-  },
-  {
-    "id": "dougal",
-    "name": "Dougal",
+    "id": "spice",
+    "name": "Spice",
     "role": "DJ",
     "public": false,
     "activeFrom": null,
@@ -1541,17 +2622,147 @@ window.BTOS_ARTISTS = [
     "flyers": [],
     "events": [],
     "sources": [],
-    "youtubeVideoIds": [
-      "9z4-oM_AjL4",
-      "56-fDU0Y6C8",
-      "xap_83QDu9w",
-      "BGZnFg-YGPg",
-      "ORix0yEL0xY",
-      "17VGbimht8U",
-      "DqSp_3zrAuM",
-      "aeDTyIq54EU"
-    ],
-    "youtubeTrackAppearanceIds": []
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "stacey",
+    "name": "Stacey",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "stuart-banks",
+    "name": "Stuart Banks",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "swane",
+    "name": "Swane",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "swanee",
+    "name": "Swanee",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "sy",
+    "name": "Sy",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "t99",
+    "name": "T99",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
+  },
+  {
+    "id": "the-prodigy",
+    "name": "The Prodigy",
+    "role": "DJ",
+    "public": false,
+    "activeFrom": null,
+    "archiveTo": 2005,
+    "origin": "",
+    "styles": [],
+    "image": "",
+    "photoCredit": "",
+    "summary": "",
+    "biography": [],
+    "timeline": [],
+    "tapes": [],
+    "flyers": [],
+    "events": [],
+    "sources": [],
+    "legacySource": "Older site People/DJ index"
   },
   {
     "id": "vibes",
@@ -1582,8 +2793,8 @@ window.BTOS_ARTISTS = [
     "youtubeTrackAppearanceIds": []
   },
   {
-    "id": "hixxy",
-    "name": "Hixxy",
+    "id": "zero-b",
+    "name": "Zero B",
     "role": "DJ",
     "public": false,
     "activeFrom": null,
@@ -1599,33 +2810,6 @@ window.BTOS_ARTISTS = [
     "flyers": [],
     "events": [],
     "sources": [],
-    "youtubeVideoIds": [
-      "56-fDU0Y6C8",
-      "aeDTyIq54EU"
-    ],
-    "youtubeTrackAppearanceIds": []
-  },
-  {
-    "id": "dj-seduction",
-    "name": "DJ Seduction",
-    "role": "DJ",
-    "public": false,
-    "activeFrom": null,
-    "archiveTo": 2005,
-    "origin": "",
-    "styles": [],
-    "image": "",
-    "photoCredit": "",
-    "summary": "",
-    "biography": [],
-    "timeline": [],
-    "tapes": [],
-    "flyers": [],
-    "events": [],
-    "sources": [],
-    "youtubeVideoIds": [
-      "WJqRAzlQ6us"
-    ],
-    "youtubeTrackAppearanceIds": []
+    "legacySource": "Older site People/DJ index"
   }
 ];
