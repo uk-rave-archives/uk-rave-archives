@@ -1,81 +1,88 @@
-<!DOCTYPE html>
-
+<!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"/>
-<meta content="width=device-width,initial-scale=1" name="viewport"/>
-<title>Tape Pack Museum 1988–2005 — Back to the Old Skool Archive</title>
-<meta content="Browse verified UK rave tape packs by year and listen to correctly matched DJ recordings." name="description"/>
-<link href="tape-packs-v7.css" rel="stylesheet"/>
-<script defer="" src="tape-pack-data-v2.js"></script>
-<script defer="" src="tape-packs-v7.js"></script>
-<link href="museum-header.css" rel="stylesheet"/></head>
-<body><header class="museum-site-header">
-<div class="museum-header-inner">
-<a aria-label="Back to the Old Skool Archive home" class="museum-brand" href="index.html">Back to the <strong>Old Skool</strong><span>Archive</span></a>
-<button aria-controls="museum-main-nav" aria-expanded="false" class="museum-menu-toggle" type="button">Menu</button>
-<nav aria-label="Main navigation" class="museum-main-nav" id="museum-main-nav"><a href="index.html">Home</a><a href="flyers.html">Flyers</a><a aria-current="page" class="active" href="packs.html">Tape Packs</a><a href="djs.html">DJs &amp; MCs</a><a href="venues.html">Venues</a><a href="promoters.html">Promoters</a><a href="events.html">Timeline</a><a href="radio.html">Radio</a><a href="stories.html">Stories</a><a href="search.html">Search</a></nav>
-</div></header>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Tape Pack Museum | Back to the Old Skool Archive</title>
+<meta name="description" content="Browse verified rave tape packs, sets and cassette recordings from 1988 to 2005.">
+<link rel="stylesheet" href="tape-vault-v1.css">
+</head>
+<body>
+<header class="museum-header">
+  <a class="museum-logo" href="index.html"><img src="homepage-header-logo.png" alt="Back to the Old Skool Archive"></a>
+  <button class="menu-button" type="button" aria-expanded="false" aria-controls="museum-nav">Menu</button>
+  <nav class="museum-nav" id="museum-nav">
+    <a href="index.html">Home</a><a href="flyers.html">Flyers</a><a class="active" href="packs.html">Tape Packs</a>
+    <a href="djs.html">DJs &amp; MCs</a><a href="venues.html">Venues</a><a href="promoters.html">Promoters</a>
+    <a href="events.html">Timeline</a><a href="radio.html">Radio</a><a href="stories.html">Stories</a><a href="search.html">Search</a>
+  </nav>
+</header>
 
 <main>
-<section class="hero">
-<div class="hero-shade"></div>
-<div class="hero-copy">
-<p class="kicker">THE SOUND ARCHIVE · 1988–2005</p>
-<h1>TAPE PACK<br/>MUSEUM</h1>
-<p>Original rave recordings organised by event and year. Every player is tied to the correct tape-pack folder, DJ and cassette side.</p>
-<a class="primary" href="#year-browser">ENTER THE TAPE ROOM <span>→</span></a>
-</div>
-<div aria-label="Archive summary" class="hero-stats">
-<div><strong id="pack-total">0</strong><span>verified packs</span></div>
-<div><strong id="track-total">0</strong><span>mapped recordings</span></div>
-<div><strong>18</strong><span>archive years</span></div>
-</div>
+<section class="vault-hero">
+  <div class="vault-copy">
+    <p class="kicker">The sound archive · 1988–2005</p>
+    <h1>Tape Pack <b>Vault</b></h1>
+    <p>Original cassette recordings, event packs and verified video transfers stored by year, promoter, event and DJ.</p>
+    <a href="#pack-browser" class="primary">Enter the listening room →</a>
+  </div>
 </section>
-<section class="year-room" id="year-browser">
-<div class="section-intro">
-<div><p class="kicker">CHOOSE A YEAR</p><h2>Browse the shelves</h2></div>
-<p>Only years with verified tape-pack material are active. Empty years remain visible so the museum can grow without inventing records.</p>
-</div>
-<div aria-label="Tape packs by year" class="year-strip" id="year-strip"></div>
+
+<section class="browser" id="pack-browser">
+  <div class="section-heading">
+    <div><p class="kicker">Browse the shelves</p><h2>Tape packs and sets</h2></div>
+    <p>Playable audio and video transfers are kept separate and clearly labelled.</p>
+  </div>
+  <div class="tools">
+    <input id="pack-search" type="search" placeholder="Search pack, promoter, event or DJ…">
+    <select id="year-filter"><option value="all">All years</option></select>
+    <select id="format-filter">
+      <option value="all">All formats</option>
+      <option value="playable">Playable cassette audio</option>
+      <option value="video-linked">Video transfers</option>
+      <option value="metadata-only">Metadata only</option>
+    </select>
+  </div>
+  <div class="pack-grid" id="pack-grid"></div>
+  <p class="empty" id="empty" hidden>No matching tape-pack records.</p>
 </section>
-<section class="gallery-section">
-<div class="gallery-toolbar">
-<div><p class="kicker">CURRENT GALLERY</p><h2 id="gallery-title">1991 tape packs</h2><p id="gallery-note">Verified recordings from the selected year.</p></div>
-<label class="search"><span>Search archive</span><input id="tape-search" placeholder="Event, DJ, venue…" type="search"/></label>
-</div>
-<div class="pack-grid" id="pack-grid"></div>
-<div class="empty-state" hidden="" id="empty-state"><strong>No verified packs in this view.</strong><span>Choose another year or clear the search.</span></div>
-</section>
+
 <section class="listening-room" id="listening-room">
-<div class="section-intro">
-<div><p class="kicker">THE LISTENING ROOM</p><h2 id="player-pack-title">Select a tape pack</h2></div>
-<a class="source-link" href="https://archive.org/details/helter-skelter-tape-packs" id="pack-source" rel="noopener" target="_blank">OPEN SOURCE ARCHIVE ↗</a>
-</div>
-<article class="player-shell">
-<div class="cassette-stage">
-<div aria-hidden="true" class="cassette">
-<div class="cassette-label"><span id="cassette-promoter">ARCHIVE TAPE</span><strong id="cassette-title">SELECT PACK</strong><small id="cassette-year">1988–2005</small></div>
-<div class="cassette-window"><i></i><b></b><i></i></div>
-<div class="cassette-screws"><span></span><span></span><span></span><span></span></div>
-</div>
-<p class="cover-status" id="cover-status">Verified cover artwork will appear here when a sourced scan is available.</p>
-</div>
-<div class="deck">
-<div class="now-playing"><span id="player-status">READY</span><h3 id="track-title">Choose a recording</h3><p id="track-meta">Select a pack, then choose Side A or Side B.</p></div>
-<audio id="audio" preload="metadata"></audio>
-<div class="transport">
-<button aria-label="Previous recording" id="previous-track" type="button">↶</button>
-<button aria-label="Play or pause" class="play" id="play-pause" type="button">▶</button>
-<button aria-label="Next recording" id="next-track" type="button">↷</button>
-<div class="progress"><input aria-label="Recording position" id="seek" max="100" min="0" step="0.1" type="range" value="0"/><div><span id="elapsed">0:00</span><span id="remaining">0:00</span></div></div>
-<button aria-label="Mute" id="mute" type="button">VOL</button>
-</div>
-<div class="recordings" id="recordings"><p>Select a tape pack from the gallery above.</p></div>
-</div>
-</article>
+  <div class="section-heading">
+    <div><p class="kicker">Cassette deck</p><h2 id="deck-pack-name">Choose a tape pack</h2></div>
+    <a id="deck-source" href="#" target="_blank" rel="noopener" hidden>Open source archive ↗</a>
+  </div>
+  <div class="deck-layout">
+    <div class="cassette-display">
+      <div class="cassette" id="cassette">
+        <div class="tape-label"><span id="tape-series">Archive Tape</span><strong id="tape-title">Select pack</strong><small id="tape-year">1988–2005</small></div>
+        <div class="tape-window"><i></i><b></b><i></i></div>
+      </div>
+      <p id="cover-credit">Select a record from the shelves.</p>
+    </div>
+    <div class="deck">
+      <div class="now-playing"><span id="status">Ready</span><h3 id="track-title">Choose Side A or Side B</h3><p id="track-meta">Confirmed playable recordings appear here.</p></div>
+      <audio id="audio" preload="metadata"></audio>
+      <div class="transport">
+        <button id="previous" type="button">↶</button>
+        <button id="play" class="play" type="button">▶</button>
+        <button id="next" type="button">↷</button>
+        <div class="progress"><input id="seek" type="range" min="0" max="100" step=".1" value="0"><div><span id="elapsed">0:00</span><span id="duration">0:00</span></div></div>
+        <input id="volume" type="range" min="0" max="1" step=".05" value=".9" aria-label="Volume">
+      </div>
+      <div id="audio-list" class="audio-list"><p>No pack selected.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="video-room" id="video-room">
+  <div class="section-heading"><div><p class="kicker">Video transfers</p><h2 id="video-pack-name">Choose a pack</h2></div><p>YouTube transfers retain their own thumbnails and source links.</p></div>
+  <div class="video-grid" id="video-grid"><p class="empty-note">Select a tape pack containing video transfers.</p></div>
 </section>
 </main>
-<footer><span>BACK TO THE OLD SKOOL ARCHIVE</span><a href="index.html">RETURN TO MUSEUM ENTRANCE ↑</a></footer>
-<script defer="" src="museum-header.js"></script></body>
+
+<script src="artists-data.js"></script>
+<script src="tape-packs-data.js"></script>
+<script src="tape-vault-v1.js"></script>
+</body>
 </html>
