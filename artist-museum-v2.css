@@ -279,3 +279,20 @@ img{max-width:100%}
   .video-actions{align-items:stretch;flex-direction:column}
   .video-play-link,.video-actions>a{text-align:center}
 }
+
+
+/* Phase 3.44 — cross-archive relationships */
+.archive-relationship-links{
+  display:flex;flex-wrap:wrap;gap:7px;margin-top:13px;padding-top:12px;
+  border-top:1px solid rgba(255,255,255,.1)
+}
+.archive-relationship-links a{
+  display:flex;flex-direction:column;gap:3px;min-width:115px;padding:9px 11px;
+  border:1px solid rgba(255,196,0,.28);background:rgba(255,196,0,.035);
+  text-decoration:none
+}
+.archive-relationship-links a:hover{border-color:var(--yellow);background:rgba(255,196,0,.08)}
+.archive-relationship-links span{
+  color:var(--yellow);font-size:9px;text-transform:uppercase;font-weight:900;letter-spacing:.1em
+}
+.archive-relationship-links b{font-size:12px;line-height:1.25}

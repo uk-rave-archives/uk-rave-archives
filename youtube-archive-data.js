@@ -23,7 +23,12 @@ window.BTOS_YOUTUBE = [
     ],
     "displayType": "Live DJ set",
     "sourceCredit": "HappyHardcore95to99 Backup",
-    "description": "Tazzmania · 27 September 1996 · 1996"
+    "description": "Tazzmania · 27 September 1996 · 1996",
+    "relationships": {
+      "eventId": "tazzmania-1996-09-27",
+      "promoterId": "tazzmania"
+    },
+    "relationshipStatus": "verified"
   },
   {
     "id": "9z4-oM_AjL4",
@@ -46,7 +51,12 @@ window.BTOS_YOUTUBE = [
     ],
     "displayType": "DJ mix / compilation",
     "sourceCredit": "HappyHardcore95to99 Backup",
-    "description": "The Edge - Happy Hardcore Volume 3 · 1995"
+    "description": "The Edge - Happy Hardcore Volume 3 · 1995",
+    "relationships": {
+      "tapePackId": "the-edge-happy-hardcore-vol-3",
+      "promoterId": "the-edge"
+    },
+    "relationshipStatus": "verified"
   },
   {
     "id": "LR2dYu05NZM",
@@ -69,7 +79,11 @@ window.BTOS_YOUTUBE = [
     ],
     "displayType": "DJ mix / compilation",
     "sourceCredit": "HappyHardcore95to99 Backup",
-    "description": "This Is... Hardcore · 1997"
+    "description": "This Is... Hardcore · 1997",
+    "relationships": {
+      "tapePackId": "this-is-hardcore-1997"
+    },
+    "relationshipStatus": "verified"
   },
   {
     "id": "P4iBiwuxDbU",
@@ -92,7 +106,12 @@ window.BTOS_YOUTUBE = [
     ],
     "displayType": "DJ mix / compilation",
     "sourceCredit": "HappyHardcore95to99 Backup",
-    "description": "The Edge - Happy Hardcore Volume 8 Series 2 · 1997"
+    "description": "The Edge - Happy Hardcore Volume 8 Series 2 · 1997",
+    "relationships": {
+      "tapePackId": "the-edge-happy-hardcore-vol-8-series-2",
+      "promoterId": "the-edge"
+    },
+    "relationshipStatus": "verified"
   },
   {
     "id": "kcN4Cg7J6pI",
@@ -115,7 +134,12 @@ window.BTOS_YOUTUBE = [
     ],
     "displayType": "DJ mix / compilation",
     "sourceCredit": "HappyHardcore95to99 Backup",
-    "description": "The Edge - Happy Hardcore Volume 5 Series 2 · 1996"
+    "description": "The Edge - Happy Hardcore Volume 5 Series 2 · 1996",
+    "relationships": {
+      "tapePackId": "the-edge-happy-hardcore-vol-5-series-2",
+      "promoterId": "the-edge"
+    },
+    "relationshipStatus": "verified"
   },
   {
     "id": "WJqRAzlQ6us",
@@ -139,7 +163,12 @@ window.BTOS_YOUTUBE = [
     ],
     "displayType": "DJ mix / compilation",
     "sourceCredit": "HappyHardcore95to99 Backup",
-    "description": "The Edge - Happy Hardcore Volume 3 · 1995"
+    "description": "The Edge - Happy Hardcore Volume 3 · 1995",
+    "relationships": {
+      "tapePackId": "the-edge-happy-hardcore-vol-3",
+      "promoterId": "the-edge"
+    },
+    "relationshipStatus": "verified"
   },
   {
     "id": "56-fDU0Y6C8",
@@ -164,7 +193,12 @@ window.BTOS_YOUTUBE = [
     ],
     "displayType": "Live DJ set",
     "sourceCredit": "HappyHardcore95to99 Backup",
-    "description": "Tazzmania Valentines Ball · 14 February 1997 · 1997"
+    "description": "Tazzmania Valentines Ball · 14 February 1997 · 1997",
+    "relationships": {
+      "eventId": "tazzmania-valentines-ball-1997",
+      "promoterId": "tazzmania"
+    },
+    "relationshipStatus": "verified"
   },
   {
     "id": "hNojfvc7oOo",
@@ -188,7 +222,12 @@ window.BTOS_YOUTUBE = [
     ],
     "displayType": "DJ mix / compilation",
     "sourceCredit": "HappyHardcore95to99 Backup",
-    "description": "United Dance Volume 5 · 1996"
+    "description": "United Dance Volume 5 · 1996",
+    "relationships": {
+      "tapePackId": "united-dance-volume-5",
+      "promoterId": "united-dance"
+    },
+    "relationshipStatus": "verified"
   },
   {
     "id": "xap_83QDu9w",
@@ -213,7 +252,12 @@ window.BTOS_YOUTUBE = [
     ],
     "displayType": "Live DJ set",
     "sourceCredit": "HappyHardcore95to99 Backup",
-    "description": "Dance Planet Detonator IX · 11 November 1995 · 1995"
+    "description": "Dance Planet Detonator IX · 11 November 1995 · 1995",
+    "relationships": {
+      "eventId": "dance-planet-detonator-ix-1995",
+      "promoterId": "dance-planet"
+    },
+    "relationshipStatus": "verified"
   },
   {
     "id": "fztzjqOio9Y",
@@ -236,7 +280,11 @@ window.BTOS_YOUTUBE = [
     ],
     "displayType": "DJ mix / compilation",
     "sourceCredit": "HappyHardcore95to99 Backup",
-    "description": "Hardcore Happiness III · 1996"
+    "description": "Hardcore Happiness III · 1996",
+    "relationships": {
+      "tapePackId": "hardcore-happiness-iii"
+    },
+    "relationshipStatus": "verified"
   },
   {
     "id": "BGZnFg-YGPg",
@@ -259,7 +307,11 @@ window.BTOS_YOUTUBE = [
     ],
     "displayType": "DJ mix / compilation",
     "sourceCredit": "HappyHardcore95to99 Backup",
-    "description": "Bonkers 4 - World Frenzy · 1998"
+    "description": "Bonkers 4 - World Frenzy · 1998",
+    "relationships": {
+      "tapePackId": "bonkers-4-world-frenzy"
+    },
+    "relationshipStatus": "verified"
   },
   {
     "id": "jQVg3dqZqjU",
@@ -283,7 +335,13 @@ window.BTOS_YOUTUBE = [
     ],
     "displayType": "Live DJ set",
     "sourceCredit": "HappyHardcore95to99 Backup",
-    "description": "Tazzmania Hastings Pier · 1 March 1996 · 1996"
+    "description": "Tazzmania Hastings Pier · 1 March 1996 · 1996",
+    "relationships": {
+      "eventId": "tazzmania-hastings-pier-1996",
+      "promoterId": "tazzmania",
+      "venueId": "hastings-pier"
+    },
+    "relationshipStatus": "verified"
   },
   {
     "id": "ejAoZy0bmLE",
@@ -307,7 +365,12 @@ window.BTOS_YOUTUBE = [
     ],
     "displayType": "DJ mix / compilation",
     "sourceCredit": "HappyHardcore95to99 Backup",
-    "description": "Hardcore Heaven Volume 5 · 1999"
+    "description": "Hardcore Heaven Volume 5 · 1999",
+    "relationships": {
+      "tapePackId": "hardcore-heaven-volume-5",
+      "promoterId": "hardcore-heaven"
+    },
+    "relationshipStatus": "verified"
   },
   {
     "id": "ORix0yEL0xY",
@@ -330,7 +393,11 @@ window.BTOS_YOUTUBE = [
     ],
     "displayType": "DJ mix / compilation",
     "sourceCredit": "HappyHardcore95to99 Backup",
-    "description": "Double Dipped Best Of · 1995"
+    "description": "Double Dipped Best Of · 1995",
+    "relationships": {
+      "tapePackId": "double-dipped-best-of-1995"
+    },
+    "relationshipStatus": "verified"
   },
   {
     "id": "10fvxpyIecA",
@@ -353,7 +420,11 @@ window.BTOS_YOUTUBE = [
     ],
     "displayType": "Live DJ set",
     "sourceCredit": "HappyHardcore95to99 Backup",
-    "description": "Origin Part 1 · 1994"
+    "description": "Origin Part 1 · 1994",
+    "relationships": {
+      "tapePackId": "origin-part-1-1994"
+    },
+    "relationshipStatus": "verified"
   },
   {
     "id": "17VGbimht8U",
@@ -377,7 +448,12 @@ window.BTOS_YOUTUBE = [
     ],
     "displayType": "DJ mix / compilation",
     "sourceCredit": "HappyHardcore95to99 Backup",
-    "description": "Hardcore Heaven Volume One · 1997"
+    "description": "Hardcore Heaven Volume One · 1997",
+    "relationships": {
+      "tapePackId": "hardcore-heaven-volume-1",
+      "promoterId": "hardcore-heaven"
+    },
+    "relationshipStatus": "verified"
   },
   {
     "id": "DqSp_3zrAuM",
@@ -400,7 +476,12 @@ window.BTOS_YOUTUBE = [
     ],
     "displayType": "DJ mix / compilation",
     "sourceCredit": "HappyHardcore95to99 Backup",
-    "description": "The Edge - Happy Hardcore Volume 5 Series 2 · 1996"
+    "description": "The Edge - Happy Hardcore Volume 5 Series 2 · 1996",
+    "relationships": {
+      "tapePackId": "the-edge-happy-hardcore-vol-5-series-2",
+      "promoterId": "the-edge"
+    },
+    "relationshipStatus": "verified"
   },
   {
     "id": "aeDTyIq54EU",
@@ -425,7 +506,12 @@ window.BTOS_YOUTUBE = [
     ],
     "displayType": "Radio set",
     "sourceCredit": "HappyHardcore95to99 Backup",
-    "description": "Kiss 100 FM · 17 June 1997 · 1997"
+    "description": "Kiss 100 FM · 17 June 1997 · 1997",
+    "relationships": {
+      "eventId": "kiss-100-hixxy-dougal-1997",
+      "radioId": "kiss-100-fm"
+    },
+    "relationshipStatus": "verified"
   },
   {
     "id": "2hqf95rUu6c",
@@ -449,7 +535,11 @@ window.BTOS_YOUTUBE = [
     "displayType": "DJ mix / compilation",
     "sourceCredit": "HappyHardcore95to99 Backup",
     "description": "Bonkers 7 - Millennium Fever · 1999",
-    "reviewStatus": "mapped"
+    "reviewStatus": "mapped",
+    "relationships": {
+      "tapePackId": "bonkers-7-millennium-fever"
+    },
+    "relationshipStatus": "verified"
   },
   {
     "id": "kypvKWOjvJQ",
@@ -473,7 +563,9 @@ window.BTOS_YOUTUBE = [
     "displayType": "Track / release",
     "sourceCredit": "HappyHardcore95to99 Backup",
     "description": "Set Free · 1997",
-    "reviewStatus": "mapped"
+    "reviewStatus": "mapped",
+    "relationships": {},
+    "relationshipStatus": "review"
   },
   {
     "id": "YPdiDExbxJE",
@@ -498,7 +590,9 @@ window.BTOS_YOUTUBE = [
     "displayType": "Track / release",
     "sourceCredit": "HappyHardcore95to99 Backup",
     "description": "Killer · 1997",
-    "reviewStatus": "mapped"
+    "reviewStatus": "mapped",
+    "relationships": {},
+    "relationshipStatus": "review"
   },
   {
     "id": "oFqZQbxiyVY",
@@ -522,7 +616,9 @@ window.BTOS_YOUTUBE = [
     "displayType": "DJ mix / compilation",
     "sourceCredit": "HappyHardcore95to99 Backup",
     "description": "Turn Up The Music",
-    "reviewStatus": "mapped"
+    "reviewStatus": "mapped",
+    "relationships": {},
+    "relationshipStatus": "review"
   },
   {
     "id": "XDMSX--9akg",
@@ -544,7 +640,11 @@ window.BTOS_YOUTUBE = [
     "displayType": "Compilation",
     "sourceCredit": "HappyHardcore95to99 Backup",
     "description": "Hardcore Happiness Vol. 1 · 1995",
-    "reviewStatus": "unmapped"
+    "reviewStatus": "unmapped",
+    "relationships": {
+      "tapePackId": "hardcore-happiness-vol-1"
+    },
+    "relationshipStatus": "verified"
   },
   {
     "id": "EIu28VEQ42I",
@@ -566,7 +666,11 @@ window.BTOS_YOUTUBE = [
     "displayType": "Compilation",
     "sourceCredit": "HappyHardcore95to99 Backup",
     "description": "Happy Hardcore Anthems · 1996",
-    "reviewStatus": "unmapped"
+    "reviewStatus": "unmapped",
+    "relationships": {
+      "tapePackId": "happy-hardcore-anthems-1996"
+    },
+    "relationshipStatus": "verified"
   },
   {
     "id": "qdy8oTX0OKA",
@@ -588,7 +692,11 @@ window.BTOS_YOUTUBE = [
     "displayType": "Compilation",
     "sourceCredit": "HappyHardcore95to99 Backup",
     "description": "Happy Hardcore Hysteria · 1998",
-    "reviewStatus": "unmapped"
+    "reviewStatus": "unmapped",
+    "relationships": {
+      "tapePackId": "happy-hardcore-hysteria-1998"
+    },
+    "relationshipStatus": "verified"
   },
   {
     "id": "chRFjPPoXgY",
@@ -610,6 +718,10 @@ window.BTOS_YOUTUBE = [
     "displayType": "Compilation",
     "sourceCredit": "HappyHardcore95to99 Backup",
     "description": "The Ultimate Happy Hardcore Collection · 1996",
-    "reviewStatus": "unmapped"
+    "reviewStatus": "unmapped",
+    "relationships": {
+      "tapePackId": "ultimate-happy-hardcore-collection-1996"
+    },
+    "relationshipStatus": "verified"
   }
 ];

@@ -1,6 +1,22 @@
 
 const artists = window.BTOS_ARTISTS || [];
 const youtubeVideos = window.BTOS_YOUTUBE || [];
+const archiveRelations = window.BTOS_ARCHIVE_RELATIONS || {};
+const relationCollections = {
+  eventId: archiveRelations.events || [],
+  tapePackId: archiveRelations.tapePacks || [],
+  promoterId: archiveRelations.promoters || [],
+  venueId: archiveRelations.venues || [],
+  radioId: archiveRelations.radio || []
+};
+const relationRecord = (field, id) =>
+  id ? (relationCollections[field] || []).find(item => item.id === id) : null;
+const videoRelationLinks = video => {
+  const rel = video.relationships || {};
+  return ["eventId","tapePackId","promoterId","venueId","radioId"]
+    .map(field => ({field, item: relationRecord(field, rel[field])}))
+    .filter(entry => entry.item);
+};
 const params = new URLSearchParams(location.search);
 const artistId = params.get("id") || "";
 const artist = artists.find(item => item.id === artistId);
@@ -113,6 +129,20 @@ const videoGrid = videos => {
         ${video.date ? `<p><b>Date:</b> ${esc(video.date)}</p>` : ""}
         ${isTrackAppearance ? `<p class="relationship-note">${esc(artist.name)} is linked as a track appearance, not as the performing DJ.</p>` : ""}
         <small>Source: ${esc(video.sourceCredit || video.channel)}</small>
+        ${videoRelationLinks(video).length ? `
+          <div class="archive-relationship-links">
+            ${videoRelationLinks(video).map(link => `
+              <a href="${link.item.href}">
+                <span>${esc({
+                  eventId:"Event",
+                  tapePackId:"Tape pack",
+                  promoterId:"Promoter",
+                  venueId:"Venue",
+                  radioId:"Radio"
+                }[link.field])}</span>
+                <b>${esc(link.item.name)}</b>
+              </a>`).join("")}
+          </div>` : ""}
         <div class="video-actions">
           <button type="button" class="video-play-link youtube-play" data-video-id="${video.id}">Play here</button>
           <a href="${video.url}" target="_blank" rel="noopener">Open on YouTube →</a>

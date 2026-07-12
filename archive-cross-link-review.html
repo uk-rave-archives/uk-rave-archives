@@ -1,0 +1,57 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Archive Cross-Link Review</title>
+<style>
+:root{--yellow:#ffc400}
+body{margin:0;padding:28px;background:#080808;color:#eee;font:15px Arial}
+h1{color:var(--yellow)}.intro{max-width:900px;color:#bbb;line-height:1.55}
+.tools{display:flex;gap:10px;flex-wrap:wrap;margin:20px 0}
+input,select{padding:11px 13px;background:#111;color:#fff;border:1px solid #555}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:12px}
+.card{background:#111;border:1px solid #444;overflow:hidden}.card.verified{border-color:#50713f}.card.review{border-color:#8b682e}
+.card img{width:100%;aspect-ratio:16/9;object-fit:cover;background:#181818}
+.body{padding:15px}.body h2{font-size:16px;margin:0 0 8px}.meta{color:#999;margin-bottom:12px}
+.links{display:flex;flex-wrap:wrap;gap:6px}.links span{padding:6px 8px;background:#191919;border:1px solid #444;font-size:11px}
+.status{display:inline-block;margin-bottom:10px;color:var(--yellow);font-weight:bold;text-transform:uppercase;font-size:10px}
+</style>
+<h1>Event, Tape Pack & Promoter Cross-Link Review</h1>
+<p class="intro">Verified links are generated only from exact event or pack titles. Records marked for review remain unlinked until the event, promoter, venue or tape-pack identity is confirmed.</p>
+<div class="tools">
+  <input id="query" type="search" placeholder="Search videos and relationships">
+  <select id="status">
+    <option value="all">All records</option>
+    <option value="verified">Verified links</option>
+    <option value="review">Needs review</option>
+  </select>
+</div>
+<div class="grid" id="grid"></div>
+<script src="youtube-archive-data.js"></script>
+<script src="archive-relations-data.js"></script>
+<script>
+const videos=window.BTOS_YOUTUBE||[];
+const rel=window.BTOS_ARCHIVE_RELATIONS||{};
+const groups={eventId:rel.events||[],tapePackId:rel.tapePacks||[],promoterId:rel.promoters||[],venueId:rel.venues||[],radioId:rel.radio||[]};
+const labels={eventId:"Event",tapePackId:"Tape pack",promoterId:"Promoter",venueId:"Venue",radioId:"Radio"};
+const find=(field,id)=>(groups[field]||[]).find(x=>x.id===id);
+const grid=document.querySelector("#grid"),q=document.querySelector("#query"),filter=document.querySelector("#status");
+function render(){
+ const term=q.value.trim().toLowerCase(),state=filter.value;
+ const rows=videos.filter(v=>{
+   const text=[v.title,v.event,v.year,Object.values(v.relationships||{}).join(" ")].join(" ").toLowerCase();
+   return (!term||text.includes(term))&&(state==="all"||v.relationshipStatus===state);
+ });
+ grid.innerHTML=rows.map(v=>{
+   const links=Object.entries(v.relationships||{}).map(([field,id])=>({field,item:find(field,id)})).filter(x=>x.item);
+   return `<article class="card ${v.relationshipStatus}">
+    <img src="${v.thumbnail}" onerror="this.src='https://i.ytimg.com/vi/${v.id}/hqdefault.jpg'">
+    <div class="body">
+      <span class="status">${v.relationshipStatus==="verified"?"Verified":"Needs review"}</span>
+      <h2>${v.title}</h2>
+      <div class="meta">${v.year||"Year unknown"} · ${(v.artists||[]).join(", ")||"Artist not mapped"}</div>
+      <div class="links">${links.length?links.map(x=>`<span>${labels[x.field]}: ${x.item.name}</span>`).join(""):"<span>No public cross-links yet</span>"}</div>
+    </div>
+   </article>`;
+ }).join("");
+}
+q.addEventListener("input",render);filter.addEventListener("change",render);render();
+</script>
