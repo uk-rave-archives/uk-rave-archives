@@ -223,3 +223,27 @@ img{max-width:100%}
   .facts,.exhibit-grid,.photo-grid{grid-template-columns:1fr}
   .profile-copy{padding:28px 18px}.panel{padding:20px}
 }
+
+
+/* Phase 3.40 YouTube archive links */
+.youtube-profile-section{margin-top:24px;padding-top:24px;border-top:1px solid var(--line)}
+.youtube-profile-section>h3{margin:0 0 7px;color:var(--yellow);text-transform:uppercase}
+.youtube-profile-section>p{margin:0 0 16px;font-size:14px;color:var(--muted)}
+.video-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.video-card{background:#080808;border:1px solid #333;overflow:hidden}
+.video-play{position:relative;display:block;width:100%;padding:0;border:0;background:#000;cursor:pointer}
+.video-play img{display:block;width:100%;aspect-ratio:16/9;object-fit:cover}
+.play-mark{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);display:grid;place-items:center;width:58px;height:58px;border-radius:50%;background:rgba(0,0,0,.82);border:2px solid var(--yellow);color:var(--yellow);font-size:22px}
+.video-play:hover .play-mark{background:var(--yellow);color:#000}
+.video-card-body{padding:15px}
+.video-card-body strong,.video-card-body small,.video-card-body a{display:block}
+.video-card-body strong{margin:8px 0;line-height:1.38}
+.video-card-body p{margin:8px 0!important;font-size:12px!important;color:#aaa!important}
+.video-card-body small{color:#8f8a82;margin:9px 0}
+.video-card-body a{color:var(--yellow);font-size:12px;font-weight:900;text-transform:uppercase;text-decoration:none}
+.video-lightbox{width:min(1120px,95vw);padding:0;border:1px solid var(--yellow);background:#000}
+.video-lightbox::backdrop{background:rgba(0,0,0,.93)}
+.video-frame{aspect-ratio:16/9}
+.video-frame iframe{display:block;width:100%;height:100%;border:0}
+@media(max-width:900px){.video-grid{grid-template-columns:1fr 1fr}}
+@media(max-width:560px){.video-grid{grid-template-columns:1fr}}

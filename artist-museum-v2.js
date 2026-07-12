@@ -1,5 +1,6 @@
 
 const artists = window.BTOS_ARTISTS || [];
+const youtubeVideos = window.BTOS_YOUTUBE || [];
 const params = new URLSearchParams(location.search);
 const artistId = params.get("id") || "";
 const artist = artists.find(item => item.id === artistId);
@@ -58,6 +59,36 @@ const photoGrid = photos => {
 const simpleLinks = (items, type) => {
   if (!items?.length) return "";
   return `<div class="connection-group"><h3>${esc(type)}</h3>${items.map(item => `<a href="${item.href}">${esc(item.title)} →</a>`).join("")}</div>`;
+};
+
+
+const videoTypeLabel = type => ({
+  "dj-set":"DJ set","dj-mix":"DJ mix","radio-set":"Radio set","track-appearance":"Track appearance"
+}[type] || "YouTube archive");
+
+const videosForArtist = item => youtubeVideos.filter(video =>
+  (video.artists || []).includes(item.id) || (video.trackAppearances || []).includes(item.id)
+);
+
+const videoGrid = videos => {
+  if (!videos?.length) return "";
+  return `<div class="video-grid">${videos.map(video => {
+    const isTrackAppearance = !(video.artists || []).includes(artist.id) && (video.trackAppearances || []).includes(artist.id);
+    const type = isTrackAppearance ? "track-appearance" : video.type;
+    return `<article class="video-card">
+      <button class="video-play" type="button" data-video-id="${video.id}" aria-label="Play ${esc(video.title)}">
+        <img src="${video.thumbnail}" alt="${esc(video.title)}" loading="lazy">
+        <span class="play-mark">▶</span>
+      </button>
+      <div class="video-card-body">
+        <span class="exhibit-type">${esc(videoTypeLabel(type))}</span>
+        <strong>${esc(video.title)}</strong>
+        ${isTrackAppearance ? `<p>${esc(artist.name)} appears in the published track list; this is not presented as their own set.</p>` : ""}
+        <small>Source: ${esc(video.channel)}</small>
+        <a href="${video.url}" target="_blank" rel="noopener">Open on YouTube →</a>
+      </div>
+    </article>`;
+  }).join("")}</div>`;
 };
 
 if (!publishable(artist)) {
@@ -145,7 +176,9 @@ if (!publishable(artist)) {
           ${simpleLinks(artist.tapes || [],"Tape recordings")}
           ${simpleLinks(artist.flyers || [],"Flyers")}
           ${simpleLinks(artist.events || [],"Events")}
+          ${videosForArtist(artist).length ? `<div class="connection-group"><h3>YouTube archive</h3><a href="#youtube-archive">${videosForArtist(artist).length} verified channel link${videosForArtist(artist).length===1?"":"s"} →</a></div>` : ""}
         </div>
+        ${videosForArtist(artist).length ? `<section class="youtube-profile-section" id="youtube-archive"><h3>HappyHardcore95to99 Backup</h3><p>Verified uploads linked by artist, mix credit or published track list.</p>${videoGrid(videosForArtist(artist))}</section>` : ""}
       </section>
 
       <section class="panel" id="sources">
@@ -153,6 +186,11 @@ if (!publishable(artist)) {
         ${artist.sources?.length ? `<ul class="sources">${artist.sources.map(item=>`<li><a href="${item.href}" target="_blank" rel="noopener">${esc(item.title)}</a></li>`).join("")}</ul>` : `<p>No verified source list has been added yet.</p>`}
       </section>
     </div>
+
+    <dialog class="video-lightbox" id="video-lightbox">
+      <button class="lightbox-close video-close" type="button" aria-label="Close video">×</button>
+      <div class="video-frame"></div>
+    </dialog>
 
     <dialog class="photo-lightbox" id="photo-lightbox">
       <button class="lightbox-close" type="button" aria-label="Close photo">×</button>
@@ -180,6 +218,8 @@ if (!publishable(artist)) {
     if(data.flyers?.length) blocks.push(`<section class="year-section"><h4>Flyers</h4>${cardGrid(data.flyers,"Flyer")}</section>`);
     if(data.events?.length) blocks.push(`<section class="year-section"><h4>Events and venues</h4>${cardGrid(data.events,"Event")}</section>`);
     if(data.releases?.length) blocks.push(`<section class="year-section"><h4>Releases and projects</h4>${cardGrid(data.releases,"Release")}</section>`);
+    const yearVideos = videosForArtist(artist).filter(video => Number(video.year) === Number(year));
+    if(yearVideos.length) blocks.push(`<section class="year-section"><h4>Video and audio archive</h4>${videoGrid(yearVideos)}</section>`);
     if(data.links?.length) blocks.push(`<section class="year-section"><h4>Sources and further reading</h4>${cardGrid(data.links,"Source")}</section>`);
 
     stage.innerHTML = `
@@ -193,6 +233,7 @@ if (!publishable(artist)) {
     `;
 
     bindLightbox();
+    bindVideos();
     history.replaceState(null,"",`#year-${year}`);
     if(scroll) stage.scrollIntoView({behavior:"smooth",block:"nearest"});
   }
@@ -215,7 +256,26 @@ if (!publishable(artist)) {
     });
   }
 
-  document.querySelector(".lightbox-close")?.addEventListener("click",()=>document.querySelector("#photo-lightbox").close());
+  function bindVideos(){
+    const dialog=document.querySelector("#video-lightbox");
+    const frame=dialog?.querySelector(".video-frame");
+    document.querySelectorAll(".video-play").forEach(button=>{
+      if(button.dataset.bound) return;
+      button.dataset.bound="1";
+      button.addEventListener("click",()=>{
+        const id=button.dataset.videoId;
+        frame.innerHTML=`<iframe src="https://www.youtube-nocookie.com/embed/${id}?autoplay=1" title="YouTube archive video" allow="accelerometer; autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>`;
+        dialog.showModal();
+      });
+    });
+  }
+  bindVideos();
+  document.querySelector(".video-close")?.addEventListener("click",()=>{
+    const dialog=document.querySelector("#video-lightbox");
+    dialog.querySelector(".video-frame").innerHTML="";
+    dialog.close();
+  });
+  document.querySelector(".lightbox-close:not(.video-close)")?.addEventListener("click",()=>document.querySelector("#photo-lightbox").close());
   document.querySelector("#photo-lightbox")?.addEventListener("click",event=>{
     if(event.target===event.currentTarget) event.currentTarget.close();
   });
