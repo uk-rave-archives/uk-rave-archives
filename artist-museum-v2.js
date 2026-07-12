@@ -1,8 +1,6 @@
 
 const artists = window.BTOS_ARTISTS || [];
 const youtubeVideos = window.BTOS_YOUTUBE || [];
-const youtubeTracklists = window.BTOS_YOUTUBE_TRACKLISTS || [];
-const tracklistForVideo = videoId => youtubeTracklists.find(item => item.videoId === videoId && item.status === 'parsed');
 const params = new URLSearchParams(location.search);
 const artistId = params.get("id") || "";
 const artist = artists.find(item => item.id === artistId);
@@ -65,8 +63,29 @@ const simpleLinks = (items, type) => {
 
 
 const videoTypeLabel = type => ({
-  "dj-set":"DJ set","dj-mix":"DJ mix","radio-set":"Radio set","track-appearance":"Track appearance"
+  "dj-set":"Live DJ set","dj-mix":"DJ mix / compilation","radio-set":"Radio set","track-appearance":"Track appearance"
 }[type] || "YouTube archive");
+
+const thumbnailMarkup = video => {
+  const fallbacks = JSON.stringify(video.thumbnailFallbacks || []);
+  return `<img src="${video.thumbnail}" data-fallbacks='${esc(fallbacks)}' data-fallback-index="0" alt="${esc(video.title)}" loading="lazy">`;
+};
+
+const installThumbnailFallbacks = rootNode => {
+  rootNode.querySelectorAll("img[data-fallbacks]").forEach(image => {
+    image.addEventListener("error", () => {
+      let fallbacks = [];
+      try { fallbacks = JSON.parse(image.dataset.fallbacks || "[]"); } catch (_) {}
+      const index = Number(image.dataset.fallbackIndex || 0);
+      if (index < fallbacks.length) {
+        image.dataset.fallbackIndex = String(index + 1);
+        image.src = fallbacks[index];
+      } else {
+        image.closest(".video-play")?.classList.add("thumbnail-unavailable");
+      }
+    });
+  });
+};
 
 const videosForArtist = item => youtubeVideos.filter(video =>
   (video.artists || []).includes(item.id) || (video.trackAppearances || []).includes(item.id)
@@ -77,17 +96,27 @@ const videoGrid = videos => {
   return `<div class="video-grid">${videos.map(video => {
     const isTrackAppearance = !(video.artists || []).includes(artist.id) && (video.trackAppearances || []).includes(artist.id);
     const type = isTrackAppearance ? "track-appearance" : video.type;
+    const directCredits = (video.artists || [])
+      .map(id => artists.find(item => item.id === id)?.name)
+      .filter(Boolean);
     return `<article class="video-card">
       <button class="video-play" type="button" data-video-id="${video.id}" aria-label="Play ${esc(video.title)}">
-        <img src="${video.thumbnail}" alt="${esc(video.title)}" loading="lazy">
+        ${thumbnailMarkup(video)}
         <span class="play-mark">▶</span>
+        <span class="video-year-badge">${esc(video.year || "")}</span>
       </button>
       <div class="video-card-body">
         <span class="exhibit-type">${esc(videoTypeLabel(type))}</span>
         <strong>${esc(video.title)}</strong>
-        ${isTrackAppearance ? `<p>${esc(artist.name)} appears in the published track list; this is not presented as their own set.</p>` : ""}
-        <small>Source: ${esc(video.channel)}</small>
-        <a href="${video.url}" target="_blank" rel="noopener">Open on YouTube →</a>
+        ${directCredits.length ? `<p><b>DJ credit:</b> ${esc(directCredits.join(" & "))}</p>` : ""}
+        ${video.event ? `<p><b>Event / release:</b> ${esc(video.event)}</p>` : ""}
+        ${video.date ? `<p><b>Date:</b> ${esc(video.date)}</p>` : ""}
+        ${isTrackAppearance ? `<p class="relationship-note">${esc(artist.name)} is linked as a track appearance, not as the performing DJ.</p>` : ""}
+        <small>Source: ${esc(video.sourceCredit || video.channel)}</small>
+        <div class="video-actions">
+          <button type="button" class="video-play-link youtube-play" data-video-id="${video.id}">Play here</button>
+          <a href="${video.url}" target="_blank" rel="noopener">Open on YouTube →</a>
+        </div>
       </div>
     </article>`;
   }).join("")}</div>`;
@@ -178,9 +207,9 @@ if (!publishable(artist)) {
           ${simpleLinks(artist.tapes || [],"Tape recordings")}
           ${simpleLinks(artist.flyers || [],"Flyers")}
           ${simpleLinks(artist.events || [],"Events")}
-          ${videosForArtist(artist).length ? `<div class="connection-group"><h3>YouTube archive</h3><a href="#youtube-archive">${videosForArtist(artist).length} verified channel link${videosForArtist(artist).length===1?"":"s"} →</a></div>` : ""}
+          ${videosForArtist(artist).length ? `<div class="connection-group"><h3>YouTube archive</h3><a href="#youtube-archive">View linked sets and mixes →</a></div>` : ""}
         </div>
-        ${videosForArtist(artist).length ? `<section class="youtube-profile-section" id="youtube-archive"><h3>HappyHardcore95to99 Backup</h3><p>Verified uploads linked by artist, mix credit or published track list.</p>${videoGrid(videosForArtist(artist))}</section>` : ""}
+        ${videosForArtist(artist).length ? `<section class="youtube-profile-section" id="youtube-archive"><h3>HappyHardcore95to99 Backup</h3><p>Sets and mixes linked from the video title, artist credit, event name and year. Comment track lists are not used in this phase.</p>${videoGrid(videosForArtist(artist))}</section>` : ""}
       </section>
 
       <section class="panel" id="sources">
@@ -199,6 +228,8 @@ if (!publishable(artist)) {
       <img src="" alt="">
     </dialog>
   `;
+
+  installThumbnailFallbacks(root);
 
   const stage = document.querySelector("#year-stage");
   const buttons = [...document.querySelectorAll(".year-node.is-active")];
@@ -236,6 +267,7 @@ if (!publishable(artist)) {
 
     bindLightbox();
     bindVideos();
+    installThumbnailFallbacks(stage);
     history.replaceState(null,"",`#year-${year}`);
     if(scroll) stage.scrollIntoView({behavior:"smooth",block:"nearest"});
   }
@@ -282,5 +314,3 @@ if (!publishable(artist)) {
     if(event.target===event.currentTarget) event.currentTarget.close();
   });
 }
-
-window.BTOS_TRACKLIST_FOR_VIDEO = tracklistForVideo;

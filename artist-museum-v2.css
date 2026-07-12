@@ -249,28 +249,33 @@ img{max-width:100%}
 @media(max-width:560px){.video-grid{grid-template-columns:1fr}}
 
 
-/* Phase 3.41 — YouTube comment tracklists */
-.youtube-tracklist{
-  margin-top:14px;border-top:1px solid rgba(255,255,255,.14);
-  background:rgba(0,0,0,.25)
+/* Phase 3.42 — video metadata and resilient thumbnails */
+.video-play{overflow:hidden;min-height:180px}
+.video-play img{background:#111;transition:transform .25s ease,filter .25s ease}
+.video-play:hover img{transform:scale(1.025);filter:brightness(.78)}
+.video-play.thumbnail-unavailable{
+  background:linear-gradient(135deg,#151515,#050505);
 }
-.youtube-tracklist summary{
-  padding:13px 15px;color:var(--yellow);cursor:pointer;
-  text-transform:uppercase;font-size:11px;font-weight:900;letter-spacing:.08em
+.video-play.thumbnail-unavailable:before{
+  content:"YouTube thumbnail unavailable";
+  position:absolute;inset:0;display:grid;place-items:center;
+  color:#8f8a82;text-transform:uppercase;font-size:11px;font-weight:900;letter-spacing:.08em
 }
-.youtube-tracklist ol{margin:0;padding:0;list-style:none;max-height:430px;overflow:auto}
-.youtube-tracklist li{
-  display:grid;grid-template-columns:64px minmax(115px,.65fr) 1fr auto;
-  gap:12px;align-items:start;padding:11px 14px;border-top:1px solid rgba(255,255,255,.08)
+.video-year-badge{
+  position:absolute;left:10px;top:10px;padding:6px 9px;
+  background:rgba(0,0,0,.82);border:1px solid rgba(255,196,0,.58);
+  color:var(--yellow);font-size:11px;font-weight:900
 }
-.youtube-tracklist li:hover{background:rgba(255,196,0,.04)}
-.track-time{color:var(--yellow);text-decoration:none;font-weight:900}
-.track-credit,.track-credit a{color:#ddd;text-decoration:none}
-.track-credit a:hover{color:var(--yellow)}
-.youtube-tracklist li strong{font-size:14px;line-height:1.35}
-.youtube-tracklist li small{color:#8f8a82;max-width:170px;text-align:right}
-@media(max-width:720px){
-  .youtube-tracklist li{grid-template-columns:55px 1fr}
-  .youtube-tracklist li strong,.youtube-tracklist li small{grid-column:2}
-  .youtube-tracklist li small{text-align:left}
+.video-card-body p b{color:#ded8ce}
+.relationship-note{border-left:3px solid var(--yellow);padding-left:9px}
+.video-actions{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:13px}
+.video-play-link{
+  border:1px solid var(--yellow);background:#050505;color:var(--yellow);
+  padding:9px 12px;text-transform:uppercase;font-size:11px;font-weight:900;cursor:pointer
+}
+.video-play-link:hover{background:var(--yellow);color:#000}
+.video-actions>a{margin:0}
+@media(max-width:560px){
+  .video-actions{align-items:stretch;flex-direction:column}
+  .video-play-link,.video-actions>a{text-align:center}
 }

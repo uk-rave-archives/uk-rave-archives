@@ -14,7 +14,7 @@ window.BTOS_ARTISTS = [
       "Drum & Bass"
     ],
     "image": "grooverider.jpg",
-    "photoCredit": "Alkivar, 2004 \u00b7 CC BY-SA 2.5",
+    "photoCredit": "Alkivar, 2004 · CC BY-SA 2.5",
     "summary": "Jungle pioneer, broadcaster, producer and founder of Prototype Recordings.",
     "biography": [
       "Grooverider began DJing on the London pirate station Phase One in the mid-1980s. His early selections included soul, hip hop and disco before he and Fabio moved toward house music.",
@@ -29,9 +29,9 @@ window.BTOS_ARTISTS = [
         "text": "Early London broadcasts and club sets."
       },
       {
-        "year": "1988\u20131991",
+        "year": "1988–1991",
         "title": "House, hardcore and Rage",
-        "text": "The Fabio and Grooverider partnership became central to London\u2019s changing rave sound."
+        "text": "The Fabio and Grooverider partnership became central to London’s changing rave sound."
       },
       {
         "year": "1991",
@@ -39,19 +39,19 @@ window.BTOS_ARTISTS = [
         "text": "A confirmed Grooverider recording survives from Milwaukees."
       },
       {
-        "year": "1993\u20131998",
+        "year": "1993–1998",
         "title": "Jungle, Prototype and album work",
         "text": "Production aliases, Prototype Recordings and major releases expanded his influence."
       },
       {
-        "year": "1999\u20132005",
+        "year": "1999–2005",
         "title": "Radio and international activity",
         "text": "Continued broadcasting, touring and label activity."
       }
     ],
     "tapes": [
       {
-        "title": "Helter Skelter \u2014 Milwaukees, 1991",
+        "title": "Helter Skelter — Milwaukees, 1991",
         "href": "packs.html?artist=grooverider"
       }
     ],
@@ -89,7 +89,7 @@ window.BTOS_ARTISTS = [
     "yearData": {
       "1985": {
         "title": "Early London DJ activity",
-        "summary": "Grooverider\u2019s documented career begins in London\u2019s mid-1980s pirate-radio and club network.",
+        "summary": "Grooverider’s documented career begins in London’s mid-1980s pirate-radio and club network.",
         "details": [
           "Early sets included soul, hip hop and disco before the move into house music."
         ],
@@ -107,7 +107,7 @@ window.BTOS_ARTISTS = [
       },
       "1988": {
         "title": "House and the emerging rave scene",
-        "summary": "The Fabio and Grooverider partnership became closely connected with London\u2019s changing house and rave culture.",
+        "summary": "The Fabio and Grooverider partnership became closely connected with London’s changing house and rave culture.",
         "details": [
           "This period marks the move from earlier club and radio work into the developing acid-house and rave environment."
         ],
@@ -132,11 +132,11 @@ window.BTOS_ARTISTS = [
         "photos": [],
         "tapes": [
           {
-            "title": "Helter Skelter \u2014 Milwaukees \u2014 Grooverider Side A",
+            "title": "Helter Skelter — Milwaukees — Grooverider Side A",
             "href": "packs.html?artist=grooverider&year=1991"
           },
           {
-            "title": "Helter Skelter \u2014 Milwaukees \u2014 Grooverider Side B",
+            "title": "Helter Skelter — Milwaukees — Grooverider Side B",
             "href": "packs.html?artist=grooverider&year=1991"
           }
         ],
@@ -171,7 +171,7 @@ window.BTOS_ARTISTS = [
       },
       "1993": {
         "title": "Codename John and the darkside era",
-        "summary": "Grooverider\u2019s production work under the Codename John name became associated with the darker direction of early jungle.",
+        "summary": "Grooverider’s production work under the Codename John name became associated with the darker direction of early jungle.",
         "details": [
           "His DJ sets and productions were part of the movement away from breakbeat hardcore toward jungle and drum & bass."
         ],
@@ -196,7 +196,7 @@ window.BTOS_ARTISTS = [
         "title": "Prototype Recordings",
         "summary": "Prototype Recordings developed into an important outlet for forward-looking jungle and drum & bass.",
         "details": [
-          "The label became closely identified with Grooverider\u2019s darker and more technical musical direction."
+          "The label became closely identified with Grooverider’s darker and more technical musical direction."
         ],
         "photos": [],
         "tapes": [],
@@ -217,7 +217,7 @@ window.BTOS_ARTISTS = [
       },
       "1997": {
         "title": "The Prototype Years",
-        "summary": "The Prototype Years documented the label\u2019s sound and Grooverider\u2019s role in drum & bass during the mid-1990s.",
+        "summary": "The Prototype Years documented the label’s sound and Grooverider’s role in drum & bass during the mid-1990s.",
         "details": [],
         "photos": [],
         "tapes": [],
@@ -267,7 +267,7 @@ window.BTOS_ARTISTS = [
           {
             "src": "grooverider.jpg",
             "caption": "Grooverider at The World of Drum and Bass, Hartford, Connecticut",
-            "credit": "Alkivar \u00b7 CC BY-SA 2.5"
+            "credit": "Alkivar · CC BY-SA 2.5"
           }
         ],
         "tapes": [],
@@ -288,7 +288,7 @@ window.BTOS_ARTISTS = [
       },
       "2005": {
         "title": "Archive period boundary",
-        "summary": "Grooverider remained active across clubs, radio, touring and label-related work through the archive\u2019s 2005 boundary.",
+        "summary": "Grooverider remained active across clubs, radio, touring and label-related work through the archive’s 2005 boundary.",
         "details": [],
         "photos": [],
         "tapes": [],
@@ -326,9 +326,9 @@ window.BTOS_ARTISTS = [
     ],
     "timeline": [
       {
-        "year": "Late 1980s\u2013early 1990s",
+        "year": "Late 1980s–early 1990s",
         "title": "Underground scene",
-        "text": "Early activity in London\u2019s developing rave and radio networks."
+        "text": "Early activity in London’s developing rave and radio networks."
       },
       {
         "year": "1995",
@@ -336,7 +336,7 @@ window.BTOS_ARTISTS = [
         "text": "Recorded-project milestone during the jungle era."
       },
       {
-        "year": "1996\u20132005",
+        "year": "1996–2005",
         "title": "Radio, events and collaborations",
         "text": "Continued MC and collaborative activity through the archive period."
       }
@@ -434,7 +434,7 @@ window.BTOS_ARTISTS = [
       },
       "2005": {
         "title": "Archive period boundary",
-        "summary": "MC Det\u2019s profile remains connected to documented radio, live and recording activity through the archive period.",
+        "summary": "MC Det’s profile remains connected to documented radio, live and recording activity through the archive period.",
         "details": [],
         "photos": [],
         "tapes": [],
@@ -510,7 +510,7 @@ window.BTOS_ARTISTS = [
     "yearData": {
       "1991": {
         "title": "Logical Progression and Good Looking",
-        "summary": "Early Good Looking material established Bukem\u2019s spacious, melodic approach.",
+        "summary": "Early Good Looking material established Bukem’s spacious, melodic approach.",
         "details": [
           "Demon's Theme was completed around this period and became an early Good Looking landmark."
         ],
@@ -579,7 +579,7 @@ window.BTOS_ARTISTS = [
       },
       "1995": {
         "title": "Horizons and BBC Essential Mix",
-        "summary": "Horizons became one of Bukem\u2019s best-known productions. He also appeared in a BBC Essential Mix with MC Conrad.",
+        "summary": "Horizons became one of Bukem’s best-known productions. He also appeared in a BBC Essential Mix with MC Conrad.",
         "details": [],
         "photos": [],
         "tapes": [],
@@ -784,7 +784,7 @@ window.BTOS_ARTISTS = [
         "flyers": [],
         "events": [
           {
-            "title": "DJ Hype event archive \u2014 1994",
+            "title": "DJ Hype event archive — 1994",
             "href": "events.html?artist=dj-hype&year=1994"
           }
         ],
@@ -798,7 +798,7 @@ window.BTOS_ARTISTS = [
       },
       "1996": {
         "title": "Ganja Records and Still Smokin'",
-        "summary": "Ganja Records and the Still Smokin' compilation documented Hype\u2019s role in mid-1990s jungle and drum & bass.",
+        "summary": "Ganja Records and the Still Smokin' compilation documented Hype’s role in mid-1990s jungle and drum & bass.",
         "details": [],
         "photos": [],
         "tapes": [],
@@ -950,7 +950,7 @@ window.BTOS_ARTISTS = [
       },
       "1997": {
         "title": "Bambaata",
-        "summary": "Bambaata became one of Shy FX\u2019s major late-1990s productions.",
+        "summary": "Bambaata became one of Shy FX’s major late-1990s productions.",
         "details": [],
         "photos": [],
         "tapes": [],
@@ -1068,9 +1068,9 @@ window.BTOS_ARTISTS = [
     "summary": "Bristol DJ and producer, Full Cycle co-founder and leader of Reprazent.",
     "biography": [
       "Roni Size grew up in Bristol and developed his production skills through the Sefton Park youth project, where equipment included record players, a mixing desk, drum machines and samplers.",
-      "With Krust, Suv and DJ Die he helped establish Full Cycle Records. His early-1990s releases and collaborations connected Bristol\u2019s sound-system heritage with jungle and drum & bass.",
+      "With Krust, Suv and DJ Die he helped establish Full Cycle Records. His early-1990s releases and collaborations connected Bristol’s sound-system heritage with jungle and drum & bass.",
       "Roni Size & Reprazent made their live debut at Tribal Gathering in 1997. Their album New Forms won the Mercury Prize that year.",
-      "Reprazent continued with In the M\u00f8de in 2000, while Roni Size returned to solo and Full Cycle work through releases including Touching Down in 2002."
+      "Reprazent continued with In the Møde in 2000, while Roni Size returned to solo and Full Cycle work through releases including Touching Down in 2002."
     ],
     "timeline": [],
     "tapes": [
@@ -1113,7 +1113,7 @@ window.BTOS_ARTISTS = [
     "yearData": {
       "1993": {
         "title": "Full Cycle and Dope Dragon",
-        "summary": "Full Cycle and Dope Dragon emerged from Bristol\u2019s developing jungle network.",
+        "summary": "Full Cycle and Dope Dragon emerged from Bristol’s developing jungle network.",
         "details": [
           "Roni Size worked alongside Krust, Suv and DJ Die in the Full Cycle organisation."
         ],
@@ -1177,8 +1177,8 @@ window.BTOS_ARTISTS = [
         ]
       },
       "2000": {
-        "title": "In the M\u00f8de",
-        "summary": "Roni Size & Reprazent released In the M\u00f8de.",
+        "title": "In the Møde",
+        "summary": "Roni Size & Reprazent released In the Møde.",
         "details": [],
         "photos": [],
         "tapes": [],
@@ -1186,7 +1186,7 @@ window.BTOS_ARTISTS = [
         "events": [],
         "releases": [
           {
-            "title": "In the M\u00f8de",
+            "title": "In the Møde",
             "href": "artist.html?id=roni-size#connections"
           }
         ],
@@ -1233,7 +1233,7 @@ window.BTOS_ARTISTS = [
         "flyers": [],
         "events": [
           {
-            "title": "Roni Size event archive \u2014 2005",
+            "title": "Roni Size event archive — 2005",
             "href": "events.html?artist=roni-size&year=2005"
           }
         ],
