@@ -1,0 +1,17 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Phase 3.48 Master Archive Test</title>
+<style>body{margin:0;padding:30px;background:#080808;color:#eee;font:16px Arial}h1{color:#ffc400}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:12px}.card{padding:18px;background:#111;border:1px solid #444}.card b{display:block;color:#ffc400;font-size:28px}a{color:#ffc400}</style>
+<h1>Master Archive Engine Test</h1>
+<div class="grid" id="stats"></div>
+<p><a href="master-archive-admin.html">Open archive admin and quality dashboard →</a></p>
+<script src="master-archive-data.js"></script>
+<script src="master-archive-relations.js"></script>
+<script src="master-archive-quality.js"></script>
+<script src="master-archive-engine.js"></script>
+<script>
+const e=window.BTOS_ARCHIVE_ENGINE;
+document.querySelector("#stats").innerHTML=Object.entries(e.archive.collections).map(([name,rows])=>`<div class="card"><b>${rows.length}</b>${name}</div>`).join("");
+console.log("Grooverider tape packs",e.related("artists","grooverider","tapePacks"));
+console.log("DJ Hype videos",e.related("artists","dj-hype","videos"));
+</script>
