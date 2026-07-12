@@ -93,7 +93,30 @@ window.BTOS_MASTER_ARCHIVE = {
         "photoCredit": "",
         "summary": "",
         "biography": [],
-        "timeline": {},
+        "timeline": {
+          "1995": {
+            "title": "Flyer appearance — Hardcore — You Know The Score",
+            "summary": "Named on the lineup for Hardcore — You Know The Score.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Hardcore — You Know The Score",
+                "image": "1000013800.jpg",
+                "href": "flyer-record.html?id=flyer-074"
+              }
+            ],
+            "events": [
+              {
+                "title": "Hardcore — You Know The Score",
+                "href": "event.html?id=hardcore-you-know-the-score-1995"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
         "legacySource": "Older site People/DJ index",
         "sources": []
       },
@@ -112,7 +135,30 @@ window.BTOS_MASTER_ARCHIVE = {
         "photoCredit": "",
         "summary": "",
         "biography": [],
-        "timeline": {},
+        "timeline": {
+          "1992": {
+            "title": "Flyer appearance — Essence — Halloween",
+            "summary": "Named on the lineup for Essence — Halloween.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Essence — Halloween",
+                "image": "1000013809.jpg",
+                "href": "flyer-record.html?id=flyer-081"
+              }
+            ],
+            "events": [
+              {
+                "title": "Essence — Halloween",
+                "href": "event.html?id=essence-halloween-1992"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
         "legacySource": "",
         "sources": []
       },
@@ -131,7 +177,30 @@ window.BTOS_MASTER_ARCHIVE = {
         "photoCredit": "",
         "summary": "",
         "biography": [],
-        "timeline": {},
+        "timeline": {
+          "1995": {
+            "title": "Flyer appearance — Techno Town",
+            "summary": "Named on the lineup for Techno Town.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Techno Town",
+                "image": "1000013799.jpg",
+                "href": "flyer-record.html?id=flyer-073"
+              }
+            ],
+            "events": [
+              {
+                "title": "Techno Town",
+                "href": "event.html?id=techno-town-1995"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
         "legacySource": "Older site People/DJ index",
         "sources": []
       },
@@ -554,7 +623,30 @@ window.BTOS_MASTER_ARCHIVE = {
         "photoCredit": "",
         "summary": "",
         "biography": [],
-        "timeline": {},
+        "timeline": {
+          "1995": {
+            "title": "Flyer appearance — Hardcore — You Know The Score",
+            "summary": "Named on the lineup for Hardcore — You Know The Score.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Hardcore — You Know The Score",
+                "image": "1000013800.jpg",
+                "href": "flyer-record.html?id=flyer-074"
+              }
+            ],
+            "events": [
+              {
+                "title": "Hardcore — You Know The Score",
+                "href": "event.html?id=hardcore-you-know-the-score-1995"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
         "legacySource": "Older site People/DJ index",
         "sources": []
       },
@@ -573,7 +665,52 @@ window.BTOS_MASTER_ARCHIVE = {
         "photoCredit": "",
         "summary": "",
         "biography": [],
-        "timeline": {},
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Freek Brothers — The Rebirth",
+            "summary": "Named on the lineup for Freek Brothers — The Rebirth.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "image": "1000013772.jpg",
+                "href": "flyer-record.html?id=flyer-056"
+              }
+            ],
+            "events": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "href": "event.html?id=freek-brothers-the-rebirth-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          },
+          "1995": {
+            "title": "Flyer appearance — Techno Town",
+            "summary": "Named on the lineup for Techno Town.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Techno Town",
+                "image": "1000013799.jpg",
+                "href": "flyer-record.html?id=flyer-073"
+              }
+            ],
+            "events": [
+              {
+                "title": "Techno Town",
+                "href": "event.html?id=techno-town-1995"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
         "legacySource": "",
         "sources": []
       },
@@ -611,7 +748,30 @@ window.BTOS_MASTER_ARCHIVE = {
         "photoCredit": "",
         "summary": "",
         "biography": [],
-        "timeline": {},
+        "timeline": {
+          "1992": {
+            "title": "Flyer appearance — Essence — Halloween",
+            "summary": "Named on the lineup for Essence — Halloween.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Essence — Halloween",
+                "image": "1000013809.jpg",
+                "href": "flyer-record.html?id=flyer-081"
+              }
+            ],
+            "events": [
+              {
+                "title": "Essence — Halloween",
+                "href": "event.html?id=essence-halloween-1992"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
         "legacySource": "",
         "sources": []
       },
@@ -649,7 +809,30 @@ window.BTOS_MASTER_ARCHIVE = {
         "photoCredit": "",
         "summary": "",
         "biography": [],
-        "timeline": {},
+        "timeline": {
+          "1992": {
+            "title": "Flyer appearance — Temptation — Valentine's Foam Party",
+            "summary": "Named on the lineup for Temptation — Valentine's Foam Party.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Temptation — Valentine's Foam Party",
+                "image": "1000013785.jpg",
+                "href": "flyer-record.html?id=flyer-066"
+              }
+            ],
+            "events": [
+              {
+                "title": "Temptation — Valentine's Foam Party",
+                "href": "event.html?id=temptation-valentine-s-foam-party-1992"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
         "legacySource": "",
         "sources": []
       },
@@ -744,7 +927,30 @@ window.BTOS_MASTER_ARCHIVE = {
         "photoCredit": "",
         "summary": "",
         "biography": [],
-        "timeline": {},
+        "timeline": {
+          "1992": {
+            "title": "Flyer appearance — Infinity Promotions — Infa-Nite",
+            "summary": "Named on the lineup for Infinity Promotions — Infa-Nite.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Infinity Promotions — Infa-Nite",
+                "image": "1000013796.jpg",
+                "href": "flyer-record.html?id=flyer-071"
+              }
+            ],
+            "events": [
+              {
+                "title": "Infinity Promotions — Infa-Nite",
+                "href": "event.html?id=infinity-promotions-infa-nite-1992"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
         "legacySource": "Older site People/DJ index",
         "sources": []
       },
@@ -1082,7 +1288,30 @@ window.BTOS_MASTER_ARCHIVE = {
         "photoCredit": "",
         "summary": "",
         "biography": [],
-        "timeline": {},
+        "timeline": {
+          "1992": {
+            "title": "Flyer appearance — Infinity Promotions — Infa-Nite",
+            "summary": "Named on the lineup for Infinity Promotions — Infa-Nite.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Infinity Promotions — Infa-Nite",
+                "image": "1000013796.jpg",
+                "href": "flyer-record.html?id=flyer-071"
+              }
+            ],
+            "events": [
+              {
+                "title": "Infinity Promotions — Infa-Nite",
+                "href": "event.html?id=infinity-promotions-infa-nite-1992"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
         "legacySource": "",
         "sources": []
       },
@@ -1345,7 +1574,7 @@ window.BTOS_MASTER_ARCHIVE = {
       {
         "id": "man-parris",
         "type": "artist",
-        "role": "DJ",
+        "role": "MC",
         "name": "Man Parris",
         "public": false,
         "activeFrom": null,
@@ -1357,7 +1586,30 @@ window.BTOS_MASTER_ARCHIVE = {
         "photoCredit": "",
         "summary": "",
         "biography": [],
-        "timeline": {},
+        "timeline": {
+          "1992": {
+            "title": "Flyer appearance — Infinity Promotions — Infa-Nite",
+            "summary": "Named on the lineup for Infinity Promotions — Infa-Nite.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Infinity Promotions — Infa-Nite",
+                "image": "1000013796.jpg",
+                "href": "flyer-record.html?id=flyer-071"
+              }
+            ],
+            "events": [
+              {
+                "title": "Infinity Promotions — Infa-Nite",
+                "href": "event.html?id=infinity-promotions-infa-nite-1992"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
         "legacySource": "Older site People/DJ index",
         "sources": []
       },
@@ -1641,7 +1893,52 @@ window.BTOS_MASTER_ARCHIVE = {
         "photoCredit": "",
         "summary": "",
         "biography": [],
-        "timeline": {},
+        "timeline": {
+          "1992": {
+            "title": "Flyer appearance — Infinity Promotions — Infa-Nite",
+            "summary": "Named on the lineup for Infinity Promotions — Infa-Nite.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Infinity Promotions — Infa-Nite",
+                "image": "1000013796.jpg",
+                "href": "flyer-record.html?id=flyer-071"
+              }
+            ],
+            "events": [
+              {
+                "title": "Infinity Promotions — Infa-Nite",
+                "href": "event.html?id=infinity-promotions-infa-nite-1992"
+              }
+            ],
+            "releases": [],
+            "links": []
+          },
+          "1995": {
+            "title": "Flyer appearance — Hardcore — You Know The Score",
+            "summary": "Named on the lineup for Hardcore — You Know The Score.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Hardcore — You Know The Score",
+                "image": "1000013800.jpg",
+                "href": "flyer-record.html?id=flyer-074"
+              }
+            ],
+            "events": [
+              {
+                "title": "Hardcore — You Know The Score",
+                "href": "event.html?id=hardcore-you-know-the-score-1995"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
         "legacySource": "",
         "sources": []
       },
@@ -1774,7 +2071,30 @@ window.BTOS_MASTER_ARCHIVE = {
         "photoCredit": "",
         "summary": "",
         "biography": [],
-        "timeline": {},
+        "timeline": {
+          "1989": {
+            "title": "Flyer appearance — Batdance",
+            "summary": "Named on the lineup for Batdance.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Batdance",
+                "image": "1000013813.jpg",
+                "href": "flyer-record.html?id=flyer-084"
+              }
+            ],
+            "events": [
+              {
+                "title": "Batdance",
+                "href": "event.html?id=batdance-1989"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
         "legacySource": "Older site People/DJ index",
         "sources": []
       },
@@ -1793,7 +2113,52 @@ window.BTOS_MASTER_ARCHIVE = {
         "photoCredit": "",
         "summary": "",
         "biography": [],
-        "timeline": {},
+        "timeline": {
+          "1992": {
+            "title": "Flyer appearance — Infinity Promotions — Infa-Nite",
+            "summary": "Named on the lineup for Infinity Promotions — Infa-Nite.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Infinity Promotions — Infa-Nite",
+                "image": "1000013796.jpg",
+                "href": "flyer-record.html?id=flyer-071"
+              }
+            ],
+            "events": [
+              {
+                "title": "Infinity Promotions — Infa-Nite",
+                "href": "event.html?id=infinity-promotions-infa-nite-1992"
+              }
+            ],
+            "releases": [],
+            "links": []
+          },
+          "1995": {
+            "title": "Flyer appearance — Hardcore — You Know The Score",
+            "summary": "Named on the lineup for Hardcore — You Know The Score.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Hardcore — You Know The Score",
+                "image": "1000013800.jpg",
+                "href": "flyer-record.html?id=flyer-074"
+              }
+            ],
+            "events": [
+              {
+                "title": "Hardcore — You Know The Score",
+                "href": "event.html?id=hardcore-you-know-the-score-1995"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
         "legacySource": "Older site People/DJ index",
         "sources": []
       },
@@ -2348,7 +2713,30 @@ window.BTOS_MASTER_ARCHIVE = {
         "photoCredit": "",
         "summary": "",
         "biography": [],
-        "timeline": {},
+        "timeline": {
+          "1992": {
+            "title": "Flyer appearance — Infinity Promotions — Infa-Nite",
+            "summary": "Named on the lineup for Infinity Promotions — Infa-Nite.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Infinity Promotions — Infa-Nite",
+                "image": "1000013796.jpg",
+                "href": "flyer-record.html?id=flyer-071"
+              }
+            ],
+            "events": [
+              {
+                "title": "Infinity Promotions — Infa-Nite",
+                "href": "event.html?id=infinity-promotions-infa-nite-1992"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
         "legacySource": "Older site People/DJ index",
         "sources": []
       },
@@ -2462,7 +2850,30 @@ window.BTOS_MASTER_ARCHIVE = {
         "photoCredit": "",
         "summary": "",
         "biography": [],
-        "timeline": {},
+        "timeline": {
+          "1995": {
+            "title": "Flyer appearance — Hardcore — You Know The Score",
+            "summary": "Named on the lineup for Hardcore — You Know The Score.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Hardcore — You Know The Score",
+                "image": "1000013800.jpg",
+                "href": "flyer-record.html?id=flyer-074"
+              }
+            ],
+            "events": [
+              {
+                "title": "Hardcore — You Know The Score",
+                "href": "event.html?id=hardcore-you-know-the-score-1995"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
         "legacySource": "Older site People/DJ index",
         "sources": []
       },
@@ -2559,6 +2970,3576 @@ window.BTOS_MASTER_ARCHIVE = {
         "biography": [],
         "timeline": {},
         "legacySource": "Older site People/DJ index",
+        "sources": []
+      },
+      {
+        "id": "elliot",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Elliot",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Freek Brothers — The Rebirth",
+            "summary": "Named on the lineup for Freek Brothers — The Rebirth.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "image": "1000013772.jpg",
+                "href": "flyer-record.html?id=flyer-056"
+              }
+            ],
+            "events": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "href": "event.html?id=freek-brothers-the-rebirth-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "marga",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Marga",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Freek Brothers — The Rebirth",
+            "summary": "Named on the lineup for Freek Brothers — The Rebirth.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "image": "1000013772.jpg",
+                "href": "flyer-record.html?id=flyer-056"
+              }
+            ],
+            "events": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "href": "event.html?id=freek-brothers-the-rebirth-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "bad-boy-t",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Bad Boy T",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Freek Brothers — The Rebirth",
+            "summary": "Named on the lineup for Freek Brothers — The Rebirth.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "image": "1000013772.jpg",
+                "href": "flyer-record.html?id=flyer-056"
+              }
+            ],
+            "events": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "href": "event.html?id=freek-brothers-the-rebirth-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "shock-c",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Shock C",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Freek Brothers — The Rebirth",
+            "summary": "Named on the lineup for Freek Brothers — The Rebirth.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "image": "1000013772.jpg",
+                "href": "flyer-record.html?id=flyer-056"
+              }
+            ],
+            "events": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "href": "event.html?id=freek-brothers-the-rebirth-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "freek-bros",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Freek Bros",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Freek Brothers — The Rebirth",
+            "summary": "Named on the lineup for Freek Brothers — The Rebirth.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "image": "1000013772.jpg",
+                "href": "flyer-record.html?id=flyer-056"
+              }
+            ],
+            "events": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "href": "event.html?id=freek-brothers-the-rebirth-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "mrb",
+        "type": "artist",
+        "role": "DJ",
+        "name": "MRB",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Freek Brothers — The Rebirth",
+            "summary": "Named on the lineup for Freek Brothers — The Rebirth.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "image": "1000013772.jpg",
+                "href": "flyer-record.html?id=flyer-056"
+              }
+            ],
+            "events": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "href": "event.html?id=freek-brothers-the-rebirth-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "dj-lisa",
+        "type": "artist",
+        "role": "DJ",
+        "name": "DJ Lisa",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Freek Brothers — The Rebirth",
+            "summary": "Named on the lineup for Freek Brothers — The Rebirth.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "image": "1000013772.jpg",
+                "href": "flyer-record.html?id=flyer-056"
+              }
+            ],
+            "events": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "href": "event.html?id=freek-brothers-the-rebirth-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "tango",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Tango",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Freek Brothers — The Rebirth",
+            "summary": "Named on the lineup for Freek Brothers — The Rebirth.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "image": "1000013772.jpg",
+                "href": "flyer-record.html?id=flyer-056"
+              }
+            ],
+            "events": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "href": "event.html?id=freek-brothers-the-rebirth-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "top-buzz",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Top Buzz",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Freek Brothers — The Rebirth",
+            "summary": "Named on the lineup for Freek Brothers — The Rebirth.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "image": "1000013772.jpg",
+                "href": "flyer-record.html?id=flyer-056"
+              }
+            ],
+            "events": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "href": "event.html?id=freek-brothers-the-rebirth-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          },
+          "1992": {
+            "title": "Flyer appearance — Essence — Halloween",
+            "summary": "Named on the lineup for Essence — Halloween.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Essence — Halloween",
+                "image": "1000013809.jpg",
+                "href": "flyer-record.html?id=flyer-081"
+              }
+            ],
+            "events": [
+              {
+                "title": "Essence — Halloween",
+                "href": "event.html?id=essence-halloween-1992"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "dj-skool-e",
+        "type": "artist",
+        "role": "DJ",
+        "name": "DJ Skool-E",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Freek Brothers — The Rebirth",
+            "summary": "Named on the lineup for Freek Brothers — The Rebirth.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "image": "1000013772.jpg",
+                "href": "flyer-record.html?id=flyer-056"
+              }
+            ],
+            "events": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "href": "event.html?id=freek-brothers-the-rebirth-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "devastation",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Devastation",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Freek Brothers — The Rebirth",
+            "summary": "Named on the lineup for Freek Brothers — The Rebirth.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "image": "1000013772.jpg",
+                "href": "flyer-record.html?id=flyer-056"
+              }
+            ],
+            "events": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "href": "event.html?id=freek-brothers-the-rebirth-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "ll-dj",
+        "type": "artist",
+        "role": "DJ",
+        "name": "LL DJ",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Freek Brothers — The Rebirth",
+            "summary": "Named on the lineup for Freek Brothers — The Rebirth.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "image": "1000013772.jpg",
+                "href": "flyer-record.html?id=flyer-056"
+              }
+            ],
+            "events": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "href": "event.html?id=freek-brothers-the-rebirth-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "boing",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Boing",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Freek Brothers — The Rebirth",
+            "summary": "Named on the lineup for Freek Brothers — The Rebirth.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "image": "1000013772.jpg",
+                "href": "flyer-record.html?id=flyer-056"
+              }
+            ],
+            "events": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "href": "event.html?id=freek-brothers-the-rebirth-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "stevee-k",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Stevee K",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Freek Brothers — The Rebirth",
+            "summary": "Named on the lineup for Freek Brothers — The Rebirth.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "image": "1000013772.jpg",
+                "href": "flyer-record.html?id=flyer-056"
+              }
+            ],
+            "events": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "href": "event.html?id=freek-brothers-the-rebirth-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "cas-roc",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Cas Roc",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Freek Brothers — The Rebirth",
+            "summary": "Named on the lineup for Freek Brothers — The Rebirth.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "image": "1000013772.jpg",
+                "href": "flyer-record.html?id=flyer-056"
+              }
+            ],
+            "events": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "href": "event.html?id=freek-brothers-the-rebirth-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "christopher-stone",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Christopher Stone",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Freek Brothers — The Rebirth",
+            "summary": "Named on the lineup for Freek Brothers — The Rebirth.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "image": "1000013772.jpg",
+                "href": "flyer-record.html?id=flyer-056"
+              }
+            ],
+            "events": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "href": "event.html?id=freek-brothers-the-rebirth-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "mc-vocal",
+        "type": "artist",
+        "role": "MC",
+        "name": "MC Vocal",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Freek Brothers — The Rebirth",
+            "summary": "Named on the lineup for Freek Brothers — The Rebirth.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "image": "1000013772.jpg",
+                "href": "flyer-record.html?id=flyer-056"
+              }
+            ],
+            "events": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "href": "event.html?id=freek-brothers-the-rebirth-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "mc-natz",
+        "type": "artist",
+        "role": "MC",
+        "name": "MC Natz",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Freek Brothers — The Rebirth",
+            "summary": "Named on the lineup for Freek Brothers — The Rebirth.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "image": "1000013772.jpg",
+                "href": "flyer-record.html?id=flyer-056"
+              }
+            ],
+            "events": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "href": "event.html?id=freek-brothers-the-rebirth-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "mc-dug-e",
+        "type": "artist",
+        "role": "MC",
+        "name": "MC Dug-E",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Freek Brothers — The Rebirth",
+            "summary": "Named on the lineup for Freek Brothers — The Rebirth.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "image": "1000013772.jpg",
+                "href": "flyer-record.html?id=flyer-056"
+              }
+            ],
+            "events": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "href": "event.html?id=freek-brothers-the-rebirth-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "jd-walker",
+        "type": "artist",
+        "role": "MC",
+        "name": "JD Walker",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Freek Brothers — The Rebirth",
+            "summary": "Named on the lineup for Freek Brothers — The Rebirth.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "image": "1000013772.jpg",
+                "href": "flyer-record.html?id=flyer-056"
+              }
+            ],
+            "events": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "href": "event.html?id=freek-brothers-the-rebirth-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "scrapy-banton",
+        "type": "artist",
+        "role": "MC",
+        "name": "Scrapy Banton",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Freek Brothers — The Rebirth",
+            "summary": "Named on the lineup for Freek Brothers — The Rebirth.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "image": "1000013772.jpg",
+                "href": "flyer-record.html?id=flyer-056"
+              }
+            ],
+            "events": [
+              {
+                "title": "Freek Brothers — The Rebirth",
+                "href": "event.html?id=freek-brothers-the-rebirth-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "jay-stonghman",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Jay Stonghman",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {},
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "dominic",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Dominic",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {},
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "gary-hughes",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Gary Hughes",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {},
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "gary-gluke",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Gary Gluke",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {},
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "danny",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Danny",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {},
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "scottie",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Scottie",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {},
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "horace",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Horace",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {},
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "mole",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Mole",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1990": {
+            "title": "Flyer appearance — A.M.A.S.H. — All Niter",
+            "summary": "Named on the lineup for A.M.A.S.H. — All Niter.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "A.M.A.S.H. — All Niter",
+                "image": "1000013775.jpg",
+                "href": "flyer-record.html?id=flyer-059"
+              }
+            ],
+            "events": [
+              {
+                "title": "A.M.A.S.H. — All Niter",
+                "href": "event.html?id=a-m-a-s-h-all-niter-1990"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "agent-b",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Agent B",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1990": {
+            "title": "Flyer appearance — A.M.A.S.H. — All Niter",
+            "summary": "Named on the lineup for A.M.A.S.H. — All Niter.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "A.M.A.S.H. — All Niter",
+                "image": "1000013775.jpg",
+                "href": "flyer-record.html?id=flyer-059"
+              }
+            ],
+            "events": [
+              {
+                "title": "A.M.A.S.H. — All Niter",
+                "href": "event.html?id=a-m-a-s-h-all-niter-1990"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "andy",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Andy",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1990": {
+            "title": "Flyer appearance — A.M.A.S.H. — All Niter",
+            "summary": "Named on the lineup for A.M.A.S.H. — All Niter.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "A.M.A.S.H. — All Niter",
+                "image": "1000013775.jpg",
+                "href": "flyer-record.html?id=flyer-059"
+              }
+            ],
+            "events": [
+              {
+                "title": "A.M.A.S.H. — All Niter",
+                "href": "event.html?id=a-m-a-s-h-all-niter-1990"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "fent-b",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Fent B",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1990": {
+            "title": "Flyer appearance — A.M.A.S.H. — All Niter",
+            "summary": "Named on the lineup for A.M.A.S.H. — All Niter.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "A.M.A.S.H. — All Niter",
+                "image": "1000013775.jpg",
+                "href": "flyer-record.html?id=flyer-059"
+              }
+            ],
+            "events": [
+              {
+                "title": "A.M.A.S.H. — All Niter",
+                "href": "event.html?id=a-m-a-s-h-all-niter-1990"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "dave-patterson",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Dave Patterson",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Urban People presents Bugalu",
+            "summary": "Named on the lineup for Urban People presents Bugalu.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Urban People presents Bugalu",
+                "image": "1000013779.jpg",
+                "href": "flyer-record.html?id=flyer-062"
+              }
+            ],
+            "events": [
+              {
+                "title": "Urban People presents Bugalu",
+                "href": "event.html?id=urban-people-presents-bugalu-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "robert",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Robert",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Urban People presents Bugalu",
+            "summary": "Named on the lineup for Urban People presents Bugalu.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Urban People presents Bugalu",
+                "image": "1000013779.jpg",
+                "href": "flyer-record.html?id=flyer-062"
+              }
+            ],
+            "events": [
+              {
+                "title": "Urban People presents Bugalu",
+                "href": "event.html?id=urban-people-presents-bugalu-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "scott-davis",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Scott Davis",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Urban People presents Bugalu",
+            "summary": "Named on the lineup for Urban People presents Bugalu.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Urban People presents Bugalu",
+                "image": "1000013779.jpg",
+                "href": "flyer-record.html?id=flyer-062"
+              }
+            ],
+            "events": [
+              {
+                "title": "Urban People presents Bugalu",
+                "href": "event.html?id=urban-people-presents-bugalu-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "urban-joe",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Urban Joe",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Urban People presents Bugalu",
+            "summary": "Named on the lineup for Urban People presents Bugalu.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Urban People presents Bugalu",
+                "image": "1000013779.jpg",
+                "href": "flyer-record.html?id=flyer-062"
+              }
+            ],
+            "events": [
+              {
+                "title": "Urban People presents Bugalu",
+                "href": "event.html?id=urban-people-presents-bugalu-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "stu-allan",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Stu Allan",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1995": {
+            "title": "Flyer appearance — Revisited",
+            "summary": "Named on the lineup for Revisited.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Revisited",
+                "image": "1000013781.jpg",
+                "href": "flyer-record.html?id=flyer-063"
+              }
+            ],
+            "events": [
+              {
+                "title": "Revisited",
+                "href": "event.html?id=revisited-1995"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "daz-willot",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Daz Willot",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1995": {
+            "title": "Flyer appearance — Revisited",
+            "summary": "Named on the lineup for Revisited.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Revisited",
+                "image": "1000013781.jpg",
+                "href": "flyer-record.html?id=flyer-063"
+              }
+            ],
+            "events": [
+              {
+                "title": "Revisited",
+                "href": "event.html?id=revisited-1995"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "exl",
+        "type": "artist",
+        "role": "DJ",
+        "name": "EXL",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1995": {
+            "title": "Flyer appearance — Revisited",
+            "summary": "Named on the lineup for Revisited.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Revisited",
+                "image": "1000013781.jpg",
+                "href": "flyer-record.html?id=flyer-063"
+              },
+              {
+                "title": "Hardcore — You Know The Score",
+                "image": "1000013800.jpg",
+                "href": "flyer-record.html?id=flyer-074"
+              }
+            ],
+            "events": [
+              {
+                "title": "Revisited",
+                "href": "event.html?id=revisited-1995"
+              },
+              {
+                "title": "Hardcore — You Know The Score",
+                "href": "event.html?id=hardcore-you-know-the-score-1995"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "ratpack",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Ratpack",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1995": {
+            "title": "Flyer appearance — Revisited",
+            "summary": "Named on the lineup for Revisited.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Revisited",
+                "image": "1000013781.jpg",
+                "href": "flyer-record.html?id=flyer-063"
+              }
+            ],
+            "events": [
+              {
+                "title": "Revisited",
+                "href": "event.html?id=revisited-1995"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "fat-controller",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Fat Controller",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1995": {
+            "title": "Flyer appearance — Revisited",
+            "summary": "Named on the lineup for Revisited.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Revisited",
+                "image": "1000013781.jpg",
+                "href": "flyer-record.html?id=flyer-063"
+              }
+            ],
+            "events": [
+              {
+                "title": "Revisited",
+                "href": "event.html?id=revisited-1995"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "ralf-ep",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Ralf EP",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1995": {
+            "title": "Flyer appearance — Revisited",
+            "summary": "Named on the lineup for Revisited.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Revisited",
+                "image": "1000013781.jpg",
+                "href": "flyer-record.html?id=flyer-063"
+              }
+            ],
+            "events": [
+              {
+                "title": "Revisited",
+                "href": "event.html?id=revisited-1995"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "flo",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Flo",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1995": {
+            "title": "Flyer appearance — Revisited",
+            "summary": "Named on the lineup for Revisited.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Revisited",
+                "image": "1000013781.jpg",
+                "href": "flyer-record.html?id=flyer-063"
+              },
+              {
+                "title": "Techno Town",
+                "image": "1000013799.jpg",
+                "href": "flyer-record.html?id=flyer-073"
+              }
+            ],
+            "events": [
+              {
+                "title": "Revisited",
+                "href": "event.html?id=revisited-1995"
+              },
+              {
+                "title": "Techno Town",
+                "href": "event.html?id=techno-town-1995"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "carl-williams",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Carl Williams",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1995": {
+            "title": "Flyer appearance — Revisited",
+            "summary": "Named on the lineup for Revisited.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Revisited",
+                "image": "1000013781.jpg",
+                "href": "flyer-record.html?id=flyer-063"
+              }
+            ],
+            "events": [
+              {
+                "title": "Revisited",
+                "href": "event.html?id=revisited-1995"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "fallout",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Fallout",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {},
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "andy-c",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Andy C",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {},
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "rude-boy-007",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Rude Boy 007",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {},
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "radical-kryme",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Radical Kryme",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {},
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "ade-t",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Ade T",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {},
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "revolver",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Revolver",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {},
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "sasha",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Sasha",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1992": {
+            "title": "Flyer appearance — Temptation — Valentine's Foam Party",
+            "summary": "Named on the lineup for Temptation — Valentine's Foam Party.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Temptation — Valentine's Foam Party",
+                "image": "1000013785.jpg",
+                "href": "flyer-record.html?id=flyer-066"
+              }
+            ],
+            "events": [
+              {
+                "title": "Temptation — Valentine's Foam Party",
+                "href": "event.html?id=temptation-valentine-s-foam-party-1992"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "dave-seaman",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Dave Seaman",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1992": {
+            "title": "Flyer appearance — Temptation — Valentine's Foam Party",
+            "summary": "Named on the lineup for Temptation — Valentine's Foam Party.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Temptation — Valentine's Foam Party",
+                "image": "1000013785.jpg",
+                "href": "flyer-record.html?id=flyer-066"
+              }
+            ],
+            "events": [
+              {
+                "title": "Temptation — Valentine's Foam Party",
+                "href": "event.html?id=temptation-valentine-s-foam-party-1992"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "mr-clubman",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Mr Clubman",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1992": {
+            "title": "Flyer appearance — Temptation — Valentine's Foam Party",
+            "summary": "Named on the lineup for Temptation — Valentine's Foam Party.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Temptation — Valentine's Foam Party",
+                "image": "1000013785.jpg",
+                "href": "flyer-record.html?id=flyer-066"
+              }
+            ],
+            "events": [
+              {
+                "title": "Temptation — Valentine's Foam Party",
+                "href": "event.html?id=temptation-valentine-s-foam-party-1992"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "mc-e-mix",
+        "type": "artist",
+        "role": "MC",
+        "name": "MC E-Mix",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1992": {
+            "title": "Flyer appearance — Temptation — Valentine's Foam Party",
+            "summary": "Named on the lineup for Temptation — Valentine's Foam Party.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Temptation — Valentine's Foam Party",
+                "image": "1000013785.jpg",
+                "href": "flyer-record.html?id=flyer-066"
+              }
+            ],
+            "events": [
+              {
+                "title": "Temptation — Valentine's Foam Party",
+                "href": "event.html?id=temptation-valentine-s-foam-party-1992"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "tyger",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Tyger",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1992": {
+            "title": "Flyer appearance — Infinity Promotions — Infa-Nite",
+            "summary": "Named on the lineup for Infinity Promotions — Infa-Nite.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Infinity Promotions — Infa-Nite",
+                "image": "1000013796.jpg",
+                "href": "flyer-record.html?id=flyer-071"
+              }
+            ],
+            "events": [
+              {
+                "title": "Infinity Promotions — Infa-Nite",
+                "href": "event.html?id=infinity-promotions-infa-nite-1992"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "dj-milky",
+        "type": "artist",
+        "role": "DJ",
+        "name": "DJ Milky",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1992": {
+            "title": "Flyer appearance — Infinity Promotions — Infa-Nite",
+            "summary": "Named on the lineup for Infinity Promotions — Infa-Nite.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Infinity Promotions — Infa-Nite",
+                "image": "1000013796.jpg",
+                "href": "flyer-record.html?id=flyer-071"
+              }
+            ],
+            "events": [
+              {
+                "title": "Infinity Promotions — Infa-Nite",
+                "href": "event.html?id=infinity-promotions-infa-nite-1992"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "bassman",
+        "type": "artist",
+        "role": "MC",
+        "name": "Bassman",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1992": {
+            "title": "Flyer appearance — Infinity Promotions — Infa-Nite",
+            "summary": "Named on the lineup for Infinity Promotions — Infa-Nite.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Infinity Promotions — Infa-Nite",
+                "image": "1000013796.jpg",
+                "href": "flyer-record.html?id=flyer-071"
+              }
+            ],
+            "events": [
+              {
+                "title": "Infinity Promotions — Infa-Nite",
+                "href": "event.html?id=infinity-promotions-infa-nite-1992"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "craig-walsh",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Craig Walsh",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Positivity",
+            "summary": "Named on the lineup for Positivity.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Positivity",
+                "image": "1000013797.jpg",
+                "href": "flyer-record.html?id=flyer-072"
+              }
+            ],
+            "events": [
+              {
+                "title": "Positivity",
+                "href": "event.html?id=positivity-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "brandon-block",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Brandon Block",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Positivity",
+            "summary": "Named on the lineup for Positivity.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Positivity",
+                "image": "1000013797.jpg",
+                "href": "flyer-record.html?id=flyer-072"
+              }
+            ],
+            "events": [
+              {
+                "title": "Positivity",
+                "href": "event.html?id=positivity-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "pete-couzens",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Pete Couzens",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Positivity",
+            "summary": "Named on the lineup for Positivity.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Positivity",
+                "image": "1000013797.jpg",
+                "href": "flyer-record.html?id=flyer-072"
+              }
+            ],
+            "events": [
+              {
+                "title": "Positivity",
+                "href": "event.html?id=positivity-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "al-mckenzie",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Al McKenzie",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Positivity",
+            "summary": "Named on the lineup for Positivity.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Positivity",
+                "image": "1000013797.jpg",
+                "href": "flyer-record.html?id=flyer-072"
+              }
+            ],
+            "events": [
+              {
+                "title": "Positivity",
+                "href": "event.html?id=positivity-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "jeremy-healy",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Jeremy Healy",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Positivity",
+            "summary": "Named on the lineup for Positivity.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Positivity",
+                "image": "1000013797.jpg",
+                "href": "flyer-record.html?id=flyer-072"
+              }
+            ],
+            "events": [
+              {
+                "title": "Positivity",
+                "href": "event.html?id=positivity-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "danny-rampling",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Danny Rampling",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Positivity",
+            "summary": "Named on the lineup for Positivity.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Positivity",
+                "image": "1000013797.jpg",
+                "href": "flyer-record.html?id=flyer-072"
+              }
+            ],
+            "events": [
+              {
+                "title": "Positivity",
+                "href": "event.html?id=positivity-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "scott-braithwaite",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Scott Braithwaite",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Positivity",
+            "summary": "Named on the lineup for Positivity.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Positivity",
+                "image": "1000013797.jpg",
+                "href": "flyer-record.html?id=flyer-072"
+              }
+            ],
+            "events": [
+              {
+                "title": "Positivity",
+                "href": "event.html?id=positivity-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "diy",
+        "type": "artist",
+        "role": "DJ",
+        "name": "DIY",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1993": {
+            "title": "Flyer appearance — Positivity",
+            "summary": "Named on the lineup for Positivity.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Positivity",
+                "image": "1000013797.jpg",
+                "href": "flyer-record.html?id=flyer-072"
+              }
+            ],
+            "events": [
+              {
+                "title": "Positivity",
+                "href": "event.html?id=positivity-1993"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "loftgroover",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Loftgroover",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1995": {
+            "title": "Flyer appearance — Techno Town",
+            "summary": "Named on the lineup for Techno Town.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Techno Town",
+                "image": "1000013799.jpg",
+                "href": "flyer-record.html?id=flyer-073"
+              }
+            ],
+            "events": [
+              {
+                "title": "Techno Town",
+                "href": "event.html?id=techno-town-1995"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "mark-eg",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Mark EG",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1995": {
+            "title": "Flyer appearance — Techno Town",
+            "summary": "Named on the lineup for Techno Town.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Techno Town",
+                "image": "1000013799.jpg",
+                "href": "flyer-record.html?id=flyer-073"
+              }
+            ],
+            "events": [
+              {
+                "title": "Techno Town",
+                "href": "event.html?id=techno-town-1995"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "syoshi",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Syoshi",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1995": {
+            "title": "Flyer appearance — Techno Town",
+            "summary": "Named on the lineup for Techno Town.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Techno Town",
+                "image": "1000013799.jpg",
+                "href": "flyer-record.html?id=flyer-073"
+              }
+            ],
+            "events": [
+              {
+                "title": "Techno Town",
+                "href": "event.html?id=techno-town-1995"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "giles",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Giles",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1995": {
+            "title": "Flyer appearance — Hardcore — You Know The Score",
+            "summary": "Named on the lineup for Hardcore — You Know The Score.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Hardcore — You Know The Score",
+                "image": "1000013800.jpg",
+                "href": "flyer-record.html?id=flyer-074"
+              }
+            ],
+            "events": [
+              {
+                "title": "Hardcore — You Know The Score",
+                "href": "event.html?id=hardcore-you-know-the-score-1995"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "nick-w",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Nick W",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1995": {
+            "title": "Flyer appearance — Hardcore — You Know The Score",
+            "summary": "Named on the lineup for Hardcore — You Know The Score.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Hardcore — You Know The Score",
+                "image": "1000013800.jpg",
+                "href": "flyer-record.html?id=flyer-074"
+              }
+            ],
+            "events": [
+              {
+                "title": "Hardcore — You Know The Score",
+                "href": "event.html?id=hardcore-you-know-the-score-1995"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "dzire",
+        "type": "artist",
+        "role": "DJ",
+        "name": "D.Zire",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1995": {
+            "title": "Flyer appearance — Hardcore — You Know The Score",
+            "summary": "Named on the lineup for Hardcore — You Know The Score.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Hardcore — You Know The Score",
+                "image": "1000013800.jpg",
+                "href": "flyer-record.html?id=flyer-074"
+              }
+            ],
+            "events": [
+              {
+                "title": "Hardcore — You Know The Score",
+                "href": "event.html?id=hardcore-you-know-the-score-1995"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "nipper",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Nipper",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1991": {
+            "title": "Flyer appearance — Hyperactive",
+            "summary": "Named on the lineup for Hyperactive.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Hyperactive",
+                "image": "1000013803.jpg",
+                "href": "flyer-record.html?id=flyer-075"
+              }
+            ],
+            "events": [
+              {
+                "title": "Hyperactive",
+                "href": "event.html?id=hyperactive-1991"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "fergus",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Fergus",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1991": {
+            "title": "Flyer appearance — Hyperactive",
+            "summary": "Named on the lineup for Hyperactive.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Hyperactive",
+                "image": "1000013803.jpg",
+                "href": "flyer-record.html?id=flyer-075"
+              }
+            ],
+            "events": [
+              {
+                "title": "Hyperactive",
+                "href": "event.html?id=hyperactive-1991"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "pete-tyle",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Pete Tyle",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {},
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "paul-stirling",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Paul Stirling",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {},
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "toney-grimley",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Toney Grimley",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {},
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "john-pierson",
+        "type": "artist",
+        "role": "DJ",
+        "name": "John Pierson",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {},
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "dmitry-brill",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Dmitry Brill",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1992": {
+            "title": "Flyer appearance — Deee-Lite — Infinity Within Album Launch",
+            "summary": "Named on the lineup for Deee-Lite — Infinity Within Album Launch.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Deee-Lite — Infinity Within Album Launch",
+                "image": "1000013806.jpg",
+                "href": "flyer-record.html?id=flyer-078"
+              }
+            ],
+            "events": [
+              {
+                "title": "Deee-Lite — Infinity Within Album Launch",
+                "href": "event.html?id=deee-lite-infinity-within-album-launch-1992"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "towa-tei",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Towa Tei",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1992": {
+            "title": "Flyer appearance — Deee-Lite — Infinity Within Album Launch",
+            "summary": "Named on the lineup for Deee-Lite — Infinity Within Album Launch.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Deee-Lite — Infinity Within Album Launch",
+                "image": "1000013806.jpg",
+                "href": "flyer-record.html?id=flyer-078"
+              }
+            ],
+            "events": [
+              {
+                "title": "Deee-Lite — Infinity Within Album Launch",
+                "href": "event.html?id=deee-lite-infinity-within-album-launch-1992"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "princess-julia",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Princess Julia",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1992": {
+            "title": "Flyer appearance — Deee-Lite — Infinity Within Album Launch",
+            "summary": "Named on the lineup for Deee-Lite — Infinity Within Album Launch.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Deee-Lite — Infinity Within Album Launch",
+                "image": "1000013806.jpg",
+                "href": "flyer-record.html?id=flyer-078"
+              }
+            ],
+            "events": [
+              {
+                "title": "Deee-Lite — Infinity Within Album Launch",
+                "href": "event.html?id=deee-lite-infinity-within-album-launch-1992"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "jeffrey-hinton",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Jeffrey Hinton",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1992": {
+            "title": "Flyer appearance — Deee-Lite — Infinity Within Album Launch",
+            "summary": "Named on the lineup for Deee-Lite — Infinity Within Album Launch.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Deee-Lite — Infinity Within Album Launch",
+                "image": "1000013806.jpg",
+                "href": "flyer-record.html?id=flyer-078"
+              }
+            ],
+            "events": [
+              {
+                "title": "Deee-Lite — Infinity Within Album Launch",
+                "href": "event.html?id=deee-lite-infinity-within-album-launch-1992"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "harvey",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Harvey",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1992": {
+            "title": "Flyer appearance — Deee-Lite — Infinity Within Album Launch",
+            "summary": "Named on the lineup for Deee-Lite — Infinity Within Album Launch.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Deee-Lite — Infinity Within Album Launch",
+                "image": "1000013806.jpg",
+                "href": "flyer-record.html?id=flyer-078"
+              }
+            ],
+            "events": [
+              {
+                "title": "Deee-Lite — Infinity Within Album Launch",
+                "href": "event.html?id=deee-lite-infinity-within-album-launch-1992"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "luke-howard",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Luke Howard",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1992": {
+            "title": "Flyer appearance — Deee-Lite — Infinity Within Album Launch",
+            "summary": "Named on the lineup for Deee-Lite — Infinity Within Album Launch.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Deee-Lite — Infinity Within Album Launch",
+                "image": "1000013806.jpg",
+                "href": "flyer-record.html?id=flyer-078"
+              }
+            ],
+            "events": [
+              {
+                "title": "Deee-Lite — Infinity Within Album Launch",
+                "href": "event.html?id=deee-lite-infinity-within-album-launch-1992"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "lisa-loud",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Lisa Loud",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1992": {
+            "title": "Flyer appearance — Deee-Lite — Infinity Within Album Launch",
+            "summary": "Named on the lineup for Deee-Lite — Infinity Within Album Launch.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Deee-Lite — Infinity Within Album Launch",
+                "image": "1000013806.jpg",
+                "href": "flyer-record.html?id=flyer-078"
+              }
+            ],
+            "events": [
+              {
+                "title": "Deee-Lite — Infinity Within Album Launch",
+                "href": "event.html?id=deee-lite-infinity-within-album-launch-1992"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "greg-fenton",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Greg Fenton",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {},
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "paul-harris",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Paul Harris",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {},
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "steve-sawa",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Steve Sawa",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {},
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "colin-faver",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Colin Faver",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1992": {
+            "title": "Flyer appearance — Essence — Halloween",
+            "summary": "Named on the lineup for Essence — Halloween.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Essence — Halloween",
+                "image": "1000013809.jpg",
+                "href": "flyer-record.html?id=flyer-081"
+              }
+            ],
+            "events": [
+              {
+                "title": "Essence — Halloween",
+                "href": "event.html?id=essence-halloween-1992"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "evil-eddie-richards",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Evil Eddie Richards",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1992": {
+            "title": "Flyer appearance — Essence — Halloween",
+            "summary": "Named on the lineup for Essence — Halloween.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Essence — Halloween",
+                "image": "1000013809.jpg",
+                "href": "flyer-record.html?id=flyer-081"
+              }
+            ],
+            "events": [
+              {
+                "title": "Essence — Halloween",
+                "href": "event.html?id=essence-halloween-1992"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "dj-jd",
+        "type": "artist",
+        "role": "DJ",
+        "name": "DJ JD",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1992": {
+            "title": "Flyer appearance — Essence — Halloween",
+            "summary": "Named on the lineup for Essence — Halloween.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Essence — Halloween",
+                "image": "1000013809.jpg",
+                "href": "flyer-record.html?id=flyer-081"
+              }
+            ],
+            "events": [
+              {
+                "title": "Essence — Halloween",
+                "href": "event.html?id=essence-halloween-1992"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "dj-face",
+        "type": "artist",
+        "role": "DJ",
+        "name": "DJ Face",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1992": {
+            "title": "Flyer appearance — Essence — Halloween",
+            "summary": "Named on the lineup for Essence — Halloween.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Essence — Halloween",
+                "image": "1000013809.jpg",
+                "href": "flyer-record.html?id=flyer-081"
+              }
+            ],
+            "events": [
+              {
+                "title": "Essence — Halloween",
+                "href": "event.html?id=essence-halloween-1992"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "dms",
+        "type": "artist",
+        "role": "DJ",
+        "name": "DMS",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1992": {
+            "title": "Flyer appearance — Essence — Halloween",
+            "summary": "Named on the lineup for Essence — Halloween.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Essence — Halloween",
+                "image": "1000013809.jpg",
+                "href": "flyer-record.html?id=flyer-081"
+              }
+            ],
+            "events": [
+              {
+                "title": "Essence — Halloween",
+                "href": "event.html?id=essence-halloween-1992"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "mc-nathan",
+        "type": "artist",
+        "role": "MC",
+        "name": "MC Nathan",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1992": {
+            "title": "Flyer appearance — Essence — Halloween",
+            "summary": "Named on the lineup for Essence — Halloween.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Essence — Halloween",
+                "image": "1000013809.jpg",
+                "href": "flyer-record.html?id=flyer-081"
+              }
+            ],
+            "events": [
+              {
+                "title": "Essence — Halloween",
+                "href": "event.html?id=essence-halloween-1992"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "frankie-foncett",
+        "type": "artist",
+        "role": "DJ",
+        "name": "Frankie Foncett",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1989": {
+            "title": "Flyer appearance — Batdance",
+            "summary": "Named on the lineup for Batdance.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Batdance",
+                "image": "1000013813.jpg",
+                "href": "flyer-record.html?id=flyer-084"
+              }
+            ],
+            "events": [
+              {
+                "title": "Batdance",
+                "href": "event.html?id=batdance-1989"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
+        "sources": []
+      },
+      {
+        "id": "aj-in-the-mix",
+        "type": "artist",
+        "role": "DJ",
+        "name": "AJ in the Mix",
+        "public": false,
+        "activeFrom": null,
+        "archiveTo": 2005,
+        "origin": "",
+        "styles": [],
+        "aliases": [],
+        "image": "",
+        "photoCredit": "",
+        "summary": "",
+        "biography": [],
+        "timeline": {
+          "1989": {
+            "title": "Flyer appearance — Batdance",
+            "summary": "Named on the lineup for Batdance.",
+            "details": [],
+            "photos": [],
+            "tapes": [],
+            "flyers": [
+              {
+                "title": "Batdance",
+                "image": "1000013813.jpg",
+                "href": "flyer-record.html?id=flyer-084"
+              }
+            ],
+            "events": [
+              {
+                "title": "Batdance",
+                "href": "event.html?id=batdance-1989"
+              }
+            ],
+            "releases": [],
+            "links": []
+          }
+        },
+        "legacySource": "User-uploaded flyer batch",
         "sources": []
       }
     ],
@@ -3822,6 +7803,370 @@ window.BTOS_MASTER_ARCHIVE = {
         "venueId": null,
         "radioId": "kiss-100-fm",
         "href": "event.html?id=kiss-100-hixxy-dougal-1997"
+      },
+      {
+        "id": "freek-brothers-the-rebirth-1993",
+        "type": "event",
+        "name": "Freek Brothers — The Rebirth",
+        "date": "24 December 1993",
+        "year": 1993,
+        "promoterId": "freek-brothers",
+        "venueId": "marcus-garvey-centre-nottingham",
+        "radioId": null,
+        "href": "event.html?id=freek-brothers-the-rebirth-1993",
+        "eventType": "all-nighter",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "rave-99-3-fm-saturday-10-november-date-review",
+        "type": "event",
+        "name": "Rave 99.3 FM — Saturday 10 November",
+        "date": "",
+        "year": null,
+        "promoterId": "rave-99-3-fm",
+        "venueId": null,
+        "radioId": null,
+        "href": "event.html?id=rave-99-3-fm-saturday-10-november-date-review",
+        "eventType": "radio",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "censored-at-langtrys-date-review",
+        "type": "event",
+        "name": "Censored at Langtrys",
+        "date": "Saturday 18 July",
+        "year": null,
+        "promoterId": "censored",
+        "venueId": "langtrys-beckenham",
+        "radioId": null,
+        "href": "event.html?id=censored-at-langtrys-date-review",
+        "eventType": "club-night",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "a-m-a-s-h-all-niter-1990",
+        "type": "event",
+        "name": "A.M.A.S.H. — All Niter",
+        "date": "11 August 1990",
+        "year": 1990,
+        "promoterId": "a-d-g-promotions",
+        "venueId": "cedars-harrow-wealdstone",
+        "radioId": null,
+        "href": "event.html?id=a-m-a-s-h-all-niter-1990",
+        "eventType": "all-nighter",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "cream-at-the-waterfront-date-review",
+        "type": "event",
+        "name": "Cream at The Waterfront",
+        "date": "",
+        "year": null,
+        "promoterId": "cream",
+        "venueId": "the-waterfront",
+        "radioId": null,
+        "href": "event.html?id=cream-at-the-waterfront-date-review",
+        "eventType": "club-night",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "love-jooce-iii-date-review",
+        "type": "event",
+        "name": "Love — Jooce III",
+        "date": "",
+        "year": null,
+        "promoterId": "love",
+        "venueId": null,
+        "radioId": null,
+        "href": "event.html?id=love-jooce-iii-date-review",
+        "eventType": "club-night",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "urban-people-presents-bugalu-1993",
+        "type": "event",
+        "name": "Urban People presents Bugalu",
+        "date": "11 April 1993",
+        "year": 1993,
+        "promoterId": "urban-people",
+        "venueId": "oasis-nightclub-new-york",
+        "radioId": null,
+        "href": "event.html?id=urban-people-presents-bugalu-1993",
+        "eventType": "club-night",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "revisited-1995",
+        "type": "event",
+        "name": "Revisited",
+        "date": "28 April 1995",
+        "year": 1995,
+        "promoterId": "revisited",
+        "venueId": null,
+        "radioId": null,
+        "href": "event.html?id=revisited-1995",
+        "eventType": "reunion",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "fun-factory-happy-hardcore-date-review",
+        "type": "event",
+        "name": "Fun Factory — Happy Hardcore",
+        "date": "",
+        "year": null,
+        "promoterId": "fun-factory",
+        "venueId": null,
+        "radioId": null,
+        "href": "event.html?id=fun-factory-happy-hardcore-date-review",
+        "eventType": "club-night",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "the-keyhole-date-review",
+        "type": "event",
+        "name": "The Keyhole",
+        "date": "",
+        "year": null,
+        "promoterId": "the-keyhole",
+        "venueId": null,
+        "radioId": null,
+        "href": "event.html?id=the-keyhole-date-review",
+        "eventType": "club-night",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "temptation-valentine-s-foam-party-1992",
+        "type": "event",
+        "name": "Temptation — Valentine's Foam Party",
+        "date": "14 February 1992",
+        "year": 1992,
+        "promoterId": "life-from-zero-promotions",
+        "venueId": "international-east-of-england-ice-rink-peterborough",
+        "radioId": null,
+        "href": "event.html?id=temptation-valentine-s-foam-party-1992",
+        "eventType": "valentines",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "essence-at-the-hangar-date-review",
+        "type": "event",
+        "name": "Essence at The Hangar",
+        "date": "",
+        "year": null,
+        "promoterId": "essence",
+        "venueId": "the-hangar",
+        "radioId": null,
+        "href": "event.html?id=essence-at-the-hangar-date-review",
+        "eventType": "club-night",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "slammin-vinyl-part-iv-the-payback-date-review",
+        "type": "event",
+        "name": "Slammin' Vinyl Part IV — The Payback",
+        "date": "20 September",
+        "year": null,
+        "promoterId": "slammin-vinyl",
+        "venueId": "bagleys-kings-cross-london",
+        "radioId": null,
+        "href": "event.html?id=slammin-vinyl-part-iv-the-payback-date-review",
+        "eventType": "all-nighter",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "the-pleasuredome-dance-your-ass-off-date-review",
+        "type": "event",
+        "name": "The Pleasuredome — Dance Your Ass Off",
+        "date": "27 February",
+        "year": null,
+        "promoterId": "the-pleasuredome",
+        "venueId": "festival-pavilion-skegness",
+        "radioId": null,
+        "href": "event.html?id=the-pleasuredome-dance-your-ass-off-date-review",
+        "eventType": "club-night",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "the-pleasuredome-toe-sucker-date-review",
+        "type": "event",
+        "name": "The Pleasuredome — Toe-Sucker",
+        "date": "21 November",
+        "year": null,
+        "promoterId": "the-pleasuredome",
+        "venueId": "festival-pavilion-skegness",
+        "radioId": null,
+        "href": "event.html?id=the-pleasuredome-toe-sucker-date-review",
+        "eventType": "club-night",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "infinity-promotions-infa-nite-1992",
+        "type": "event",
+        "name": "Infinity Promotions — Infa-Nite",
+        "date": "3 April 1992",
+        "year": 1992,
+        "promoterId": "infinity-promotions",
+        "venueId": "handsworth-leisure-centre-birmingham",
+        "radioId": null,
+        "href": "event.html?id=infinity-promotions-infa-nite-1992",
+        "eventType": "all-nighter",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "positivity-1993",
+        "type": "event",
+        "name": "Positivity",
+        "date": "16 April 1993",
+        "year": 1993,
+        "promoterId": "positive-promotions",
+        "venueId": "sterns-nightclub-worthing",
+        "radioId": null,
+        "href": "event.html?id=positivity-1993",
+        "eventType": "club-night",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "techno-town-1995",
+        "type": "event",
+        "name": "Techno Town",
+        "date": "12 May 1995",
+        "year": 1995,
+        "promoterId": "the-edge",
+        "venueId": "sheffield",
+        "radioId": null,
+        "href": "event.html?id=techno-town-1995",
+        "eventType": "club-night",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "hardcore-you-know-the-score-1995",
+        "type": "event",
+        "name": "Hardcore — You Know The Score",
+        "date": "26 May 1995",
+        "year": 1995,
+        "promoterId": "the-edge",
+        "venueId": null,
+        "radioId": null,
+        "href": "event.html?id=hardcore-you-know-the-score-1995",
+        "eventType": "club-night",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "hyperactive-1991",
+        "type": "event",
+        "name": "Hyperactive",
+        "date": "14 July 1991",
+        "year": 1991,
+        "promoterId": "mnp-promotions",
+        "venueId": "the-pleasuredrome-farnworth",
+        "radioId": null,
+        "href": "event.html?id=hyperactive-1991",
+        "eventType": "club-night",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "mustard-date-review",
+        "type": "event",
+        "name": "Mustard",
+        "date": "Saturday 22 May",
+        "year": null,
+        "promoterId": "mustard",
+        "venueId": "cinecitta-discoteca-london-w1",
+        "radioId": null,
+        "href": "event.html?id=mustard-date-review",
+        "eventType": "club-night",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "wild-at-heart-date-review",
+        "type": "event",
+        "name": "Wild at Heart",
+        "date": "",
+        "year": null,
+        "promoterId": "wild-at-heart",
+        "venueId": null,
+        "radioId": null,
+        "href": "event.html?id=wild-at-heart-date-review",
+        "eventType": "club-night",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "deee-lite-infinity-within-album-launch-1992",
+        "type": "event",
+        "name": "Deee-Lite — Infinity Within Album Launch",
+        "date": "18 June 1992",
+        "year": 1992,
+        "promoterId": "deee-lite",
+        "venueId": "zatopek-linford-film-studios-battersea",
+        "radioId": null,
+        "href": "event.html?id=deee-lite-infinity-within-album-launch-1992",
+        "eventType": "album-launch",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "this-little-piggy-date-review",
+        "type": "event",
+        "name": "This Little Piggy",
+        "date": "Saturday 22 May",
+        "year": null,
+        "promoterId": "this-little-piggy",
+        "venueId": "central-london",
+        "radioId": null,
+        "href": "event.html?id=this-little-piggy-date-review",
+        "eventType": "club-night",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "essence-halloween-1992",
+        "type": "event",
+        "name": "Essence — Halloween",
+        "date": "31 October 1992",
+        "year": 1992,
+        "promoterId": "new-order-promotions",
+        "venueId": "the-hangar-west-wickham-cambridgeshire",
+        "radioId": null,
+        "href": "event.html?id=essence-halloween-1992",
+        "eventType": "halloween",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "fun-house-promotions-equinox-date-review",
+        "type": "event",
+        "name": "Fun House Promotions — Equinox",
+        "date": "",
+        "year": null,
+        "promoterId": "fun-house-promotions",
+        "venueId": "milwaukee-s",
+        "radioId": null,
+        "href": "event.html?id=fun-house-promotions-equinox-date-review",
+        "eventType": "club-night",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "the-pleasuredome-8-august-date-review",
+        "type": "event",
+        "name": "The Pleasuredome — 8 August",
+        "date": "8 August",
+        "year": null,
+        "promoterId": "the-pleasuredome",
+        "venueId": "festival-pavilion-skegness",
+        "radioId": null,
+        "href": "event.html?id=the-pleasuredome-8-august-date-review",
+        "eventType": "club-night",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "batdance-1989",
+        "type": "event",
+        "name": "Batdance",
+        "date": "22 July 1989",
+        "year": 1989,
+        "promoterId": "batdance",
+        "venueId": null,
+        "radioId": null,
+        "href": "event.html?id=batdance-1989",
+        "eventType": "acid-house",
+        "status": "uploaded-flyer"
       }
     ],
     "promoters": [
@@ -4008,6 +8353,167 @@ window.BTOS_MASTER_ARCHIVE = {
         "name": "Equinox",
         "href": "promoters.html?promoter=equinox",
         "status": "legacy-import"
+      },
+      {
+        "id": "freek-brothers",
+        "type": "promoter",
+        "name": "Freek Brothers",
+        "href": "promoters.html?promoter=freek-brothers",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "rave-99-3-fm",
+        "type": "promoter",
+        "name": "Rave 99.3 FM",
+        "href": "promoters.html?promoter=rave-99-3-fm",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "censored",
+        "type": "promoter",
+        "name": "Censored",
+        "href": "promoters.html?promoter=censored",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "a-d-g-promotions",
+        "type": "promoter",
+        "name": "A.D.G. Promotions",
+        "href": "promoters.html?promoter=a-d-g-promotions",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "cream",
+        "type": "promoter",
+        "name": "Cream",
+        "href": "promoters.html?promoter=cream",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "love",
+        "type": "promoter",
+        "name": "Love",
+        "href": "promoters.html?promoter=love",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "urban-people",
+        "type": "promoter",
+        "name": "Urban People",
+        "href": "promoters.html?promoter=urban-people",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "revisited",
+        "type": "promoter",
+        "name": "Revisited",
+        "href": "promoters.html?promoter=revisited",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "fun-factory",
+        "type": "promoter",
+        "name": "Fun Factory",
+        "href": "promoters.html?promoter=fun-factory",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "the-keyhole",
+        "type": "promoter",
+        "name": "The Keyhole",
+        "href": "promoters.html?promoter=the-keyhole",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "life-from-zero-promotions",
+        "type": "promoter",
+        "name": "Life From Zero Promotions",
+        "href": "promoters.html?promoter=life-from-zero-promotions",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "essence",
+        "type": "promoter",
+        "name": "Essence",
+        "href": "promoters.html?promoter=essence",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "the-pleasuredome",
+        "type": "promoter",
+        "name": "The Pleasuredome",
+        "href": "promoters.html?promoter=the-pleasuredome",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "infinity-promotions",
+        "type": "promoter",
+        "name": "Infinity Promotions",
+        "href": "promoters.html?promoter=infinity-promotions",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "positive-promotions",
+        "type": "promoter",
+        "name": "Positive Promotions",
+        "href": "promoters.html?promoter=positive-promotions",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "mnp-promotions",
+        "type": "promoter",
+        "name": "MNP Promotions",
+        "href": "promoters.html?promoter=mnp-promotions",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "mustard",
+        "type": "promoter",
+        "name": "Mustard",
+        "href": "promoters.html?promoter=mustard",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "wild-at-heart",
+        "type": "promoter",
+        "name": "Wild at Heart",
+        "href": "promoters.html?promoter=wild-at-heart",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "deee-lite",
+        "type": "promoter",
+        "name": "Deee-Lite",
+        "href": "promoters.html?promoter=deee-lite",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "this-little-piggy",
+        "type": "promoter",
+        "name": "This Little Piggy",
+        "href": "promoters.html?promoter=this-little-piggy",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "new-order-promotions",
+        "type": "promoter",
+        "name": "New Order Promotions",
+        "href": "promoters.html?promoter=new-order-promotions",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "fun-house-promotions",
+        "type": "promoter",
+        "name": "Fun House Promotions",
+        "href": "promoters.html?promoter=fun-house-promotions",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "batdance",
+        "type": "promoter",
+        "name": "Batdance",
+        "href": "promoters.html?promoter=batdance",
+        "status": "uploaded-flyer"
       }
     ],
     "venues": [
@@ -4016,6 +8522,139 @@ window.BTOS_MASTER_ARCHIVE = {
         "type": "venue",
         "name": "Hastings Pier",
         "href": "venues.html?venue=hastings-pier"
+      },
+      {
+        "id": "marcus-garvey-centre-nottingham",
+        "type": "venue",
+        "name": "Marcus Garvey Centre, Nottingham",
+        "href": "venues.html?venue=marcus-garvey-centre-nottingham",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "langtrys-beckenham",
+        "type": "venue",
+        "name": "Langtrys, Beckenham",
+        "href": "venues.html?venue=langtrys-beckenham",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "cedars-harrow-wealdstone",
+        "type": "venue",
+        "name": "Cedars, Harrow Wealdstone",
+        "href": "venues.html?venue=cedars-harrow-wealdstone",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "the-waterfront",
+        "type": "venue",
+        "name": "The Waterfront",
+        "href": "venues.html?venue=the-waterfront",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "oasis-nightclub-new-york",
+        "type": "venue",
+        "name": "Oasis Nightclub, New York",
+        "href": "venues.html?venue=oasis-nightclub-new-york",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "international-east-of-england-ice-rink-peterborough",
+        "type": "venue",
+        "name": "International East of England Ice Rink, Peterborough",
+        "href": "venues.html?venue=international-east-of-england-ice-rink-peterborough",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "the-hangar",
+        "type": "venue",
+        "name": "The Hangar",
+        "href": "venues.html?venue=the-hangar",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "bagleys-kings-cross-london",
+        "type": "venue",
+        "name": "Bagleys, Kings Cross, London",
+        "href": "venues.html?venue=bagleys-kings-cross-london",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "festival-pavilion-skegness",
+        "type": "venue",
+        "name": "Festival Pavilion, Skegness",
+        "href": "venues.html?venue=festival-pavilion-skegness",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "handsworth-leisure-centre-birmingham",
+        "type": "venue",
+        "name": "Handsworth Leisure Centre, Birmingham",
+        "href": "venues.html?venue=handsworth-leisure-centre-birmingham",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "sterns-nightclub-worthing",
+        "type": "venue",
+        "name": "Sterns Nightclub, Worthing",
+        "href": "venues.html?venue=sterns-nightclub-worthing",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "sheffield",
+        "type": "venue",
+        "name": "Sheffield",
+        "href": "venues.html?venue=sheffield",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "the-pleasuredrome-farnworth",
+        "type": "venue",
+        "name": "The Pleasuredrome, Farnworth",
+        "href": "venues.html?venue=the-pleasuredrome-farnworth",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "cinecitta-discoteca-london-w1",
+        "type": "venue",
+        "name": "Cinecitta Discoteca, London W1",
+        "href": "venues.html?venue=cinecitta-discoteca-london-w1",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "zatopek-linford-film-studios-battersea",
+        "type": "venue",
+        "name": "Zatopek, Linford Film Studios, Battersea",
+        "href": "venues.html?venue=zatopek-linford-film-studios-battersea",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "linford-studios-battersea",
+        "type": "venue",
+        "name": "Linford Studios, Battersea",
+        "href": "venues.html?venue=linford-studios-battersea",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "central-london",
+        "type": "venue",
+        "name": "Central London",
+        "href": "venues.html?venue=central-london",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "the-hangar-west-wickham-cambridgeshire",
+        "type": "venue",
+        "name": "The Hangar, West Wickham, Cambridgeshire",
+        "href": "venues.html?venue=the-hangar-west-wickham-cambridgeshire",
+        "status": "uploaded-flyer"
+      },
+      {
+        "id": "milwaukee-s",
+        "type": "venue",
+        "name": "Milwaukee's",
+        "href": "venues.html?venue=milwaukee-s",
+        "status": "uploaded-flyer"
       }
     ],
     "radio": [
@@ -4033,10 +8672,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Raindance",
         "image": "flyer-museum-01.jpg",
         "year": 1992,
+        "dateText": "1992",
+        "eventType": "flyer",
         "promoterId": "raindance",
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=0",
         "status": "linked-promoter"
@@ -4047,10 +8690,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Showtime 91",
         "image": "flyer-museum-02.jpg",
         "year": 1991,
+        "dateText": "1991",
+        "eventType": "flyer",
         "promoterId": "elevation-volatile-state",
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=1",
         "status": "linked-promoter"
@@ -4061,10 +8708,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Easy Lee Memorial Dance",
         "image": "flyer-museum-03.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": null,
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=2",
         "status": "review"
@@ -4075,10 +8726,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Yabba-Dabba-II",
         "image": "flyer-museum-04.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": null,
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=3",
         "status": "review"
@@ -4089,10 +8744,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Wonderland",
         "image": "flyer-museum-05.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": "wonderland",
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=4",
         "status": "linked-promoter"
@@ -4103,10 +8762,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Insomnia",
         "image": "flyer-museum-06.jpg",
         "year": 1993,
+        "dateText": "1993",
+        "eventType": "flyer",
         "promoterId": "insomnia",
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=5",
         "status": "linked-promoter"
@@ -4117,10 +8780,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Perception",
         "image": "flyer-museum-07.jpg",
         "year": 1991,
+        "dateText": "1991",
+        "eventType": "flyer",
         "promoterId": "perception",
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=6",
         "status": "linked-promoter"
@@ -4131,10 +8798,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Monkey Island",
         "image": "flyer-museum-08.jpg",
         "year": 1992,
+        "dateText": "1992",
+        "eventType": "flyer",
         "promoterId": "delirium-promotions",
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=7",
         "status": "linked-promoter"
@@ -4145,10 +8816,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Freedom",
         "image": "flyer-museum-09.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": "freedom",
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=8",
         "status": "linked-promoter"
@@ -4159,10 +8834,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Hypnosis",
         "image": "flyer-museum-10.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": "hypnosis",
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=9",
         "status": "linked-promoter"
@@ -4173,10 +8852,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Elevation",
         "image": "flyer-museum-11.jpg",
         "year": 1994,
+        "dateText": "1994",
+        "eventType": "flyer",
         "promoterId": "elevation",
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=10",
         "status": "linked-promoter"
@@ -4187,10 +8870,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Fantasy FM",
         "image": "flyer-museum-12.jpg",
         "year": 1991,
+        "dateText": "1991",
+        "eventType": "flyer",
         "promoterId": "fantasy-fm",
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=11",
         "status": "linked-promoter"
@@ -4201,10 +8888,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Badance / Batcave",
         "image": "flyer-museum-13.jpg",
         "year": 1989,
+        "dateText": "1989",
+        "eventType": "flyer",
         "promoterId": null,
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=12",
         "status": "review"
@@ -4215,10 +8906,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Hardcore",
         "image": "flyer-museum-14.jpg",
         "year": 1995,
+        "dateText": "1995",
+        "eventType": "flyer",
         "promoterId": null,
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=13",
         "status": "review"
@@ -4229,10 +8924,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Hyperaktive",
         "image": "flyer-museum-15.jpg",
         "year": 1991,
+        "dateText": "1991",
+        "eventType": "flyer",
         "promoterId": "hyperaktive",
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=14",
         "status": "linked-promoter"
@@ -4243,10 +8942,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Archive Flyer",
         "image": "flyer-museum-16.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": null,
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=15",
         "status": "review"
@@ -4257,10 +8960,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Archive Flyer",
         "image": "flyer-museum-17.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": null,
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=16",
         "status": "review"
@@ -4271,10 +8978,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Archive Flyer",
         "image": "flyer-museum-18.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": null,
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=17",
         "status": "review"
@@ -4285,10 +8996,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Archive Flyer",
         "image": "flyer-museum-19.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": null,
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=18",
         "status": "review"
@@ -4299,10 +9014,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Archive Flyer",
         "image": "flyer-museum-20.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": null,
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=19",
         "status": "review"
@@ -4313,10 +9032,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Archive Flyer",
         "image": "flyer-museum-21.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": null,
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=20",
         "status": "review"
@@ -4327,10 +9050,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Archive Flyer",
         "image": "flyer-museum-22.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": null,
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=21",
         "status": "review"
@@ -4341,10 +9068,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Archive Flyer",
         "image": "flyer-museum-23.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": null,
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=22",
         "status": "review"
@@ -4355,10 +9086,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Archive Flyer",
         "image": "flyer-museum-24.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": null,
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=23",
         "status": "review"
@@ -4369,10 +9104,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Archive Flyer",
         "image": "flyer-museum-25.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": null,
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=24",
         "status": "review"
@@ -4383,10 +9122,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Archive Flyer",
         "image": "flyer-museum-26.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": null,
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=25",
         "status": "review"
@@ -4397,10 +9140,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Archive Flyer",
         "image": "flyer-museum-27.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": null,
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=26",
         "status": "review"
@@ -4411,10 +9158,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Archive Flyer",
         "image": "flyer-museum-28.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": null,
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=27",
         "status": "review"
@@ -4425,10 +9176,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Archive Flyer",
         "image": "flyer-museum-29.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": null,
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=28",
         "status": "review"
@@ -4439,10 +9194,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Archive Flyer",
         "image": "flyer-museum-30.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": null,
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=29",
         "status": "review"
@@ -4453,10 +9212,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Archive Flyer",
         "image": "flyer-museum-31.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": null,
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=30",
         "status": "review"
@@ -4467,10 +9230,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Archive Flyer",
         "image": "flyer-museum-32.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": null,
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=31",
         "status": "review"
@@ -4481,10 +9248,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Archive Flyer",
         "image": "flyer-museum-33.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": null,
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=32",
         "status": "review"
@@ -4495,10 +9266,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Archive Flyer",
         "image": "flyer-museum-34.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": null,
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=33",
         "status": "review"
@@ -4509,10 +9284,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Archive Flyer",
         "image": "flyer-museum-35.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": null,
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=34",
         "status": "review"
@@ -4523,10 +9302,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Big Bad Head",
         "image": "flyer-museum-36.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": "big-bad-head",
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=35",
         "status": "linked-promoter"
@@ -4537,10 +9320,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "The Head",
         "image": "flyer-museum-37.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": "the-head",
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=36",
         "status": "linked-promoter"
@@ -4551,10 +9338,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Pleasuredome",
         "image": "flyer-museum-38.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": "pleasuredome",
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=37",
         "status": "linked-promoter"
@@ -4565,10 +9356,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Slammin' Vinyl",
         "image": "flyer-museum-39.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": "slammin-vinyl",
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=38",
         "status": "linked-promoter"
@@ -4579,10 +9374,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Wonderland",
         "image": "flyer-museum-40.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": "dgf-promotions",
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=39",
         "status": "linked-promoter"
@@ -4593,10 +9392,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Inspiration",
         "image": "flyer-museum-41.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": "inspiration",
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=40",
         "status": "linked-promoter"
@@ -4607,10 +9410,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Destiny",
         "image": "flyer-museum-42.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": "destiny",
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=41",
         "status": "linked-promoter"
@@ -4621,10 +9428,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Showtime '91",
         "image": "flyer-museum-43.jpg",
         "year": 1991,
+        "dateText": "1991",
+        "eventType": "flyer",
         "promoterId": "elevation-volatile-state",
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=42",
         "status": "linked-promoter"
@@ -4635,10 +9446,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Showtime '91",
         "image": "flyer-museum-44.jpg",
         "year": 1991,
+        "dateText": "1991",
+        "eventType": "flyer",
         "promoterId": "elevation-volatile-state",
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=43",
         "status": "linked-promoter"
@@ -4649,10 +9464,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Slammin' Vinyl",
         "image": "flyer-museum-45.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": "slammin-vinyl",
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=44",
         "status": "linked-promoter"
@@ -4663,10 +9482,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Ministry of Sound",
         "image": "flyer-museum-46.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": "ministry-of-sound",
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=45",
         "status": "linked-promoter"
@@ -4677,10 +9500,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Ministry of Sound",
         "image": "flyer-museum-47.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": "ministry-of-sound",
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=46",
         "status": "linked-promoter"
@@ -4691,10 +9518,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Ministry of Sound",
         "image": "flyer-museum-48.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": "ministry-of-sound",
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=47",
         "status": "linked-promoter"
@@ -4705,10 +9536,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Rhythm Station",
         "image": "flyer-museum-49.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": "rhythm-station",
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=48",
         "status": "linked-promoter"
@@ -4719,10 +9554,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "The Mousetrap",
         "image": "flyer-museum-50.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": "the-mousetrap",
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=49",
         "status": "linked-promoter"
@@ -4733,10 +9572,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Equinox",
         "image": "flyer-museum-51.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": "equinox",
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=50",
         "status": "linked-promoter"
@@ -4747,10 +9590,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Rave Event",
         "image": "flyer-museum-52.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": null,
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=51",
         "status": "review"
@@ -4761,10 +9608,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Rave Event",
         "image": "flyer-museum-53.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": null,
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=52",
         "status": "review"
@@ -4775,10 +9626,14 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Rave Event",
         "image": "flyer-museum-54.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": null,
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=53",
         "status": "review"
@@ -4789,109 +9644,832 @@ window.BTOS_MASTER_ARCHIVE = {
         "title": "Ministry of Sound",
         "image": "flyer-museum-55.jpg",
         "year": null,
+        "dateText": "",
+        "eventType": "flyer",
         "promoterId": "ministry-of-sound",
         "eventId": null,
         "venueId": null,
         "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
         "source": "Older Flyer Museum",
         "sourcePage": "flyer-record.html?id=54",
         "status": "linked-promoter"
+      },
+      {
+        "id": "flyer-056",
+        "type": "flyer",
+        "title": "Freek Brothers — The Rebirth",
+        "image": "1000013772.jpg",
+        "year": 1993,
+        "dateText": "24 December 1993",
+        "eventType": "all-nighter",
+        "promoterId": "freek-brothers",
+        "eventId": "freek-brothers-the-rebirth-1993",
+        "venueId": "marcus-garvey-centre-nottingham",
+        "artistIds": [
+          "elliot",
+          "marga",
+          "bad-boy-t",
+          "shock-c",
+          "freek-bros",
+          "mrb",
+          "easygroove",
+          "dj-lisa",
+          "tango",
+          "top-buzz",
+          "dj-skool-e",
+          "devastation",
+          "ll-dj",
+          "boing",
+          "stevee-k",
+          "cas-roc",
+          "christopher-stone",
+          "mc-vocal",
+          "mc-natz",
+          "mc-dug-e",
+          "jd-walker",
+          "scrapy-banton"
+        ],
+        "djIds": [
+          "elliot",
+          "marga",
+          "bad-boy-t",
+          "shock-c",
+          "freek-bros",
+          "mrb",
+          "easygroove",
+          "dj-lisa",
+          "tango",
+          "top-buzz",
+          "dj-skool-e",
+          "devastation",
+          "ll-dj",
+          "boing",
+          "stevee-k",
+          "cas-roc",
+          "christopher-stone"
+        ],
+        "mcIds": [
+          "mc-vocal",
+          "mc-natz",
+          "mc-dug-e",
+          "jd-walker",
+          "scrapy-banton"
+        ],
+        "source": "User-uploaded flyer batch",
+        "sourcePage": "",
+        "status": "verified-metadata"
+      },
+      {
+        "id": "flyer-057",
+        "type": "flyer",
+        "title": "Rave 99.3 FM — Saturday 10 November",
+        "image": "1000013773.jpg",
+        "year": null,
+        "dateText": "",
+        "eventType": "radio",
+        "promoterId": "rave-99-3-fm",
+        "eventId": "rave-99-3-fm-saturday-10-november-date-review",
+        "venueId": null,
+        "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
+        "source": "User-uploaded flyer batch",
+        "sourcePage": "",
+        "status": "date-review"
+      },
+      {
+        "id": "flyer-058",
+        "type": "flyer",
+        "title": "Censored at Langtrys",
+        "image": "1000013774.jpg",
+        "year": null,
+        "dateText": "Saturday 18 July",
+        "eventType": "club-night",
+        "promoterId": "censored",
+        "eventId": "censored-at-langtrys-date-review",
+        "venueId": "langtrys-beckenham",
+        "artistIds": [
+          "jay-stonghman",
+          "dominic",
+          "gary-hughes",
+          "gary-gluke",
+          "danny",
+          "scottie",
+          "horace"
+        ],
+        "djIds": [
+          "jay-stonghman",
+          "dominic",
+          "gary-hughes",
+          "gary-gluke",
+          "danny",
+          "scottie",
+          "horace"
+        ],
+        "mcIds": [],
+        "source": "User-uploaded flyer batch",
+        "sourcePage": "",
+        "status": "date-review"
+      },
+      {
+        "id": "flyer-059",
+        "type": "flyer",
+        "title": "A.M.A.S.H. — All Niter",
+        "image": "1000013775.jpg",
+        "year": 1990,
+        "dateText": "11 August 1990",
+        "eventType": "all-nighter",
+        "promoterId": "a-d-g-promotions",
+        "eventId": "a-m-a-s-h-all-niter-1990",
+        "venueId": "cedars-harrow-wealdstone",
+        "artistIds": [
+          "mole",
+          "agent-b",
+          "andy",
+          "fent-b"
+        ],
+        "djIds": [
+          "mole",
+          "agent-b",
+          "andy",
+          "fent-b"
+        ],
+        "mcIds": [],
+        "source": "User-uploaded flyer batch",
+        "sourcePage": "",
+        "status": "verified-metadata"
+      },
+      {
+        "id": "flyer-060",
+        "type": "flyer",
+        "title": "Cream at The Waterfront",
+        "image": "1000013776.jpg",
+        "year": null,
+        "dateText": "",
+        "eventType": "club-night",
+        "promoterId": "cream",
+        "eventId": "cream-at-the-waterfront-date-review",
+        "venueId": "the-waterfront",
+        "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
+        "source": "User-uploaded flyer batch",
+        "sourcePage": "",
+        "status": "date-review"
+      },
+      {
+        "id": "flyer-061",
+        "type": "flyer",
+        "title": "Love — Jooce III",
+        "image": "1000013778.jpg",
+        "year": null,
+        "dateText": "",
+        "eventType": "club-night",
+        "promoterId": "love",
+        "eventId": "love-jooce-iii-date-review",
+        "venueId": null,
+        "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
+        "source": "User-uploaded flyer batch",
+        "sourcePage": "",
+        "status": "date-review"
+      },
+      {
+        "id": "flyer-062",
+        "type": "flyer",
+        "title": "Urban People presents Bugalu",
+        "image": "1000013779.jpg",
+        "year": 1993,
+        "dateText": "11 April 1993",
+        "eventType": "club-night",
+        "promoterId": "urban-people",
+        "eventId": "urban-people-presents-bugalu-1993",
+        "venueId": "oasis-nightclub-new-york",
+        "artistIds": [
+          "dave-patterson",
+          "robert",
+          "scott-davis",
+          "urban-joe"
+        ],
+        "djIds": [
+          "dave-patterson",
+          "robert",
+          "scott-davis",
+          "urban-joe"
+        ],
+        "mcIds": [],
+        "source": "User-uploaded flyer batch",
+        "sourcePage": "",
+        "status": "verified-metadata"
+      },
+      {
+        "id": "flyer-063",
+        "type": "flyer",
+        "title": "Revisited",
+        "image": "1000013781.jpg",
+        "year": 1995,
+        "dateText": "28 April 1995",
+        "eventType": "reunion",
+        "promoterId": "revisited",
+        "eventId": "revisited-1995",
+        "venueId": null,
+        "artistIds": [
+          "stu-allan",
+          "daz-willot",
+          "exl",
+          "ratpack",
+          "fat-controller",
+          "ralf-ep",
+          "flo",
+          "carl-williams"
+        ],
+        "djIds": [
+          "stu-allan",
+          "daz-willot",
+          "exl",
+          "ratpack",
+          "fat-controller",
+          "ralf-ep",
+          "flo",
+          "carl-williams"
+        ],
+        "mcIds": [],
+        "source": "User-uploaded flyer batch",
+        "sourcePage": "",
+        "status": "verified-metadata"
+      },
+      {
+        "id": "flyer-064",
+        "type": "flyer",
+        "title": "Fun Factory — Happy Hardcore",
+        "image": "1000013782.jpg",
+        "year": null,
+        "dateText": "",
+        "eventType": "club-night",
+        "promoterId": "fun-factory",
+        "eventId": "fun-factory-happy-hardcore-date-review",
+        "venueId": null,
+        "artistIds": [
+          "dougal",
+          "vibes",
+          "grooverider",
+          "fallout",
+          "easy-d",
+          "andy-c",
+          "rude-boy-007",
+          "radical-kryme",
+          "ade-t",
+          "revolver"
+        ],
+        "djIds": [
+          "dougal",
+          "vibes",
+          "grooverider",
+          "fallout",
+          "easy-d",
+          "andy-c",
+          "rude-boy-007",
+          "radical-kryme",
+          "ade-t",
+          "revolver"
+        ],
+        "mcIds": [],
+        "source": "User-uploaded flyer batch",
+        "sourcePage": "",
+        "status": "date-review"
+      },
+      {
+        "id": "flyer-065",
+        "type": "flyer",
+        "title": "The Keyhole",
+        "image": "1000013783.jpg",
+        "year": null,
+        "dateText": "",
+        "eventType": "club-night",
+        "promoterId": "the-keyhole",
+        "eventId": "the-keyhole-date-review",
+        "venueId": null,
+        "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
+        "source": "User-uploaded flyer batch",
+        "sourcePage": "",
+        "status": "date-review"
+      },
+      {
+        "id": "flyer-066",
+        "type": "flyer",
+        "title": "Temptation — Valentine's Foam Party",
+        "image": "1000013785.jpg",
+        "year": 1992,
+        "dateText": "14 February 1992",
+        "eventType": "valentines",
+        "promoterId": "life-from-zero-promotions",
+        "eventId": "temptation-valentine-s-foam-party-1992",
+        "venueId": "international-east-of-england-ice-rink-peterborough",
+        "artistIds": [
+          "sasha",
+          "dave-seaman",
+          "fabio",
+          "mr-clubman",
+          "mc-e-mix"
+        ],
+        "djIds": [
+          "sasha",
+          "dave-seaman",
+          "fabio",
+          "mr-clubman"
+        ],
+        "mcIds": [
+          "mc-e-mix"
+        ],
+        "source": "User-uploaded flyer batch",
+        "sourcePage": "",
+        "status": "verified-metadata"
+      },
+      {
+        "id": "flyer-067",
+        "type": "flyer",
+        "title": "Essence at The Hangar",
+        "image": "1000013787.jpg",
+        "year": null,
+        "dateText": "",
+        "eventType": "club-night",
+        "promoterId": "essence",
+        "eventId": "essence-at-the-hangar-date-review",
+        "venueId": "the-hangar",
+        "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
+        "source": "User-uploaded flyer batch",
+        "sourcePage": "",
+        "status": "date-review"
+      },
+      {
+        "id": "flyer-068",
+        "type": "flyer",
+        "title": "Slammin' Vinyl Part IV — The Payback",
+        "image": "1000013788.jpg",
+        "year": null,
+        "dateText": "20 September",
+        "eventType": "all-nighter",
+        "promoterId": "slammin-vinyl",
+        "eventId": "slammin-vinyl-part-iv-the-payback-date-review",
+        "venueId": "bagleys-kings-cross-london",
+        "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
+        "source": "User-uploaded flyer batch",
+        "sourcePage": "",
+        "status": "date-review"
+      },
+      {
+        "id": "flyer-069",
+        "type": "flyer",
+        "title": "The Pleasuredome — Dance Your Ass Off",
+        "image": "1000013791.jpg",
+        "year": null,
+        "dateText": "27 February",
+        "eventType": "club-night",
+        "promoterId": "the-pleasuredome",
+        "eventId": "the-pleasuredome-dance-your-ass-off-date-review",
+        "venueId": "festival-pavilion-skegness",
+        "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
+        "source": "User-uploaded flyer batch",
+        "sourcePage": "",
+        "status": "date-review"
+      },
+      {
+        "id": "flyer-070",
+        "type": "flyer",
+        "title": "The Pleasuredome — Toe-Sucker",
+        "image": "1000013792.jpg",
+        "year": null,
+        "dateText": "21 November",
+        "eventType": "club-night",
+        "promoterId": "the-pleasuredome",
+        "eventId": "the-pleasuredome-toe-sucker-date-review",
+        "venueId": "festival-pavilion-skegness",
+        "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
+        "source": "User-uploaded flyer batch",
+        "sourcePage": "",
+        "status": "date-review"
+      },
+      {
+        "id": "flyer-071",
+        "type": "flyer",
+        "title": "Infinity Promotions — Infa-Nite",
+        "image": "1000013796.jpg",
+        "year": 1992,
+        "dateText": "3 April 1992",
+        "eventType": "all-nighter",
+        "promoterId": "infinity-promotions",
+        "eventId": "infinity-promotions-infa-nite-1992",
+        "venueId": "handsworth-leisure-centre-birmingham",
+        "artistIds": [
+          "jumping-jack-frost",
+          "frankie-valentine",
+          "simon-bassline-smith",
+          "mickey-finn",
+          "pilgrim",
+          "tyger",
+          "dj-milky",
+          "man-parris",
+          "bassman"
+        ],
+        "djIds": [
+          "jumping-jack-frost",
+          "frankie-valentine",
+          "simon-bassline-smith",
+          "mickey-finn",
+          "pilgrim",
+          "tyger",
+          "dj-milky"
+        ],
+        "mcIds": [
+          "man-parris",
+          "bassman"
+        ],
+        "source": "User-uploaded flyer batch",
+        "sourcePage": "",
+        "status": "verified-metadata"
+      },
+      {
+        "id": "flyer-072",
+        "type": "flyer",
+        "title": "Positivity",
+        "image": "1000013797.jpg",
+        "year": 1993,
+        "dateText": "16 April 1993",
+        "eventType": "club-night",
+        "promoterId": "positive-promotions",
+        "eventId": "positivity-1993",
+        "venueId": "sterns-nightclub-worthing",
+        "artistIds": [
+          "craig-walsh",
+          "brandon-block",
+          "pete-couzens",
+          "al-mckenzie",
+          "jeremy-healy",
+          "danny-rampling",
+          "scott-braithwaite",
+          "diy"
+        ],
+        "djIds": [
+          "craig-walsh",
+          "brandon-block",
+          "pete-couzens",
+          "al-mckenzie",
+          "jeremy-healy",
+          "danny-rampling",
+          "scott-braithwaite",
+          "diy"
+        ],
+        "mcIds": [],
+        "source": "User-uploaded flyer batch",
+        "sourcePage": "",
+        "status": "verified-metadata"
+      },
+      {
+        "id": "flyer-073",
+        "type": "flyer",
+        "title": "Techno Town",
+        "image": "1000013799.jpg",
+        "year": 1995,
+        "dateText": "12 May 1995",
+        "eventType": "club-night",
+        "promoterId": "the-edge",
+        "eventId": "techno-town-1995",
+        "venueId": "sheffield",
+        "artistIds": [
+          "easygroove",
+          "loftgroover",
+          "clarkee",
+          "mark-eg",
+          "syoshi",
+          "flo"
+        ],
+        "djIds": [
+          "easygroove",
+          "loftgroover",
+          "clarkee",
+          "mark-eg",
+          "syoshi",
+          "flo"
+        ],
+        "mcIds": [],
+        "source": "User-uploaded flyer batch",
+        "sourcePage": "",
+        "status": "verified-metadata"
+      },
+      {
+        "id": "flyer-074",
+        "type": "flyer",
+        "title": "Hardcore — You Know The Score",
+        "image": "1000013800.jpg",
+        "year": 1995,
+        "dateText": "26 May 1995",
+        "eventType": "club-night",
+        "promoterId": "the-edge",
+        "eventId": "hardcore-you-know-the-score-1995",
+        "venueId": null,
+        "artistIds": [
+          "mickey-finn",
+          "brisk",
+          "swanee",
+          "easy-d",
+          "pilgrim",
+          "exl",
+          "giles",
+          "nick-w",
+          "dzire"
+        ],
+        "djIds": [
+          "mickey-finn",
+          "brisk",
+          "swanee",
+          "easy-d",
+          "pilgrim",
+          "exl",
+          "giles",
+          "nick-w",
+          "dzire"
+        ],
+        "mcIds": [],
+        "source": "User-uploaded flyer batch",
+        "sourcePage": "",
+        "status": "verified-metadata"
+      },
+      {
+        "id": "flyer-075",
+        "type": "flyer",
+        "title": "Hyperactive",
+        "image": "1000013803.jpg",
+        "year": 1991,
+        "dateText": "14 July 1991",
+        "eventType": "club-night",
+        "promoterId": "mnp-promotions",
+        "eventId": "hyperactive-1991",
+        "venueId": "the-pleasuredrome-farnworth",
+        "artistIds": [
+          "nipper",
+          "fergus"
+        ],
+        "djIds": [
+          "nipper",
+          "fergus"
+        ],
+        "mcIds": [],
+        "source": "User-uploaded flyer batch",
+        "sourcePage": "",
+        "status": "verified-metadata"
+      },
+      {
+        "id": "flyer-076",
+        "type": "flyer",
+        "title": "Mustard",
+        "image": "1000013804.jpg",
+        "year": null,
+        "dateText": "Saturday 22 May",
+        "eventType": "club-night",
+        "promoterId": "mustard",
+        "eventId": "mustard-date-review",
+        "venueId": "cinecitta-discoteca-london-w1",
+        "artistIds": [
+          "pete-tyle",
+          "paul-stirling",
+          "toney-grimley",
+          "john-pierson"
+        ],
+        "djIds": [
+          "pete-tyle",
+          "paul-stirling",
+          "toney-grimley",
+          "john-pierson"
+        ],
+        "mcIds": [],
+        "source": "User-uploaded flyer batch",
+        "sourcePage": "",
+        "status": "date-review"
+      },
+      {
+        "id": "flyer-077",
+        "type": "flyer",
+        "title": "Wild at Heart",
+        "image": "1000013805.jpg",
+        "year": null,
+        "dateText": "",
+        "eventType": "club-night",
+        "promoterId": "wild-at-heart",
+        "eventId": "wild-at-heart-date-review",
+        "venueId": null,
+        "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
+        "source": "User-uploaded flyer batch",
+        "sourcePage": "",
+        "status": "date-review"
+      },
+      {
+        "id": "flyer-078",
+        "type": "flyer",
+        "title": "Deee-Lite — Infinity Within Album Launch",
+        "image": "1000013806.jpg",
+        "year": 1992,
+        "dateText": "18 June 1992",
+        "eventType": "album-launch",
+        "promoterId": "deee-lite",
+        "eventId": "deee-lite-infinity-within-album-launch-1992",
+        "venueId": "zatopek-linford-film-studios-battersea",
+        "artistIds": [
+          "dmitry-brill",
+          "towa-tei",
+          "princess-julia",
+          "jeffrey-hinton",
+          "harvey",
+          "luke-howard",
+          "lisa-loud"
+        ],
+        "djIds": [
+          "dmitry-brill",
+          "towa-tei",
+          "princess-julia",
+          "jeffrey-hinton",
+          "harvey",
+          "luke-howard",
+          "lisa-loud"
+        ],
+        "mcIds": [],
+        "source": "User-uploaded flyer batch",
+        "sourcePage": "",
+        "status": "verified-metadata"
+      },
+      {
+        "id": "flyer-079",
+        "type": "flyer",
+        "title": "Linford Studios Location Map",
+        "image": "1000013807.jpg",
+        "year": null,
+        "dateText": "",
+        "eventType": "map",
+        "promoterId": null,
+        "eventId": null,
+        "venueId": "linford-studios-battersea",
+        "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
+        "source": "User-uploaded flyer batch",
+        "sourcePage": "",
+        "status": "date-review"
+      },
+      {
+        "id": "flyer-080",
+        "type": "flyer",
+        "title": "This Little Piggy",
+        "image": "1000013808.jpg",
+        "year": null,
+        "dateText": "Saturday 22 May",
+        "eventType": "club-night",
+        "promoterId": "this-little-piggy",
+        "eventId": "this-little-piggy-date-review",
+        "venueId": "central-london",
+        "artistIds": [
+          "danny-rampling",
+          "greg-fenton",
+          "paul-harris",
+          "steve-sawa"
+        ],
+        "djIds": [
+          "danny-rampling",
+          "greg-fenton",
+          "paul-harris",
+          "steve-sawa"
+        ],
+        "mcIds": [],
+        "source": "User-uploaded flyer batch",
+        "sourcePage": "",
+        "status": "date-review"
+      },
+      {
+        "id": "flyer-081",
+        "type": "flyer",
+        "title": "Essence — Halloween",
+        "image": "1000013809.jpg",
+        "year": 1992,
+        "dateText": "31 October 1992",
+        "eventType": "halloween",
+        "promoterId": "new-order-promotions",
+        "eventId": "essence-halloween-1992",
+        "venueId": "the-hangar-west-wickham-cambridgeshire",
+        "artistIds": [
+          "carl-cox",
+          "top-buzz",
+          "colin-faver",
+          "evil-eddie-richards",
+          "dj-jd",
+          "ellis-dee",
+          "dj-face",
+          "dms",
+          "mc-nathan"
+        ],
+        "djIds": [
+          "carl-cox",
+          "top-buzz",
+          "colin-faver",
+          "evil-eddie-richards",
+          "dj-jd",
+          "ellis-dee",
+          "dj-face",
+          "dms"
+        ],
+        "mcIds": [
+          "mc-nathan"
+        ],
+        "source": "User-uploaded flyer batch",
+        "sourcePage": "",
+        "status": "verified-metadata"
+      },
+      {
+        "id": "flyer-082",
+        "type": "flyer",
+        "title": "Fun House Promotions — Equinox",
+        "image": "1000013810.jpg",
+        "year": null,
+        "dateText": "",
+        "eventType": "club-night",
+        "promoterId": "fun-house-promotions",
+        "eventId": "fun-house-promotions-equinox-date-review",
+        "venueId": "milwaukee-s",
+        "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
+        "source": "User-uploaded flyer batch",
+        "sourcePage": "",
+        "status": "date-review"
+      },
+      {
+        "id": "flyer-083",
+        "type": "flyer",
+        "title": "The Pleasuredome — 8 August",
+        "image": "1000013812.jpg",
+        "year": null,
+        "dateText": "8 August",
+        "eventType": "club-night",
+        "promoterId": "the-pleasuredome",
+        "eventId": "the-pleasuredome-8-august-date-review",
+        "venueId": "festival-pavilion-skegness",
+        "artistIds": [],
+        "djIds": [],
+        "mcIds": [],
+        "source": "User-uploaded flyer batch",
+        "sourcePage": "",
+        "status": "date-review"
+      },
+      {
+        "id": "flyer-084",
+        "type": "flyer",
+        "title": "Batdance",
+        "image": "1000013813.jpg",
+        "year": 1989,
+        "dateText": "22 July 1989",
+        "eventType": "acid-house",
+        "promoterId": "batdance",
+        "eventId": "batdance-1989",
+        "venueId": null,
+        "artistIds": [
+          "frankie-foncett",
+          "aj-in-the-mix",
+          "paul-trouble-anderson"
+        ],
+        "djIds": [
+          "frankie-foncett",
+          "aj-in-the-mix",
+          "paul-trouble-anderson"
+        ],
+        "mcIds": [],
+        "source": "User-uploaded flyer batch",
+        "sourcePage": "",
+        "status": "verified-metadata"
       }
     ],
-    "photos": [
-      {
-        "id": "photo-grooverider-2004",
-        "type": "photo",
-        "title": "Grooverider",
-        "image": "grooverider.jpg",
-        "year": 2004,
-        "artistIds": [
-          "grooverider"
-        ],
-        "eventIds": [],
-        "credit": "Alkivar · CC BY-SA 2.5",
-        "status": "verified"
-      },
-      {
-        "id": "photo-ltj-bukem",
-        "type": "photo",
-        "title": "LTJ Bukem",
-        "image": "ltj-bukem-profile.jpg",
-        "year": null,
-        "artistIds": [
-          "ltj-bukem"
-        ],
-        "eventIds": [],
-        "credit": "Wikimedia Commons source",
-        "status": "verified"
-      },
-      {
-        "id": "photo-dj-hype-2018",
-        "type": "photo",
-        "title": "DJ Hype at Egg London",
-        "image": "dj-hype-profile.jpg",
-        "year": 2018,
-        "artistIds": [
-          "dj-hype"
-        ],
-        "eventIds": [],
-        "credit": "Wikimedia Commons source",
-        "status": "verified"
-      },
-      {
-        "id": "photo-shy-fx",
-        "type": "photo",
-        "title": "Shy FX",
-        "image": "shy-fx-profile.jpg",
-        "year": null,
-        "artistIds": [
-          "shy-fx"
-        ],
-        "eventIds": [],
-        "credit": "Wikimedia Commons source",
-        "status": "verified"
-      },
-      {
-        "id": "photo-roni-size-2005",
-        "type": "photo",
-        "title": "Roni Size at the Savoy, Cork",
-        "image": "roni-size-profile.jpg",
-        "year": 2005,
-        "artistIds": [
-          "roni-size"
-        ],
-        "eventIds": [],
-        "credit": "Wikimedia Commons source",
-        "status": "verified"
-      },
-      {
-        "id": "photo-grooverider-flyer",
-        "type": "photo",
-        "title": "Grooverider archive flyer",
-        "image": "grooverider-flyer.jpg",
-        "year": null,
-        "artistIds": [
-          "grooverider"
-        ],
-        "eventIds": [],
-        "credit": "Older archive scan",
-        "status": "verified"
-      },
-      {
-        "id": "photo-mc-det-flyer",
-        "type": "photo",
-        "title": "MC Det archive flyer",
-        "image": "mcdet-flyer.jpg",
-        "year": null,
-        "artistIds": [
-          "mc-det"
-        ],
-        "eventIds": [],
-        "credit": "Older archive scan",
-        "status": "verified"
-      }
-    ],
+    "photos": [],
     "labels": [],
-    "stories": []
+    "stories": [
+      {
+        "id": "media-1000013811",
+        "type": "story",
+        "name": "Uploaded archive video 1000013811",
+        "media": "1000013811.mp4",
+        "status": "review",
+        "summary": "Uploaded with flyer batch; classification pending."
+      }
+    ]
   }
 };
