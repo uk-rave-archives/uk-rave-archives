@@ -1,1 +1,105 @@
-<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>DJs & MCs</title><link rel="stylesheet" href="artist-network-v1.css"><header class="museum-header"><a class="museum-logo" href="index.html"><img src="homepage-header-logo.png" alt="Back to the Old Skool Archive"></a><button class="menu-button" type="button">Menu</button><nav class="museum-nav"><a href="index.html">Home</a><a href="flyers.html">Flyers</a><a href="packs.html">Tape Packs</a><a class="active" href="djs.html">DJs &amp; MCs</a><a href="venues.html">Venues</a><a href="promoters.html">Promoters</a><a href="events.html">Timeline</a><a href="radio.html">Radio</a><a href="stories.html">Stories</a><a href="search.html">Search</a></nav></header><main><section class="network-hero"><p class="kicker">People of the archive</p><h1>DJs & MCs</h1><p>Browse artists documented across flyers, events, tape packs, recordings and video.</p></section><section class="directory"><div class="controls"><input id="artist-search" type="search" placeholder="Search DJ or MC…"><select id="role-filter"><option value="all">All roles</option><option value="DJ">DJs</option><option value="MC">MCs</option></select><select id="year-filter"><option value="all">All years</option></select></div><div id="artist-grid" class="artist-grid"></div><p id="artist-empty" hidden>No matching artists.</p></section></main><script src="artist-network-data.js"></script><script src="artist-network-v1.js"></script>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>DJ &amp; MC Archive | Back to the Old Skool Archive</title>
+<meta name="description" content="Explore the DJs and MCs who shaped UK rave culture.">
+<link rel="stylesheet" href="dj-mc-archive-locked.css">
+</head>
+<body>
+<header class="museum-header">
+  <a class="museum-logo" href="index.html" aria-label="Back to the Old Skool Archive home">
+    <img src="homepage-header-logo.png" alt="Back to the Old Skool Archive">
+  </a>
+  <button class="menu-button" type="button" aria-expanded="false" aria-controls="museum-nav">Menu</button>
+  <nav class="museum-nav" id="museum-nav" aria-label="Main navigation">
+    <a href="index.html">Home</a>
+    <a href="flyers.html">Flyers</a>
+    <a href="packs.html">Tape Packs</a>
+    <a class="active" href="djs.html">DJs &amp; MCs</a>
+    <a href="venues.html">Venues</a>
+    <a href="promoters.html">Promoters</a>
+    <a href="events.html">Timeline</a>
+    <a href="radio.html">Radio</a>
+    <a href="stories.html">Stories</a>
+    <a href="search.html">Search</a>
+  </nav>
+</header>
+
+<main>
+<section class="dj-hero">
+  <div class="hero-copy">
+    <h1>DJ &amp; MC Archive</h1>
+    <h2>The artists. The voices. The culture.</h2>
+    <p>The DJs and MCs who built the sound of a generation.<br>Explore their history, events, flyers, mixes and more.</p>
+  </div>
+</section>
+
+<section class="featured-wrap">
+  <article class="featured-artist">
+    <img src="grooverider.jpg" alt="Grooverider">
+    <div class="featured-copy">
+      <p class="section-label">Featured artist</p>
+      <h2>Grooverider</h2>
+      <p class="featured-text">A pioneering figure in UK rave, jungle and drum &amp; bass culture.</p>
+      <div class="featured-stats">
+        <div><small>First appearance</small><b id="featured-first"></b></div>
+        <div><small>Last appearance</small><b id="featured-last"></b></div>
+        <div><small>Flyer appearances</small><b id="featured-flyers"></b></div>
+        <div><small>Events linked</small><b id="featured-events"></b></div>
+      </div>
+    </div>
+    <a class="outline-button" href="artist.html?id=grooverider">View profile</a>
+  </article>
+</section>
+
+<section class="filter-row">
+  <div class="filter-box search-box">
+    <h3>Search DJs &amp; MCs</h3>
+    <label><input id="artist-search" type="search" placeholder="Search by name…"><span>⌕</span></label>
+  </div>
+
+  <div class="filter-box alphabet-box">
+    <h3>Browse by letter</h3>
+    <div class="alphabet" id="alphabet"></div>
+  </div>
+
+  <div class="filter-box role-box">
+    <h3>Filter by role</h3>
+    <div class="role-buttons">
+      <button class="active" data-role="all">View all</button>
+      <button data-role="dj">DJs</button>
+      <button data-role="mc">MCs</button>
+    </div>
+  </div>
+</section>
+
+<section class="directory-section">
+  <div class="directory-heading">
+    <h2>Artists directory <span id="artist-count"></span></h2>
+    <label>Sort by
+      <select id="sort-filter">
+        <option value="az">Name A–Z</option>
+        <option value="za">Name Z–A</option>
+        <option value="earliest">Earliest appearance</option>
+        <option value="latest">Latest appearance</option>
+      </select>
+    </label>
+  </div>
+  <div class="artist-grid" id="artist-grid"></div>
+  <p class="empty-state" id="empty-state" hidden>No artists match those filters.</p>
+</section>
+
+<section class="era-grid" aria-label="Browse by era">
+  <button data-era="1988-1992"><strong>Late 80s</strong><span>1988–1992</span></button>
+  <button data-era="1993-1996"><strong>Early 90s</strong><span>1993–1996</span></button>
+  <button data-era="1997-2000"><strong>Mid / Late 90s</strong><span>1997–2000</span></button>
+  <button data-era="2001-2005"><strong>2000s</strong><span>2001–2005</span></button>
+</section>
+</main>
+
+<script src="dj-mc-directory-data.js"></script>
+<script src="dj-mc-archive-locked.js"></script>
+</body>
+</html>
