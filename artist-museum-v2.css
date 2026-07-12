@@ -247,3 +247,30 @@ img{max-width:100%}
 .video-frame iframe{display:block;width:100%;height:100%;border:0}
 @media(max-width:900px){.video-grid{grid-template-columns:1fr 1fr}}
 @media(max-width:560px){.video-grid{grid-template-columns:1fr}}
+
+
+/* Phase 3.41 — YouTube comment tracklists */
+.youtube-tracklist{
+  margin-top:14px;border-top:1px solid rgba(255,255,255,.14);
+  background:rgba(0,0,0,.25)
+}
+.youtube-tracklist summary{
+  padding:13px 15px;color:var(--yellow);cursor:pointer;
+  text-transform:uppercase;font-size:11px;font-weight:900;letter-spacing:.08em
+}
+.youtube-tracklist ol{margin:0;padding:0;list-style:none;max-height:430px;overflow:auto}
+.youtube-tracklist li{
+  display:grid;grid-template-columns:64px minmax(115px,.65fr) 1fr auto;
+  gap:12px;align-items:start;padding:11px 14px;border-top:1px solid rgba(255,255,255,.08)
+}
+.youtube-tracklist li:hover{background:rgba(255,196,0,.04)}
+.track-time{color:var(--yellow);text-decoration:none;font-weight:900}
+.track-credit,.track-credit a{color:#ddd;text-decoration:none}
+.track-credit a:hover{color:var(--yellow)}
+.youtube-tracklist li strong{font-size:14px;line-height:1.35}
+.youtube-tracklist li small{color:#8f8a82;max-width:170px;text-align:right}
+@media(max-width:720px){
+  .youtube-tracklist li{grid-template-columns:55px 1fr}
+  .youtube-tracklist li strong,.youtube-tracklist li small{grid-column:2}
+  .youtube-tracklist li small{text-align:left}
+}

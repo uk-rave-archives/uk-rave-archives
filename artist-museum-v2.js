@@ -1,6 +1,8 @@
 
 const artists = window.BTOS_ARTISTS || [];
 const youtubeVideos = window.BTOS_YOUTUBE || [];
+const youtubeTracklists = window.BTOS_YOUTUBE_TRACKLISTS || [];
+const tracklistForVideo = videoId => youtubeTracklists.find(item => item.videoId === videoId && item.status === 'parsed');
 const params = new URLSearchParams(location.search);
 const artistId = params.get("id") || "";
 const artist = artists.find(item => item.id === artistId);
@@ -280,3 +282,5 @@ if (!publishable(artist)) {
     if(event.target===event.currentTarget) event.currentTarget.close();
   });
 }
+
+window.BTOS_TRACKLIST_FOR_VIDEO = tracklistForVideo;
