@@ -1,0 +1,34 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>YouTube Video Mapping Review</title>
+<style>
+body{margin:0;padding:28px;background:#080808;color:#eee;font:15px Arial}
+h1{color:#ffc400}.tools{display:flex;gap:10px;flex-wrap:wrap;margin:18px 0}
+input,select{padding:11px;background:#111;color:#fff;border:1px solid #555}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
+.card{background:#111;border:1px solid #444;overflow:hidden}.card img{width:100%;aspect-ratio:16/9;object-fit:cover}
+.body{padding:14px}.body b,.body span{display:block}.body span{color:#aaa;margin-top:6px}.mapped{border-color:#527a43}.unmapped{border-color:#8a6d2f}
+</style>
+<h1>YouTube Video Mapping Review</h1>
+<div class="tools">
+<input id="q" type="search" placeholder="Search title, artist or event">
+<select id="status"><option value="all">All records</option><option value="mapped">Mapped</option><option value="unmapped">Needs review</option></select>
+</div>
+<div class="grid" id="grid"></div>
+<script src="youtube-archive-data.js"></script>
+<script>
+const videos=window.BTOS_YOUTUBE||[],grid=document.querySelector("#grid"),q=document.querySelector("#q"),status=document.querySelector("#status");
+function draw(){
+ const term=q.value.toLowerCase(),s=status.value;
+ const rows=videos.filter(v=>{
+  const mapped=(v.artists||[]).length&&v.year;
+  const text=[v.title,v.event,(v.artists||[]).join(" "),v.year].join(" ").toLowerCase();
+  return (!term||text.includes(term))&&(s==="all"||(s==="mapped"&&mapped)||(s==="unmapped"&&!mapped));
+ });
+ grid.innerHTML=rows.map(v=>{
+  const mapped=(v.artists||[]).length&&v.year;
+  return `<article class="card ${mapped?"mapped":"unmapped"}"><img src="${v.thumbnail}" onerror="this.src='https://i.ytimg.com/vi/${v.id}/hqdefault.jpg'"><div class="body"><b>${v.title}</b><span>${v.displayType||v.type} · ${v.year||"Year review"} · ${(v.artists||[]).join(", ")||"Artist review"}</span><span>${v.event||""}</span></div></article>`;
+ }).join("");
+}
+q.addEventListener("input",draw);status.addEventListener("change",draw);draw();
+</script>

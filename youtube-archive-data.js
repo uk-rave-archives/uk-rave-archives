@@ -426,5 +426,190 @@ window.BTOS_YOUTUBE = [
     "displayType": "Radio set",
     "sourceCredit": "HappyHardcore95to99 Backup",
     "description": "Kiss 100 FM · 17 June 1997 · 1997"
+  },
+  {
+    "id": "2hqf95rUu6c",
+    "title": "Bonkers 7 - Millennium Fever (1999) - CD 3 (Sy)",
+    "year": 1999,
+    "type": "dj-mix",
+    "artists": [
+      "sy"
+    ],
+    "trackAppearances": [],
+    "event": "Bonkers 7 - Millennium Fever",
+    "url": "https://www.youtube.com/watch?v=2hqf95rUu6c",
+    "thumbnail": "https://i.ytimg.com/vi/2hqf95rUu6c/maxresdefault.jpg",
+    "thumbnailFallbacks": [
+      "https://i.ytimg.com/vi/2hqf95rUu6c/hqdefault.jpg",
+      "https://i.ytimg.com/vi/2hqf95rUu6c/mqdefault.jpg",
+      "https://i.ytimg.com/vi/2hqf95rUu6c/default.jpg"
+    ],
+    "channel": "happyhardcore95to99(take2)",
+    "channelUrl": "https://www.youtube.com/@happyhardcore95to99backup",
+    "displayType": "DJ mix / compilation",
+    "sourceCredit": "HappyHardcore95to99 Backup",
+    "description": "Bonkers 7 - Millennium Fever · 1999",
+    "reviewStatus": "mapped"
+  },
+  {
+    "id": "kypvKWOjvJQ",
+    "title": "Brisk - Set Free",
+    "year": 1997,
+    "type": "track",
+    "artists": [
+      "brisk"
+    ],
+    "trackAppearances": [],
+    "event": "Set Free",
+    "url": "https://www.youtube.com/watch?v=kypvKWOjvJQ",
+    "thumbnail": "https://i.ytimg.com/vi/kypvKWOjvJQ/maxresdefault.jpg",
+    "thumbnailFallbacks": [
+      "https://i.ytimg.com/vi/kypvKWOjvJQ/hqdefault.jpg",
+      "https://i.ytimg.com/vi/kypvKWOjvJQ/mqdefault.jpg",
+      "https://i.ytimg.com/vi/kypvKWOjvJQ/default.jpg"
+    ],
+    "channel": "happyhardcore95to99(take2)",
+    "channelUrl": "https://www.youtube.com/@happyhardcore95to99backup",
+    "displayType": "Track / release",
+    "sourceCredit": "HappyHardcore95to99 Backup",
+    "description": "Set Free · 1997",
+    "reviewStatus": "mapped"
+  },
+  {
+    "id": "YPdiDExbxJE",
+    "title": "Sy & Demo - Killer",
+    "year": 1997,
+    "type": "track",
+    "artists": [
+      "sy",
+      "demo"
+    ],
+    "trackAppearances": [],
+    "event": "Killer",
+    "url": "https://www.youtube.com/watch?v=YPdiDExbxJE",
+    "thumbnail": "https://i.ytimg.com/vi/YPdiDExbxJE/maxresdefault.jpg",
+    "thumbnailFallbacks": [
+      "https://i.ytimg.com/vi/YPdiDExbxJE/hqdefault.jpg",
+      "https://i.ytimg.com/vi/YPdiDExbxJE/mqdefault.jpg",
+      "https://i.ytimg.com/vi/YPdiDExbxJE/default.jpg"
+    ],
+    "channel": "happyhardcore95to99(take2)",
+    "channelUrl": "https://www.youtube.com/@happyhardcore95to99backup",
+    "displayType": "Track / release",
+    "sourceCredit": "HappyHardcore95to99 Backup",
+    "description": "Killer · 1997",
+    "reviewStatus": "mapped"
+  },
+  {
+    "id": "oFqZQbxiyVY",
+    "title": "DJ Colin Bell - 'Turn Up The Music' - Happy Hardcore Vinyl Mix",
+    "year": null,
+    "type": "dj-mix",
+    "artists": [
+      "colin-bell"
+    ],
+    "trackAppearances": [],
+    "event": "Turn Up The Music",
+    "url": "https://www.youtube.com/watch?v=oFqZQbxiyVY",
+    "thumbnail": "https://i.ytimg.com/vi/oFqZQbxiyVY/maxresdefault.jpg",
+    "thumbnailFallbacks": [
+      "https://i.ytimg.com/vi/oFqZQbxiyVY/hqdefault.jpg",
+      "https://i.ytimg.com/vi/oFqZQbxiyVY/mqdefault.jpg",
+      "https://i.ytimg.com/vi/oFqZQbxiyVY/default.jpg"
+    ],
+    "channel": "happyhardcore95to99(take2)",
+    "channelUrl": "https://www.youtube.com/@happyhardcore95to99backup",
+    "displayType": "DJ mix / compilation",
+    "sourceCredit": "HappyHardcore95to99 Backup",
+    "description": "Turn Up The Music",
+    "reviewStatus": "mapped"
+  },
+  {
+    "id": "XDMSX--9akg",
+    "title": "Hardcore Happiness Vol. 1 (1995)",
+    "year": 1995,
+    "type": "compilation",
+    "artists": [],
+    "trackAppearances": [],
+    "event": "Hardcore Happiness Vol. 1",
+    "url": "https://www.youtube.com/watch?v=XDMSX--9akg",
+    "thumbnail": "https://i.ytimg.com/vi/XDMSX--9akg/maxresdefault.jpg",
+    "thumbnailFallbacks": [
+      "https://i.ytimg.com/vi/XDMSX--9akg/hqdefault.jpg",
+      "https://i.ytimg.com/vi/XDMSX--9akg/mqdefault.jpg",
+      "https://i.ytimg.com/vi/XDMSX--9akg/default.jpg"
+    ],
+    "channel": "happyhardcore95to99(take2)",
+    "channelUrl": "https://www.youtube.com/@happyhardcore95to99backup",
+    "displayType": "Compilation",
+    "sourceCredit": "HappyHardcore95to99 Backup",
+    "description": "Hardcore Happiness Vol. 1 · 1995",
+    "reviewStatus": "unmapped"
+  },
+  {
+    "id": "EIu28VEQ42I",
+    "title": "Happy Hardcore Anthems (1996) - CD 1",
+    "year": 1996,
+    "type": "compilation",
+    "artists": [],
+    "trackAppearances": [],
+    "event": "Happy Hardcore Anthems",
+    "url": "https://www.youtube.com/watch?v=EIu28VEQ42I",
+    "thumbnail": "https://i.ytimg.com/vi/EIu28VEQ42I/maxresdefault.jpg",
+    "thumbnailFallbacks": [
+      "https://i.ytimg.com/vi/EIu28VEQ42I/hqdefault.jpg",
+      "https://i.ytimg.com/vi/EIu28VEQ42I/mqdefault.jpg",
+      "https://i.ytimg.com/vi/EIu28VEQ42I/default.jpg"
+    ],
+    "channel": "happyhardcore95to99(take2)",
+    "channelUrl": "https://www.youtube.com/@happyhardcore95to99backup",
+    "displayType": "Compilation",
+    "sourceCredit": "HappyHardcore95to99 Backup",
+    "description": "Happy Hardcore Anthems · 1996",
+    "reviewStatus": "unmapped"
+  },
+  {
+    "id": "qdy8oTX0OKA",
+    "title": "Happy Hardcore Hysteria (1998) - CD 1",
+    "year": 1998,
+    "type": "compilation",
+    "artists": [],
+    "trackAppearances": [],
+    "event": "Happy Hardcore Hysteria",
+    "url": "https://www.youtube.com/watch?v=qdy8oTX0OKA",
+    "thumbnail": "https://i.ytimg.com/vi/qdy8oTX0OKA/maxresdefault.jpg",
+    "thumbnailFallbacks": [
+      "https://i.ytimg.com/vi/qdy8oTX0OKA/hqdefault.jpg",
+      "https://i.ytimg.com/vi/qdy8oTX0OKA/mqdefault.jpg",
+      "https://i.ytimg.com/vi/qdy8oTX0OKA/default.jpg"
+    ],
+    "channel": "happyhardcore95to99(take2)",
+    "channelUrl": "https://www.youtube.com/@happyhardcore95to99backup",
+    "displayType": "Compilation",
+    "sourceCredit": "HappyHardcore95to99 Backup",
+    "description": "Happy Hardcore Hysteria · 1998",
+    "reviewStatus": "unmapped"
+  },
+  {
+    "id": "chRFjPPoXgY",
+    "title": "The Ultimate Happy Hardcore Collection (1996) - CD 2",
+    "year": 1996,
+    "type": "compilation",
+    "artists": [],
+    "trackAppearances": [],
+    "event": "The Ultimate Happy Hardcore Collection",
+    "url": "https://www.youtube.com/watch?v=chRFjPPoXgY",
+    "thumbnail": "https://i.ytimg.com/vi/chRFjPPoXgY/maxresdefault.jpg",
+    "thumbnailFallbacks": [
+      "https://i.ytimg.com/vi/chRFjPPoXgY/hqdefault.jpg",
+      "https://i.ytimg.com/vi/chRFjPPoXgY/mqdefault.jpg",
+      "https://i.ytimg.com/vi/chRFjPPoXgY/default.jpg"
+    ],
+    "channel": "happyhardcore95to99(take2)",
+    "channelUrl": "https://www.youtube.com/@happyhardcore95to99backup",
+    "displayType": "Compilation",
+    "sourceCredit": "HappyHardcore95to99 Backup",
+    "description": "The Ultimate Happy Hardcore Collection · 1996",
+    "reviewStatus": "unmapped"
   }
 ];
