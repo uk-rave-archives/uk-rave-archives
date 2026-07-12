@@ -1,0 +1,12 @@
+{
+  "phase": "3.54",
+  "restoredDesign": true,
+  "artistRecords": 178,
+  "changedFiles": [
+    "djs.html",
+    "dj-mc-directory-data.js",
+    "dj-mc-archive-locked.css",
+    "dj-mc-archive-locked.js",
+    "phase354-test.html"
+  ]
+}
