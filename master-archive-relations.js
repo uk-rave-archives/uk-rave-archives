@@ -15,6 +15,10 @@ window.BTOS_MASTER_RELATIONS = {
     "recordings": [
       "hs-grooverider-1991-a",
       "hs-grooverider-1991-b"
+    ],
+    "photos": [
+      "photo-grooverider-2004",
+      "photo-grooverider-flyer"
     ]
   },
   "tapePacks:origin-part-1-1994": {
@@ -454,11 +458,17 @@ window.BTOS_MASTER_RELATIONS = {
   "artists:dj-hype": {
     "videos": [
       "PbtOJ9o22I8"
+    ],
+    "photos": [
+      "photo-dj-hype-2018"
     ]
   },
   "artists:shy-fx": {
     "videos": [
       "PbtOJ9o22I8"
+    ],
+    "photos": [
+      "photo-shy-fx"
     ]
   },
   "events:tazzmania-1996-09-27": {
@@ -611,5 +621,310 @@ window.BTOS_MASTER_RELATIONS = {
       "sy"
     ]
   },
-  "videos:oFqZQbxiyVY": {}
+  "flyers:flyer-001": {
+    "promoters": [
+      "raindance"
+    ]
+  },
+  "promoters:raindance": {
+    "flyers": [
+      "flyer-001"
+    ]
+  },
+  "flyers:flyer-002": {
+    "promoters": [
+      "elevation-volatile-state"
+    ]
+  },
+  "promoters:elevation-volatile-state": {
+    "flyers": [
+      "flyer-002",
+      "flyer-043",
+      "flyer-044"
+    ]
+  },
+  "flyers:flyer-005": {
+    "promoters": [
+      "wonderland"
+    ]
+  },
+  "promoters:wonderland": {
+    "flyers": [
+      "flyer-005"
+    ]
+  },
+  "flyers:flyer-006": {
+    "promoters": [
+      "insomnia"
+    ]
+  },
+  "promoters:insomnia": {
+    "flyers": [
+      "flyer-006"
+    ]
+  },
+  "flyers:flyer-007": {
+    "promoters": [
+      "perception"
+    ]
+  },
+  "promoters:perception": {
+    "flyers": [
+      "flyer-007"
+    ]
+  },
+  "flyers:flyer-008": {
+    "promoters": [
+      "delirium-promotions"
+    ]
+  },
+  "promoters:delirium-promotions": {
+    "flyers": [
+      "flyer-008"
+    ]
+  },
+  "flyers:flyer-009": {
+    "promoters": [
+      "freedom"
+    ]
+  },
+  "promoters:freedom": {
+    "flyers": [
+      "flyer-009"
+    ]
+  },
+  "flyers:flyer-010": {
+    "promoters": [
+      "hypnosis"
+    ]
+  },
+  "promoters:hypnosis": {
+    "flyers": [
+      "flyer-010"
+    ]
+  },
+  "flyers:flyer-011": {
+    "promoters": [
+      "elevation"
+    ]
+  },
+  "promoters:elevation": {
+    "flyers": [
+      "flyer-011"
+    ]
+  },
+  "flyers:flyer-012": {
+    "promoters": [
+      "fantasy-fm"
+    ]
+  },
+  "promoters:fantasy-fm": {
+    "flyers": [
+      "flyer-012"
+    ]
+  },
+  "flyers:flyer-015": {
+    "promoters": [
+      "hyperaktive"
+    ]
+  },
+  "promoters:hyperaktive": {
+    "flyers": [
+      "flyer-015"
+    ]
+  },
+  "flyers:flyer-036": {
+    "promoters": [
+      "big-bad-head"
+    ]
+  },
+  "promoters:big-bad-head": {
+    "flyers": [
+      "flyer-036"
+    ]
+  },
+  "flyers:flyer-037": {
+    "promoters": [
+      "the-head"
+    ]
+  },
+  "promoters:the-head": {
+    "flyers": [
+      "flyer-037"
+    ]
+  },
+  "flyers:flyer-038": {
+    "promoters": [
+      "pleasuredome"
+    ]
+  },
+  "promoters:pleasuredome": {
+    "flyers": [
+      "flyer-038"
+    ]
+  },
+  "flyers:flyer-039": {
+    "promoters": [
+      "slammin-vinyl"
+    ]
+  },
+  "promoters:slammin-vinyl": {
+    "flyers": [
+      "flyer-039",
+      "flyer-045"
+    ]
+  },
+  "flyers:flyer-040": {
+    "promoters": [
+      "dgf-promotions"
+    ]
+  },
+  "promoters:dgf-promotions": {
+    "flyers": [
+      "flyer-040"
+    ]
+  },
+  "flyers:flyer-041": {
+    "promoters": [
+      "inspiration"
+    ]
+  },
+  "promoters:inspiration": {
+    "flyers": [
+      "flyer-041"
+    ]
+  },
+  "flyers:flyer-042": {
+    "promoters": [
+      "destiny"
+    ]
+  },
+  "promoters:destiny": {
+    "flyers": [
+      "flyer-042"
+    ]
+  },
+  "flyers:flyer-043": {
+    "promoters": [
+      "elevation-volatile-state"
+    ]
+  },
+  "flyers:flyer-044": {
+    "promoters": [
+      "elevation-volatile-state"
+    ]
+  },
+  "flyers:flyer-045": {
+    "promoters": [
+      "slammin-vinyl"
+    ]
+  },
+  "flyers:flyer-046": {
+    "promoters": [
+      "ministry-of-sound"
+    ]
+  },
+  "promoters:ministry-of-sound": {
+    "flyers": [
+      "flyer-046",
+      "flyer-047",
+      "flyer-048",
+      "flyer-055"
+    ]
+  },
+  "flyers:flyer-047": {
+    "promoters": [
+      "ministry-of-sound"
+    ]
+  },
+  "flyers:flyer-048": {
+    "promoters": [
+      "ministry-of-sound"
+    ]
+  },
+  "flyers:flyer-049": {
+    "promoters": [
+      "rhythm-station"
+    ]
+  },
+  "promoters:rhythm-station": {
+    "flyers": [
+      "flyer-049"
+    ]
+  },
+  "flyers:flyer-050": {
+    "promoters": [
+      "the-mousetrap"
+    ]
+  },
+  "promoters:the-mousetrap": {
+    "flyers": [
+      "flyer-050"
+    ]
+  },
+  "flyers:flyer-051": {
+    "promoters": [
+      "equinox"
+    ]
+  },
+  "promoters:equinox": {
+    "flyers": [
+      "flyer-051"
+    ]
+  },
+  "flyers:flyer-055": {
+    "promoters": [
+      "ministry-of-sound"
+    ]
+  },
+  "photos:photo-grooverider-2004": {
+    "artists": [
+      "grooverider"
+    ]
+  },
+  "photos:photo-ltj-bukem": {
+    "artists": [
+      "ltj-bukem"
+    ]
+  },
+  "artists:ltj-bukem": {
+    "photos": [
+      "photo-ltj-bukem"
+    ]
+  },
+  "photos:photo-dj-hype-2018": {
+    "artists": [
+      "dj-hype"
+    ]
+  },
+  "photos:photo-shy-fx": {
+    "artists": [
+      "shy-fx"
+    ]
+  },
+  "photos:photo-roni-size-2005": {
+    "artists": [
+      "roni-size"
+    ]
+  },
+  "artists:roni-size": {
+    "photos": [
+      "photo-roni-size-2005"
+    ]
+  },
+  "photos:photo-grooverider-flyer": {
+    "artists": [
+      "grooverider"
+    ]
+  },
+  "photos:photo-mc-det-flyer": {
+    "artists": [
+      "mc-det"
+    ]
+  },
+  "artists:mc-det": {
+    "photos": [
+      "photo-mc-det-flyer"
+    ]
+  }
 };

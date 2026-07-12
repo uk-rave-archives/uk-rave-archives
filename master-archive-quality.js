@@ -514,5 +514,425 @@ window.BTOS_MASTER_QUALITY = [
     "collection": "artists",
     "id": "colin-bell",
     "issue": "Relationship index references missing source"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-003",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-003",
+    "issue": "Flyer promoter/event relationship needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-004",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-004",
+    "issue": "Flyer promoter/event relationship needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-005",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-009",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-010",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-013",
+    "issue": "Flyer promoter/event relationship needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-014",
+    "issue": "Flyer promoter/event relationship needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-016",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-016",
+    "issue": "Flyer promoter/event relationship needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-017",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-017",
+    "issue": "Flyer promoter/event relationship needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-018",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-018",
+    "issue": "Flyer promoter/event relationship needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-019",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-019",
+    "issue": "Flyer promoter/event relationship needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-020",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-020",
+    "issue": "Flyer promoter/event relationship needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-021",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-021",
+    "issue": "Flyer promoter/event relationship needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-022",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-022",
+    "issue": "Flyer promoter/event relationship needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-023",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-023",
+    "issue": "Flyer promoter/event relationship needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-024",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-024",
+    "issue": "Flyer promoter/event relationship needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-025",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-025",
+    "issue": "Flyer promoter/event relationship needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-026",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-026",
+    "issue": "Flyer promoter/event relationship needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-027",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-027",
+    "issue": "Flyer promoter/event relationship needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-028",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-028",
+    "issue": "Flyer promoter/event relationship needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-029",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-029",
+    "issue": "Flyer promoter/event relationship needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-030",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-030",
+    "issue": "Flyer promoter/event relationship needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-031",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-031",
+    "issue": "Flyer promoter/event relationship needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-032",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-032",
+    "issue": "Flyer promoter/event relationship needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-033",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-033",
+    "issue": "Flyer promoter/event relationship needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-034",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-034",
+    "issue": "Flyer promoter/event relationship needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-035",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-035",
+    "issue": "Flyer promoter/event relationship needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-036",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-037",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-038",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-039",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-040",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-041",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-042",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-045",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-046",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-047",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-048",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-049",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-050",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-051",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-052",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-052",
+    "issue": "Flyer promoter/event relationship needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-053",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-053",
+    "issue": "Flyer promoter/event relationship needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-054",
+    "issue": "Flyer year needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-054",
+    "issue": "Flyer promoter/event relationship needs review"
+  },
+  {
+    "severity": "info",
+    "collection": "flyers",
+    "id": "flyer-055",
+    "issue": "Flyer year needs review"
   }
 ];
